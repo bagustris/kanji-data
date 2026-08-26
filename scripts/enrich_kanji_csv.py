@@ -441,9 +441,14 @@ def main():
 
     # Determine files
     if args.csv:
+        # A bare filename (no directory component, e.g. "kanji_n5.csv" per the
+        # usage examples above) resolves against kanji/ rather than the CWD,
+        # matching JLPT_FILES below; an explicit relative/absolute path is
+        # left untouched.
+        csv_path = args.csv if os.path.dirname(args.csv) else str(KANJI_DATA_ROOT / "kanji" / args.csv)
         basename = os.path.splitext(os.path.basename(args.csv))[0]
         level = basename.split("_")[-1].upper() if "_" in basename else "N5"
-        files = [(args.csv, level)]
+        files = [(csv_path, level)]
     else:
         files = [(f, lvl) for f, lvl in JLPT_FILES if os.path.exists(f)]
 

@@ -8,10 +8,13 @@ freq) from --src-dir, and writes into --output-dir:
     kanji-n{1-5}.json      one entry per kanji
     compounds-n{1-5}.json  deduped compound words per level
 
-It also always writes the same compound-word output into kanji-data's own
-compounds/jlpt-compounds-n{1-5}.json — the app-agnostic shared compounds
-domain — so that file regenerates automatically whenever anyone runs this
-script, regardless of which app's --output-dir it was pointed at.
+When --src-dir is the default (kanji-data's own kanji/), it also writes the
+same compound-word output into kanji-data's own compounds/jlpt-compounds-n{1-5}.json
+— the app-agnostic shared compounds domain — so that file regenerates
+automatically whenever anyone runs this script, regardless of which app's
+--output-dir it was pointed at. Skipped when --src-dir is overridden to
+something else (e.g. pointed at a local draft/test CSV set), so a one-off
+experiment can't clobber the shared file with non-canonical data.
 
 Prints fill-rate / parse-failure diagnostics so silent data loss doesn't
 ship into the app.
@@ -78,7 +81,7 @@ def dedup_key(word, reading):
     return f"{word} {reading}"
 
 
-def export_level(level, meta, stats, src_dir, out_dir):
+def export_level(level, meta, stats, src_dir, out_dir, write_shared_compounds):
     csv_path = src_dir / f"kanji_n{level}.csv"
     with open(csv_path, newline="", encoding="utf-8") as f:
         rows = list(csv.DictReader(f))
@@ -157,14 +160,17 @@ def export_level(level, meta, stats, src_dir, out_dir):
     with open(compounds_path, "w", encoding="utf-8") as f:
         json.dump(compound_entries, f, ensure_ascii=False, indent=1)
 
-    SHARED_COMPOUNDS_DIR.mkdir(parents=True, exist_ok=True)
-    shared_compounds_path = SHARED_COMPOUNDS_DIR / f"jlpt-compounds-n{level}.json"
-    with open(shared_compounds_path, "w", encoding="utf-8") as f:
-        json.dump(compound_entries, f, ensure_ascii=False, indent=1)
+    shared_note = ""
+    if write_shared_compounds:
+        SHARED_COMPOUNDS_DIR.mkdir(parents=True, exist_ok=True)
+        shared_compounds_path = SHARED_COMPOUNDS_DIR / f"jlpt-compounds-n{level}.json"
+        with open(shared_compounds_path, "w", encoding="utf-8") as f:
+            json.dump(compound_entries, f, ensure_ascii=False, indent=1)
+        shared_note = f", {shared_compounds_path.relative_to(SHARED_COMPOUNDS_DIR.parent)}"
 
     print(f"N{level}: {len(kanji_entries)} kanji (skipped {len(no_readings)} w/o readings), "
-          f"{len(compound_entries)} unique compounds -> {kanji_path.name}, {compounds_path.name}, "
-          f"{shared_compounds_path.relative_to(SHARED_COMPOUNDS_DIR.parent)}")
+          f"{len(compound_entries)} unique compounds -> {kanji_path.name}, {compounds_path.name}"
+          f"{shared_note}")
 
 
 def main():
@@ -174,6 +180,11 @@ def main():
     parser.add_argument("--output-dir", type=Path, default=DEFAULT_OUT_DIR,
                          help=f"Directory to write kanji-n{{1-5}}.json + compounds-n{{1-5}}.json into (default: {DEFAULT_OUT_DIR})")
     args = parser.parse_args()
+
+    write_shared_compounds = args.src_dir.resolve() == DEFAULT_SRC_DIR.resolve()
+    if not write_shared_compounds:
+        print(f"--src-dir differs from the default ({DEFAULT_SRC_DIR}); "
+              f"skipping the shared {SHARED_COMPOUNDS_DIR.name}/ write.\n")
 
     meta = load_metadata(args.src_dir)
     stats = {
@@ -186,7 +197,7 @@ def main():
     }
 
     for level in LEVELS:
-        export_level(level, meta, stats, args.src_dir, args.output_dir)
+        export_level(level, meta, stats, args.src_dir, args.output_dir, write_shared_compounds)
 
     print()
     print(f"Total compounds parsed: {stats['compounds_total']}")
