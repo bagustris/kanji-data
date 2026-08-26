@@ -67,9 +67,13 @@ sentences/
   examples.utf            raw Tanaka Corpus (indexed by word)
 
 stroke-order/
-  kanjivg/                2,136 stroke-order SVGs, filename = 5-hex-digit
-                          Unicode codepoint (e.g. 04e00.svg = 一), jōyō kanji
-                          only, from jed (partial mirror)
+  kanjivg/                2,383 stroke-order SVGs, filename = 5-hex-digit
+                          Unicode codepoint (e.g. 04e00.svg = 一) — the 2,136
+                          jōyō kanji mirrored from jed, plus 247 more fetched
+                          directly from KanjiVG upstream to cover kanji JLPT
+                          N1 uses that aren't jōyō (mostly 人名用漢字, name
+                          kanji) — see "About the jed data" below for how
+                          these two sources stay separate on refresh
 
 scripts/
   enrich_kanji_csv.py     adds sentence/kana/translation/radicals/confusables
@@ -97,18 +101,36 @@ standalone rather than via the combined CSV.
 Unlike kanji-slideshow/jlpt/kanji-drill/wanikanji (which fully consume this
 repo — their own local copies were removed), **jed keeps its own full local
 `data/` and deploys exactly as before**. `sentences/jed-kanji-sentences.json`
-and `stroke-order/kanjivg/` are a deliberately partial, periodically
-refreshed *mirror* of just the two pieces of jed's ~148MB dataset that are
-portable to other apps without also needing jed's JMdict search stack
-(`words/`/`index/` shards, ~120MB, are dictionary-search infrastructure
-specific to jed and are not mirrored here). To refresh: in jed, run
-`tools/build_data.py` → `tools/build_sentences.py` → `tools/build_furigana.py`
-(see jed's `tools/README.md`), then copy `data/kanjivg/` and
-`data/kanji-sentences.json` here. jed's `data/word-sentences.json` is keyed
-by JMdict sequence-id, unresolvable without also carrying jed's `words/`
-shards — no other app currently has JMdict seq-ids to look up with, so it
-isn't portable in its current form; bring it in later if an app wants
-word-level (not just kanji-level) sentence lookup.
+and 2,136 of the 2,383 files in `stroke-order/kanjivg/` are a deliberately
+partial, periodically refreshed *mirror* of just the two pieces of jed's
+~148MB dataset that are portable to other apps without also needing jed's
+JMdict search stack (`words/`/`index/` shards, ~120MB, are dictionary-search
+infrastructure specific to jed and are not mirrored here). To refresh: in
+jed, run `tools/build_data.py` → `tools/build_sentences.py` →
+`tools/build_furigana.py` (see jed's `tools/README.md`), then copy
+`data/kanji-sentences.json` here and **merge** (don't wholesale-replace)
+`data/kanjivg/` into `stroke-order/kanjivg/` — e.g. `cp -n
+<jed>/data/kanjivg/*.svg stroke-order/kanjivg/` (no-clobber) — since jed's
+own `data/kanjivg/` only ever has the 2,136 jōyō files and a naive directory
+replace would silently delete the 247 non-jōyō files below. jed's
+`data/word-sentences.json` is keyed by JMdict sequence-id, unresolvable
+without also carrying jed's `words/` shards — no other app currently has
+JMdict seq-ids to look up with, so it isn't portable in its current form;
+bring it in later if an app wants word-level (not just kanji-level)
+sentence lookup.
+
+### The other 247: JLPT N1's non-jōyō kanji
+
+247 of `stroke-order/kanjivg/`'s files are **not** part of the jed mirror —
+they're fetched directly from [KanjiVG upstream](https://github.com/KanjiVG/kanjivg)
+(same source, same CC BY-SA 3.0 licence jed's subset already carries) to
+cover the kanji JLPT N1 uses that fall outside the 2,136-character jōyō set
+jed mirrors (mostly 人名用漢字 — kanji used in names, e.g. 伊, 柚, 鴻). Verified
+as of this writing: 0 of jlpt's N1–N5 kanji are missing stroke-order data.
+If a future app or JLPT list revision introduces more non-jōyō kanji, refetch
+the same way: diff that app's kanji list against `stroke-order/kanjivg/`'s
+filenames, then `curl` each missing `{codepoint}.svg` from
+`https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/`.
 
 kotoba's learning engine is ported from kanji-drill's code, but it has no
 data dependency on kanji-drill or jed, so it may end up needing no

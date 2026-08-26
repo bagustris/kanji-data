@@ -84,9 +84,12 @@ was written from scratch specifically to demonstrate its target kanji/word.
 
 ## KanjiVG (`stroke-order/kanjivg/`)
 
-Stroke-order SVG diagrams, mirrored here from the
-[jed](https://github.com/bagustris/jed) app's own data (jōyō kanji only,
-2,136 characters — not KanjiVG's full ~11,000-character set).
+Stroke-order SVG diagrams. 2,136 of the 2,383 files here are mirrored from
+the [jed](https://github.com/bagustris/jed) app's own data (jōyō kanji
+only); the other 247 are fetched directly from
+[KanjiVG upstream](https://github.com/KanjiVG/kanjivg) to cover JLPT N1's
+non-jōyō (mostly 人名用漢字) kanji — same source and licence either way, not
+KanjiVG's full ~11,000-character set.
 
 - Copyright © Ulrich Apel — <http://kanjivg.tagaini.net/>
 - Licence: **Creative Commons Attribution-ShareAlike 3.0 (CC BY-SA 3.0)**
