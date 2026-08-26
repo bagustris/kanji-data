@@ -5,18 +5,19 @@
 // Unlike fetch-example-words.js (which ranks raw JMdict candidates by
 // frequency and needs a human to pick the ones worth keeping), Kanji alive's
 // example lists are already hand-curated per kanji by their team, so this
-// script writes directly into data/gradeN.json instead of a review file. It
-// never touches an entry that already has a non-empty `examples` array.
+// script writes directly into kanji/kyoiku-gradeN.json instead of a review
+// file. It never touches an entry that already has a non-empty `examples`
+// array.
 //
 // Source: https://github.com/kanjialive/kanji-data-media (CC BY 4.0 — see
 // CREDITS.md). Covers 1,235 kanji; entries for kanji outside that set are
 // left untouched (still no `examples` field, same as before this script ran
 // — js/app.js already renders nothing for that case).
 //
-// Node built-ins only (Node 18+). From a repo root:
-//   node tools/fetch-examples-kanjialive.js                  # fetch CSV over network
-//   node tools/fetch-examples-kanjialive.js --csv ka_data.csv  # use a local copy
-//   node tools/fetch-examples-kanjialive.js 1 6               # files matching "1", 6 examples each
+// Node built-ins only (Node 18+). From kanji-data's repo root (default --data kanji/):
+//   node scripts/kyoiku/fetch-examples-kanjialive.js                  # fetch CSV over network
+//   node scripts/kyoiku/fetch-examples-kanjialive.js --csv ka_data.csv  # use a local copy
+//   node scripts/kyoiku/fetch-examples-kanjialive.js 1 6               # files matching "1", 6 examples each
 
 'use strict';
 
@@ -27,7 +28,7 @@ const CSV_URL = 'https://raw.githubusercontent.com/kanjialive/kanji-data-media/m
 
 function parseArgs() {
   const args = process.argv.slice(2);
-  let dataDir = path.join(__dirname, '..', 'data');
+  let dataDir = path.join(__dirname, '..', '..', 'kanji');
   const di = args.indexOf('--data');
   if (di !== -1) {
     dataDir = path.resolve(args[di + 1] || '');

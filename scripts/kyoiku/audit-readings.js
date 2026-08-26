@@ -5,22 +5,23 @@
 // the non-word 生ま; the real reading is "う.む" (生む).
 //
 // It processes any *.json file whose entries look like kanji records ({kanji,
-// readings}), so it works on kanji-drill's data/gradeN.json AND jlpt's
-// data/kanji-nN.json unchanged. For WORD files ({word, ...}) use audit-words.js.
+// readings}), so it works on kanji-data's own kanji/kyoiku-gradeN.json (default)
+// AND, via --data, other repos' files like jlpt's data/kanji-nN.json unchanged.
+// For WORD files ({word, ...}) use audit-words.js.
 //
 // Readings/okurigana are *facts* (not copyrightable). This never touches — and
 // you must never copy — the example sentences or 熟語 selections from a
 // commercial 漢字ドリル / らくらくノート workbook; those are copyrighted.
 //
-// Node built-ins only (Node 18+ for global fetch). From a repo root:
-//   node tools/audit-readings.js                     # via kanjiapi.dev (needs network)
-//   node tools/audit-readings.js 1                   # only files whose name contains "1"
-//   node tools/audit-readings.js --data ../jlpt/data # audit another repo's data
+// Node built-ins only (Node 18+ for global fetch). From kanji-data's repo root:
+//   node scripts/kyoiku/audit-readings.js                     # via kanjiapi.dev (needs network), default --data kanji/
+//   node scripts/kyoiku/audit-readings.js 1                   # only files whose name contains "1"
+//   node scripts/kyoiku/audit-readings.js --data ../jlpt/data # audit another repo's data
 //
 // OFFLINE (recommended — no third-party API to be down): download KANJIDIC2 once
 // from https://www.edrdg.org/kanjidic/kanjidic2.xml.gz, gunzip it, then:
-//   node tools/audit-readings.js --kanjidic ~/kanjidic2.xml
-//   node tools/audit-readings.js --kanjidic ~/kanjidic2.xml --data ../jlpt/data
+//   node scripts/kyoiku/audit-readings.js --kanjidic ~/kanjidic2.xml
+//   node scripts/kyoiku/audit-readings.js --kanjidic ~/kanjidic2.xml --data ../jlpt/data
 //
 // Network mode caches to tools/.kanjiapi-cache.json (git-ignored, resumable);
 // --kanjidic mode uses the local file only and needs no cache or network.
@@ -40,7 +41,7 @@ const DELAY_MS = 120;
 // filename-substring filter.
 function parseArgs() {
   const args = process.argv.slice(2);
-  let dataDir = path.join(__dirname, '..', 'data');
+  let dataDir = path.join(__dirname, '..', '..', 'kanji');
   const di = args.indexOf('--data');
   if (di !== -1) {
     dataDir = path.resolve(args[di + 1] || '');

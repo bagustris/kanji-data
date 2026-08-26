@@ -11,7 +11,8 @@
 //   • kanjiapi.dev /v1/words/{kanji} (needs network).
 //
 // Processes any *.json whose entries look like kanji records ({kanji, readings}),
-// so it runs on kanji-drill's data/gradeN.json AND jlpt's data/kanji-nN.json.
+// so it runs on kanji-data's own kanji/kyoiku-gradeN.json (default) AND, via
+// --data, other repos' files like jlpt's data/kanji-nN.json.
 //
 // Output is a REVIEW file (example-words-report.json next to the data dir), not
 // a direct edit: JMdict lists many words per kanji, and which best reinforce the
@@ -21,13 +22,13 @@
 // Attribution: words/readings/glosses come from JMdict (© EDRDG, CC BY-SA 4.0).
 // Credit them wherever this data ships (see README credits / CREDITS.md).
 //
-// Node built-ins only (Node 18+). From a repo root:
-//   node tools/fetch-example-words.js --jmdict ~/JMdict_e          # offline (recommended)
-//   node tools/fetch-example-words.js --jmdict ~/JMdict_e 1 6      # files matching "1", 6 words each
-//   node tools/fetch-example-words.js --jmdict ~/JMdict_e --data ../jlpt/data
-//   node tools/fetch-example-words.js                              # via kanjiapi.dev (needs network)
+// Node built-ins only (Node 18+). From kanji-data's repo root:
+//   node scripts/kyoiku/fetch-example-words.js --jmdict ~/JMdict_e          # offline (recommended), default --data kanji/
+//   node scripts/kyoiku/fetch-example-words.js --jmdict ~/JMdict_e 1 6      # files matching "1", 6 words each
+//   node scripts/kyoiku/fetch-example-words.js --jmdict ~/JMdict_e --data ../jlpt/data
+//   node scripts/kyoiku/fetch-example-words.js                              # via kanjiapi.dev (needs network)
 //
-// Network mode caches to tools/.kanjiapi-words-cache.json (git-ignored, resumable).
+// Network mode caches to scripts/kyoiku/.kanjiapi-words-cache.json (git-ignored, resumable).
 
 'use strict';
 
@@ -42,7 +43,7 @@ const DELAY_MS = 120;
 
 function parseArgs() {
   const args = process.argv.slice(2);
-  let dataDir = path.join(__dirname, '..', 'data');
+  let dataDir = path.join(__dirname, '..', '..', 'kanji');
   const di = args.indexOf('--data');
   if (di !== -1) {
     dataDir = path.resolve(args[di + 1] || '');

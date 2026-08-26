@@ -22,7 +22,7 @@ project is not affiliated with or endorsed by WaniKani.
 Because this data is CC BY-SA, redistributing it (or derived works) must
 keep this attribution and remain under a compatible share-alike licence.
 
-## KRADFILE (`sources/kradfile`)
+## KRADFILE (`radicals/kradfile`)
 
 Kanji-to-radical decomposition table, originally compiled by Jim Rose at
 Kanji Cafe (`KRADFILE2`), now maintained by EDRDG.
@@ -30,27 +30,27 @@ Kanji Cafe (`KRADFILE2`), now maintained by EDRDG.
 - Licence: EDRDG licence (as above), CC BY-SA 4.0-compatible.
 - <https://www.edrdg.org/krad/kradinf.html>
 
-## Tanaka Corpus (`sources/examples.utf`)
+## Tanaka Corpus (`sentences/examples.utf`)
 
 Indexed example sentences, originally from the Tanaka Corpus
 (<https://tatoeba.org/>), distributed by EDRDG as part of
 `JMdict_e_examp.xml`. Used here in its original per-word-indexed form to
-back the `sentence`/`kana`/`translation` columns in `kanji_n{1-5}.csv`.
+back the `sentence`/`kana`/`translation` columns in `kanji/kanji_n{1-5}.csv`.
 
 - Licence: EDRDG licence (as above), CC BY-SA 4.0-compatible.
 
-## Kanjium pitch-accent database (`sources/accents_kanjium.txt`)
+## Kanjium pitch-accent database (`compounds/accents_kanjium.txt`)
 
 Word/reading → pitch-accent-kernel-position data, from the
 [Kanjium](https://github.com/mifunetoshiro/kanjium) project by
 mifunetoshiro. Used by `scripts/add_pitch_accent.py` to annotate compound
-readings in `kanji_n{1-5}.csv` with their pitch accent. Kanjium does not
-publish a formal licence file; it's widely reused by other Japanese-study
-tooling (e.g. Yomichan/Yomitan) on an attribution basis — verify current
-terms at the source repo before any redistribution beyond this project's
-own apps.
+readings in `kanji/kanji_n{1-5}.csv` with their pitch accent. Kanjium does
+not publish a formal licence file; it's widely reused by other
+Japanese-study tooling (e.g. Yomichan/Yomitan) on an attribution basis —
+verify current terms at the source repo before any redistribution beyond
+this project's own apps.
 
-## JMdict / KANJIDIC via kanjiapi.dev (`kanji-drill/data/grade{1-9}.json`, `words{1-9}.json`)
+## JMdict / KANJIDIC via kanjiapi.dev (`kanji/kyoiku-grade{1-9}.json`, `words/kyoiku-words{1-9}.json`)
 
 > This project uses the JMdict, KANJIDIC and related dictionary files. These
 > files are the property of the [Electronic Dictionary Research and
@@ -61,14 +61,14 @@ own apps.
 - Licence: CC BY-SA 4.0 (as above).
 - Fetched via the free [kanjiapi.dev](https://kanjiapi.dev/) service, which
   redistributes JMdict/KANJIDIC under the same licence — see
-  `kanji-drill/tools/audit-readings.js`, `audit-words.js`,
+  `scripts/kyoiku/audit-readings.js`, `audit-words.js`,
   `fetch-example-words.js`.
 
-## Kanji alive (some example words, `kanji-drill/data/grade{1-9}.json`)
+## Kanji alive (some example words, `kanji/kyoiku-grade{1-9}.json`)
 
 Where JMdict-based curation hadn't reached a kanji yet, its `examples` were
 backfilled from the [Kanji alive](https://kanjialive.com) project's
-language-data CSV via `kanji-drill/tools/fetch-examples-kanjialive.js`.
+language-data CSV via `scripts/kyoiku/fetch-examples-kanjialive.js`.
 
 - Source: <https://github.com/kanjialive/kanji-data-media>
   (`language-data/ka_data.csv`)
@@ -76,13 +76,13 @@ language-data CSV via `kanji-drill/tools/fetch-examples-kanjialive.js`.
 - Licence: CC BY 4.0 — <https://creativecommons.org/licenses/by/4.0/>
   (attribution-only, unlike JMdict/KANJIDIC's share-alike above).
 
-## Original content (`kanji-drill/data/sentences{1-9}.json`)
+## Original content (`sentences/kyoiku-sentences{1-9}.json`)
 
 Example sentences are original content written for this project, not
 excerpts from any commercial textbook or dictionary corpus — each sentence
 was written from scratch specifically to demonstrate its target kanji/word.
 
-## KanjiVG (`jed/data/kanjivg/`)
+## KanjiVG (`stroke-order/kanjivg/`)
 
 Stroke-order SVG diagrams, mirrored here from the
 [jed](https://github.com/bagustris/jed) app's own data (jōyō kanji only,
@@ -92,11 +92,11 @@ Stroke-order SVG diagrams, mirrored here from the
 - Licence: **Creative Commons Attribution-ShareAlike 3.0 (CC BY-SA 3.0)**
   — <https://creativecommons.org/licenses/by-sa/3.0/>
 
-## Tanaka Corpus + furigana (`jed/data/kanji-sentences.json`)
+## Tanaka Corpus + furigana (`sentences/jed-kanji-sentences.json`)
 
 Per-kanji example sentences, mirrored here from jed's own data. Sourced
 from EDRDG's `JMdict_e_examp.xml` (Tanaka Corpus, same family as
-`sources/examples.utf` above), with furigana readings added by jed's
+`sentences/examples.utf` above), with furigana readings added by jed's
 `tools/build_furigana.py` from EDRDG's `examples.utf`.
 
 - Licence: EDRDG licence (as above), CC BY-SA 4.0-compatible.
@@ -109,5 +109,6 @@ assignments), not transcribed from any commercial workbook or app.
 
 ## License note
 
-Any redistribution of this repo's `kanji/`, `sources/`, `kanji-drill/`, or
-`jed/` directories should carry this file along with it.
+Any redistribution of this repo's `kanji/`, `radicals/`, `words/`,
+`compounds/`, `sentences/`, or `stroke-order/` directories should carry
+this file along with it.

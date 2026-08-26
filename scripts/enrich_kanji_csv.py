@@ -28,6 +28,7 @@ import json
 import logging
 import os
 import sys
+from pathlib import Path
 import time
 import urllib.parse
 import urllib.request
@@ -40,20 +41,22 @@ logger = logging.getLogger(__name__)
 # Config
 # ---------------------------------------------------------------------------
 
+KANJI_DATA_ROOT = Path(__file__).parent.parent
+
 KRADFILE_URL = "https://www.edrdg.org/pub/Nihongo/kradfile.gz"
-KRADFILE_PATH = "kradfile"
-KRADFILE_GZ_PATH = "kradfile.gz"
+KRADFILE_PATH = str(KANJI_DATA_ROOT / "radicals" / "kradfile")
+KRADFILE_GZ_PATH = str(KANJI_DATA_ROOT / "radicals" / "kradfile.gz")
 TANAKA_URL = "https://www.edrdg.org/pub/Nihongo/examples.utf.gz"
-TANAKA_GZ_PATH = "examples.utf.gz"
-TANAKA_PATH = "examples.utf"
+TANAKA_GZ_PATH = str(KANJI_DATA_ROOT / "sentences" / "examples.utf.gz")
+TANAKA_PATH = str(KANJI_DATA_ROOT / "sentences" / "examples.utf")
 MAX_SENTENCE_LEN = 30  # max Japanese chars in an example sentence
 
 JLPT_FILES = [
-    ("kanji_n5.csv", "N5"),
-    ("kanji_n4.csv", "N4"),
-    ("kanji_n3.csv", "N3"),
-    ("kanji_n2.csv", "N2"),
-    ("kanji_n1.csv", "N1"),
+    (str(KANJI_DATA_ROOT / "kanji" / "kanji_n5.csv"), "N5"),
+    (str(KANJI_DATA_ROOT / "kanji" / "kanji_n4.csv"), "N4"),
+    (str(KANJI_DATA_ROOT / "kanji" / "kanji_n3.csv"), "N3"),
+    (str(KANJI_DATA_ROOT / "kanji" / "kanji_n2.csv"), "N2"),
+    (str(KANJI_DATA_ROOT / "kanji" / "kanji_n1.csv"), "N1"),
 ]
 
 # ---------------------------------------------------------------------------

@@ -8,6 +8,11 @@ freq) from --src-dir, and writes into --output-dir:
     kanji-n{1-5}.json      one entry per kanji
     compounds-n{1-5}.json  deduped compound words per level
 
+It also always writes the same compound-word output into kanji-data's own
+compounds/jlpt-compounds-n{1-5}.json — the app-agnostic shared compounds
+domain — so that file regenerates automatically whenever anyone runs this
+script, regardless of which app's --output-dir it was pointed at.
+
 Prints fill-rate / parse-failure diagnostics so silent data loss doesn't
 ship into the app.
 
@@ -30,6 +35,7 @@ COMPOUND_RE = re.compile(r"^(.*?)\s*\(([^)]+)\)\s*=\s*(.*)$")
 # Defaults assume the script still lives at kanji-data/scripts/export_jlpt_web.py
 DEFAULT_SRC_DIR = Path(__file__).parent.parent / "kanji"
 DEFAULT_OUT_DIR = Path("data")
+SHARED_COMPOUNDS_DIR = Path(__file__).parent.parent / "compounds"
 
 
 def load_metadata(src_dir):
@@ -151,8 +157,14 @@ def export_level(level, meta, stats, src_dir, out_dir):
     with open(compounds_path, "w", encoding="utf-8") as f:
         json.dump(compound_entries, f, ensure_ascii=False, indent=1)
 
+    SHARED_COMPOUNDS_DIR.mkdir(parents=True, exist_ok=True)
+    shared_compounds_path = SHARED_COMPOUNDS_DIR / f"jlpt-compounds-n{level}.json"
+    with open(shared_compounds_path, "w", encoding="utf-8") as f:
+        json.dump(compound_entries, f, ensure_ascii=False, indent=1)
+
     print(f"N{level}: {len(kanji_entries)} kanji (skipped {len(no_readings)} w/o readings), "
-          f"{len(compound_entries)} unique compounds -> {kanji_path.name}, {compounds_path.name}")
+          f"{len(compound_entries)} unique compounds -> {kanji_path.name}, {compounds_path.name}, "
+          f"{shared_compounds_path.relative_to(SHARED_COMPOUNDS_DIR.parent)}")
 
 
 def main():

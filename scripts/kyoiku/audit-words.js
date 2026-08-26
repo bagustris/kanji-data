@@ -10,19 +10,20 @@
 //   • kanjiapi.dev (needs network; reuses fetch-example-words.js's cache).
 //
 // Processes any *.json whose entries look like word records, so it runs on
-// kanji-drill's data/wordsN.json AND jlpt's data/compounds-nN.json. For KANJI
-// files ({kanji, readings}) use audit-readings.js.
+// kanji-data's own words/kyoiku-wordsN.json (default) AND, via --data, other
+// repos' files like jlpt's data/compounds-nN.json. For KANJI files
+// ({kanji, readings}) use audit-readings.js.
 //
 // Readings are *facts*. This never copies example sentences or 熟語 selections
 // from a commercial 漢字ドリル / らくらくノート workbook — those are copyrighted.
 //
-// Node built-ins only (Node 18+). From a repo root:
-//   node tools/audit-words.js --jmdict ~/JMdict_e            # offline (recommended)
-//   node tools/audit-words.js --jmdict ~/JMdict_e --data ../jlpt/data
-//   node tools/audit-words.js                                # via kanjiapi.dev (needs network)
-//   node tools/audit-words.js words                          # only files whose name contains "words"
+// Node built-ins only (Node 18+). From kanji-data's repo root:
+//   node scripts/kyoiku/audit-words.js --jmdict ~/JMdict_e            # offline (recommended), default --data words/
+//   node scripts/kyoiku/audit-words.js --jmdict ~/JMdict_e --data ../jlpt/data
+//   node scripts/kyoiku/audit-words.js                                # via kanjiapi.dev (needs network)
+//   node scripts/kyoiku/audit-words.js words                          # only files whose name contains "words"
 //
-// Network mode caches to tools/.kanjiapi-words-cache.json (git-ignored, resumable).
+// Network mode caches to scripts/kyoiku/.kanjiapi-words-cache.json (git-ignored, resumable).
 
 'use strict';
 
@@ -37,7 +38,7 @@ const DELAY_MS = 120;
 
 function parseArgs() {
   const args = process.argv.slice(2);
-  let dataDir = path.join(__dirname, '..', 'data');
+  let dataDir = path.join(__dirname, '..', '..', 'words');
   const di = args.indexOf('--data');
   if (di !== -1) {
     dataDir = path.resolve(args[di + 1] || '');

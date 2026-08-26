@@ -1,10 +1,12 @@
-// Structural validator for data/sentencesN.json — enforces the invariants a
-// second-sentence-per-kanji expansion must not violate. Node built-ins only.
+// Structural validator for sentences/kyoiku-sentencesN.json — enforces the
+// invariants a second-sentence-per-kanji expansion must not violate. Node
+// built-ins only.
 //
-// Layout assumed: for grade N with K kanji (data/gradeN.json), the sentence
-// file holds the original K entries first (entry i <-> kanji i), optionally
-// followed by K new entries (entry K+i <-> kanji i). Each new entry is a
-// SECOND sentence for kanji i using a DIFFERENT target word than entry i.
+// Layout assumed: for grade N with K kanji (kanji/kyoiku-gradeN.json), the
+// sentence file holds the original K entries first (entry i <-> kanji i),
+// optionally followed by K new entries (entry K+i <-> kanji i). Each new
+// entry is a SECOND sentence for kanji i using a DIFFERENT target word than
+// entry i.
 //
 // Checks (all fatal):
 //   1. target is a literal substring of sentence      (highlightTarget needs it)
@@ -13,13 +15,15 @@
 //   4. sentence text is unique within the grade        (progress keys on it)
 //   5. a new entry's target differs from the original  (comprehensible-input goal)
 //
-// Usage: node tools/validate-sentences.js            (all grades)
-//        node tools/validate-sentences.js 1          (one grade)
+// Usage (from kanji-data's repo root):
+//   node scripts/kyoiku/validate-sentences.js            (all grades)
+//   node scripts/kyoiku/validate-sentences.js 1          (one grade)
 
 const fs = require('fs');
 const path = require('path');
 
-const DATA = path.join(__dirname, '..', 'data');
+const KANJI_DIR = path.join(__dirname, '..', '..', 'kanji');
+const SENTENCES_DIR = path.join(__dirname, '..', '..', 'sentences');
 const KANA = /^[぀-ゟ゠-ヿーー]+$/; // hira + kata + long marks
 
 function readingOk(r) {
@@ -67,8 +71,8 @@ function origTargetByKanji(kanji, originals) {
 }
 
 function validateGrade(n) {
-  const kanji = JSON.parse(fs.readFileSync(path.join(DATA, `grade${n}.json`), 'utf8'));
-  const sentences = JSON.parse(fs.readFileSync(path.join(DATA, `sentences${n}.json`), 'utf8'));
+  const kanji = JSON.parse(fs.readFileSync(path.join(KANJI_DIR, `kyoiku-grade${n}.json`), 'utf8'));
+  const sentences = JSON.parse(fs.readFileSync(path.join(SENTENCES_DIR, `kyoiku-sentences${n}.json`), 'utf8'));
   const K = kanji.length;
   const errors = [];
   const origMap = origTargetByKanji(kanji, sentences.slice(0, K));

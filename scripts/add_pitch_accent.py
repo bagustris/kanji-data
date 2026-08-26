@@ -126,18 +126,19 @@ def process_csv(csv_path, db, word_only):
 
 
 def main():
-    db_path = Path("accents_kanjium.txt")
+    kanji_data_root = Path(__file__).parent.parent
+    db_path = kanji_data_root / "compounds" / "accents_kanjium.txt"
     if not db_path.exists():
-        print("ERROR: accents_kanjium.txt not found. Run download step first.")
+        print(f"ERROR: {db_path} not found. Run download step first.")
         sys.exit(1)
 
     print("Loading accent database ...", end=" ", flush=True)
     db, word_only = load_accent_db(db_path)
     print(f"{len(db):,} entries, {len(word_only):,} unique words")
 
-    csv_files = sorted(Path(".").glob("kanji_n*.csv"))
+    csv_files = sorted((kanji_data_root / "kanji").glob("kanji_n*.csv"))
     if not csv_files:
-        print("No kanji_n*.csv files found in current directory.")
+        print(f"No kanji_n*.csv files found in {kanji_data_root / 'kanji'}.")
         sys.exit(1)
 
     totals = {"total": 0, "found": 0, "missing": 0, "skipped": 0}
