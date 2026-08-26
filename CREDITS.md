@@ -50,11 +50,43 @@ tooling (e.g. Yomichan/Yomitan) on an attribution basis — verify current
 terms at the source repo before any redistribution beyond this project's
 own apps.
 
+## JMdict / KANJIDIC via kanjiapi.dev (`kanji-drill/data/grade{1-9}.json`, `words{1-9}.json`)
+
+> This project uses the JMdict, KANJIDIC and related dictionary files. These
+> files are the property of the [Electronic Dictionary Research and
+> Development Group (EDRDG)](https://www.edrdg.org/), and are used in
+> conformance with the Group's licence.
+
+- Copyright © Electronic Dictionary Research and Development Group.
+- Licence: CC BY-SA 4.0 (as above).
+- Fetched via the free [kanjiapi.dev](https://kanjiapi.dev/) service, which
+  redistributes JMdict/KANJIDIC under the same licence — see
+  `kanji-drill/tools/audit-readings.js`, `audit-words.js`,
+  `fetch-example-words.js`.
+
+## Kanji alive (some example words, `kanji-drill/data/grade{1-9}.json`)
+
+Where JMdict-based curation hadn't reached a kanji yet, its `examples` were
+backfilled from the [Kanji alive](https://kanjialive.com) project's
+language-data CSV via `kanji-drill/tools/fetch-examples-kanjialive.js`.
+
+- Source: <https://github.com/kanjialive/kanji-data-media>
+  (`language-data/ka_data.csv`)
+- Copyright © Kanji alive.
+- Licence: CC BY 4.0 — <https://creativecommons.org/licenses/by/4.0/>
+  (attribution-only, unlike JMdict/KANJIDIC's share-alike above).
+
+## Original content (`kanji-drill/data/sentences{1-9}.json`)
+
+Example sentences are original content written for this project, not
+excerpts from any commercial textbook or dictionary corpus — each sentence
+was written from scratch specifically to demonstrate its target kanji/word.
+
 ## What is NOT from any workbook
 
-Kanji readings, meanings, and JLPT-level assignments are language facts
-taken from the dictionaries above, not transcribed from any commercial
-workbook or app.
+Kanji readings, meanings, and JLPT-level/grade assignments are language
+facts taken from the dictionaries above (or MEXT's 学年別漢字配当表 for grade
+assignments), not transcribed from any commercial workbook or app.
 
 ## License note
 
