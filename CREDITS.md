@@ -82,6 +82,25 @@ Example sentences are original content written for this project, not
 excerpts from any commercial textbook or dictionary corpus — each sentence
 was written from scratch specifically to demonstrate its target kanji/word.
 
+## KanjiVG (`jed/data/kanjivg/`)
+
+Stroke-order SVG diagrams, mirrored here from the
+[jed](https://github.com/bagustris/jed) app's own data (jōyō kanji only,
+2,136 characters — not KanjiVG's full ~11,000-character set).
+
+- Copyright © Ulrich Apel — <http://kanjivg.tagaini.net/>
+- Licence: **Creative Commons Attribution-ShareAlike 3.0 (CC BY-SA 3.0)**
+  — <https://creativecommons.org/licenses/by-sa/3.0/>
+
+## Tanaka Corpus + furigana (`jed/data/kanji-sentences.json`)
+
+Per-kanji example sentences, mirrored here from jed's own data. Sourced
+from EDRDG's `JMdict_e_examp.xml` (Tanaka Corpus, same family as
+`sources/examples.utf` above), with furigana readings added by jed's
+`tools/build_furigana.py` from EDRDG's `examples.utf`.
+
+- Licence: EDRDG licence (as above), CC BY-SA 4.0-compatible.
+
 ## What is NOT from any workbook
 
 Kanji readings, meanings, and JLPT-level/grade assignments are language
@@ -90,5 +109,5 @@ assignments), not transcribed from any commercial workbook or app.
 
 ## License note
 
-Any redistribution of this repo's `kanji/` or `sources/` directories should
-carry this file along with it.
+Any redistribution of this repo's `kanji/`, `sources/`, `kanji-drill/`, or
+`jed/` directories should carry this file along with it.

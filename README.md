@@ -4,19 +4,24 @@ Canonical kanji/vocab data shared across a family of Japanese-study apps
 ([kanji-slideshow](https://github.com/bagustris/kanji-slideshow),
 [jlpt](https://github.com/bagustris/jlpt),
 [kanji-drill](https://github.com/bagustris/kanji-drill),
-[wanikanji](https://github.com/bagustris/wanikanji), and — in later phases —
-[jed](https://github.com/bagustris/jed),
-[kotoba](https://github.com/bagustris/kotoba)). Each app previously kept its
-own copy of overlapping kanji/vocab data; this repo is the single source of
-truth, consumed by each app as a **git submodule**.
+[wanikanji](https://github.com/bagustris/wanikanji),
+[jed](https://github.com/bagustris/jed) (partial — see below), and —
+possibly — [kotoba](https://github.com/bagustris/kotoba)). Each app
+previously kept its own copy of overlapping kanji/vocab data; this repo is
+the shared home for data that's actually reused across more than one app,
+consumed as a **git submodule**.
 
-This is **phase 2** of that consolidation: it holds what kanji-slideshow,
-jlpt, kanji-drill, and wanikanji need. jed and kotoba have their own data
-shapes (a full JMdict-backed dictionary, and context-grouped vocab
-respectively) that will be folded in as later phases, without disturbing
-what's here. (kotoba's learning engine is ported from kanji-drill's code,
-but it has no data dependency on kanji-drill, so it may end up needing no
-migration at all.)
+This is **phase 3** of that consolidation. kanji-slideshow, jlpt,
+kanji-drill, and wanikanji fully consume this repo (their own local copies
+were removed; see each app's README for how). **jed is different: only a
+small, deliberately partial slice of its data lives here** (see `jed/`
+below) — jed has no cross-app coupling problem to fix, so it keeps its own
+full local `data/` and deploys exactly as before; this repo just holds a
+periodically-refreshed *mirror* of the two pieces of jed's data that are
+actually portable to other apps (kanji stroke-order animation, per-kanji
+example sentences). kotoba's learning engine is ported from kanji-drill's
+code, but it has no data dependency on kanji-drill or jed, so it may end up
+needing no migration at all.
 
 ## Layout
 
@@ -56,6 +61,30 @@ kanji-drill/   canonical Kyōiku/junior-high grade data (kanji-drill's own
              modes documented in tools/README.md) — audit-readings.js,
              audit-words.js, fetch-example-words.js,
              fetch-examples-kanjialive.js, jmdict.js, validate-sentences.js
+
+jed/   PARTIAL mirror of jed's data — only the pieces that are portable to
+       other apps without also needing jed's full JMdict search stack
+       (jed's `words/`/`index/` shards, ~120MB, are dictionary-search
+       infrastructure specific to jed itself and are deliberately NOT
+       mirrored here). jed remains the authoritative source and keeps its
+       own full local data/ — nothing here is consumed by jed itself.
+  data/
+    kanjivg/               2,136 stroke-order SVGs, filename = 5-hex-digit
+                            Unicode codepoint (e.g. 04e00.svg = 一), jōyō
+                            kanji only
+    kanji-sentences.json   per-kanji example sentences (with furigana),
+                            keyed directly by kanji character
+
+  To refresh this mirror after jed's data changes: in jed, run
+  `tools/build_data.py` → `tools/build_sentences.py` →
+  `tools/build_furigana.py` (see jed's `tools/README.md`), then copy
+  `data/kanjivg/` and `data/kanji-sentences.json` here.
+
+  Not mirrored (yet): jed's `data/word-sentences.json` is keyed by JMdict
+  sequence-id, which isn't resolvable without also carrying jed's `words/`
+  shards — no other app currently has JMdict seq-ids to look up with, so
+  it isn't portable in its current form. Bring it in later if an app wants
+  word-level (not just kanji-level) sentence lookup.
 ```
 
 ## Using this from a consuming app
@@ -98,5 +127,8 @@ CC BY-SA-compatible attribution required); `kradfile` is EDRDG's KRADFILE;
 `examples.utf` is the Tanaka Corpus (via EDRDG's `JMdict_e_examp.xml`);
 `accents_kanjium.txt` is the Kanjium pitch-accent database; `kanji-drill/`
 is JMdict/KANJIDIC (via kanjiapi.dev) and Kanji Alive data plus original
-hand-written sentences. Any redistribution of this repo's data should carry
+hand-written sentences; `jed/data/kanjivg/` is KanjiVG (CC BY-SA 3.0, ©
+Ulrich Apel) and `jed/data/kanji-sentences.json` is Tanaka Corpus (EDRDG
+licence, same family as `sources/examples.utf`) with furigana added by
+jed's build pipeline. Any redistribution of this repo's data should carry
 CREDITS.md along with it.
