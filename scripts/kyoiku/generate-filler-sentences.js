@@ -15,7 +15,8 @@
 // falls back to a kana-ending heuristic (kanji-drill's own augmented
 // okurigana words carry no tag) otherwise:
 //   - [v.t.] (transitive verb, may combine with v.i.) -> それを + verb
-//   - [v.i.] only                                     -> それは + verb
+//   - [v.i.] only                                     -> それが + verb (not
+//     それは — see the comment at the call site)
 //   - [adj.] tag, or untagged but ends in い            -> adjective
 //   - untagged but ends in a verb-ending kana (transitivity unknown)
 //                                                       -> bare verb, no
@@ -105,7 +106,12 @@ function fillerFor(word, meaning) {
     case 'transitive':
       return { sentence: `それを${word}。`, translation: verbTranslation(gloss, true) };
     case 'intransitive':
-      return { sentence: `それは${word}。`, translation: verbTranslation(gloss, false) };
+      // が, not は: 見つかる/助かる/整う/写る are all spontaneous-occurrence
+      // ("unaccusative") verbs, and Japanese defaults their subject to が in
+      // a flat, out-of-context sentence — は would read as topicalized/
+      // contrastive ("as for that, unlike other things, it gets found"),
+      // which is exactly the "something's off" feeling それは見つかる gives.
+      return { sentence: `それが${word}。`, translation: verbTranslation(gloss, false) };
     case 'verb-unknown-transitivity':
       // Neither それを nor それは — Japanese permits a bare zero-pronoun
       // verb sentence, and it's the only choice that's never wrong when
