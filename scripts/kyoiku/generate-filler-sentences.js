@@ -21,7 +21,13 @@
 //                                                       -> bare verb, no
 //                                                          subject/object
 //                                                          guessed
-//   - everything else                                  -> noun
+//   - everything else                                  -> noun, "X が
+//     好きです" ("I like X") rather than "これは X です" ("This is X") — the
+//     latter is a pointing/definitional construction that doesn't logically
+//     fit a lot of what ends up in this bucket (weather phenomena, abstract
+//     nouns, pairs like 男女/大小): "これは青空です. (This is a blue sky.)"
+//     reads as if pointing at a small object in your hand. "が好きです"
+//     carries no such presupposition and is grammatical for any noun.
 //
 // English translations deliberately never conjugate the gloss (no "-s", no
 // invented subject) — the gloss strings are free-form JMdict/curated text
@@ -63,11 +69,15 @@ function writeWords(relPath, words) {
   fs.writeFileSync(path.join(ROOT, relPath), lines.join('\n') + '\n', 'utf8');
 }
 
-// First alternative before a comma, tag stripped, capitalized — meanings
-// like "exchange, replace [v.t.]" or "be saved, survive [v.i.], helpful
-// [adj.]" carry several senses; the first is the primary one.
+// First alternative before a comma OR semicolon, tag stripped, capitalized —
+// meanings like "exchange, replace [v.t.]" or "up and down; population;
+// 3rd day" carry several senses (comma-separated near-synonyms, semicolon-
+// separated distinct senses); the first is the primary one.
 function primaryGloss(meaning) {
-  const firstSense = meaning.split(',')[0];
+  const cut = Math.min(
+    ...[',', ';'].map((sep) => { const i = meaning.indexOf(sep); return i === -1 ? Infinity : i; })
+  );
+  const firstSense = Number.isFinite(cut) ? meaning.slice(0, cut) : meaning;
   const stripped = firstSense.replace(/\s*\[[^\]]*\]\s*/g, '').trim();
   return stripped.charAt(0).toUpperCase() + stripped.slice(1);
 }
@@ -106,7 +116,8 @@ function fillerFor(word, meaning) {
     case 'na-adjective':
       return { sentence: `これはとても${word}です。`, translation: `This is very ${gloss.toLowerCase()}.` };
     default:
-      return { sentence: `これは${word}です。`, translation: `This is ${gloss.toLowerCase()}.` };
+      // See the file header for why this isn't "これは X です".
+      return { sentence: `${word}が好きです。`, translation: `I like ${gloss.toLowerCase()}.` };
   }
 }
 
