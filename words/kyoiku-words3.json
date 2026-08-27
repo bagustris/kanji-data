@@ -32,7 +32,7 @@
   { "word": "習う", "readings": ["ならう"], "meaning": "learn", "examples": [{"sentence":"字を習う。","translation":"Learn characters."}] },
   { "word": "習わし", "readings": ["ならわし"], "meaning": "customary practice", "examples": [{"sentence":"習わしが好きです。","translation":"I like customary practice."}] },
   { "word": "住む", "readings": ["すむ"], "meaning": "live", "examples": [{"sentence":"町に住む。","translation":"Live in the town."}] },
-  { "word": "住まい", "readings": ["すまい"], "meaning": "dwelling", "examples": [{"sentence":"これはとても住まい。","translation":"This is very dwelling."}] },
+  { "word": "住まい", "readings": ["すまい"], "meaning": "dwelling", "examples": [{"sentence":"住まいが好きです。","translation":"I like dwelling."}] },
   { "word": "暑い", "readings": ["あつい"], "meaning": "hot", "examples": [{"sentence":"夏は暑い。","translation":"Summer is hot."}] },
   { "word": "助ける", "readings": ["たすける"], "meaning": "help, save [v.t.]", "examples": [{"sentence":"友だちを助ける。","translation":"Help a friend."}] },
   { "word": "助かる", "readings": ["たすかる"], "meaning": "be saved, survive [v.i.], helpful [adj.]", "examples": [{"sentence":"それが助かる。","translation":"Be saved."}] },

@@ -48,7 +48,7 @@
   { "word": "怪しむ", "readings": ["あやしむ"], "meaning": "suspect [v.t.]", "examples": [{"sentence":"それを怪しむ。","translation":"Suspect it."}] },
   { "word": "恋う", "readings": ["こう"], "meaning": "love [v.t.]", "examples": [{"sentence":"それを恋う。","translation":"Love it."}] },
   { "word": "恋する", "readings": ["こいする"], "meaning": "love [v.t.]", "examples": [{"sentence":"それを恋する。","translation":"Love it."}] },
-  { "word": "恐らく", "readings": ["おそらく"], "meaning": "perhaps", "examples": [{"sentence":"恐らく。","translation":"Perhaps."}] },
+  { "word": "恐らく", "readings": ["おそらく"], "meaning": "perhaps", "examples": [{"sentence":"恐らく、明日は晴れるだろう。","translation":"It will perhaps be sunny tomorrow."}] },
   { "word": "恐れる", "readings": ["おそれる"], "meaning": "fear [v.t.]", "examples": [{"sentence":"大人はしばしば変化を恐れる。","translation":"Older people often fear change."}] },
   { "word": "恐ろしい", "readings": ["おそろしい"], "meaning": "terrible, dreadful", "examples": [{"sentence":"地震は恐ろしい。","translation":"Earthquakes are terrifying."}] },
   { "word": "恥ずかしい", "readings": ["はずかしい"], "meaning": "shy, be embarrassed", "examples": [{"sentence":"人前で話すのは恥ずかしい。","translation":"It's embarrassing to speak in front of people."}] },

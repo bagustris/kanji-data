@@ -83,10 +83,25 @@ function primaryGloss(meaning) {
   return stripped.charAt(0).toUpperCase() + stripped.slice(1);
 }
 
+// Deverbal nouns that happen to end in い (住まい "dwelling", not an i-
+// adjective) — an ending-い word is treated as an adjective by default
+// below, so these need to be excluded explicitly rather than guessed.
+// Extend this list if a future word hits the same false positive.
+const NOUN_I_EXCEPTIONS = new Set(['住まい', '匂い', '願い', '狙い', '幸い', '勢い', '戦い', '争い', '賑わい']);
+
+// Words that end in a verb-ending kana purely by coincidence (真の verbs,
+// not: 恐らく is the adverb "perhaps", not a verb ending in く) get their
+// own hand-written filler sentence outright, since no generic template
+// makes sense for them. Extend if another such false positive turns up.
+const HAND_WRITTEN = {
+  恐らく: { sentence: '恐らく、明日は晴れるだろう。', translation: 'It will perhaps be sunny tomorrow.' },
+};
+
 function classify(word, meaning) {
   const hasTag = (tag) => meaning.includes(`[${tag}`);
   if (hasTag('v.t.')) return 'transitive';
   if (hasTag('v.i.')) return 'intransitive';
+  if (NOUN_I_EXCEPTIONS.has(word)) return 'noun';
   if (hasTag('adj.')) return word.endsWith('い') ? 'i-adjective' : 'na-adjective';
   if (word.endsWith('い')) return 'i-adjective';
   if (VERB_ENDINGS.has(word[word.length - 1])) return 'verb-unknown-transitivity';
@@ -101,6 +116,7 @@ function verbTranslation(gloss, transitive) {
 }
 
 function fillerFor(word, meaning) {
+  if (HAND_WRITTEN[word]) return HAND_WRITTEN[word];
   const gloss = primaryGloss(meaning);
   switch (classify(word, meaning)) {
     case 'transitive':
