@@ -13,7 +13,7 @@ commercial くりかえし漢字ドリル / らくらくノート workbook — t
 | --- | --- | --- |
 | `audit-readings.js` | kanji readings not attested by KANJIDIC (e.g. `生 "う.ま"` → should be `う.む`) | kanji files: `../../kanji/kyoiku-gradeN.json` |
 | `audit-words.js` | word readings not attested by JMdict | word files: `../../words/kyoiku-wordsN.json` |
-| `augment-words.js` | adds okurigana words (from each kanji's own `examples`) and attaches example sentences (by exact target match) to `../../words/kyoiku-wordsN.json` | `../../kanji/kyoiku-gradeN.json` + `../../sentences/kyoiku-sentencesN.json` |
+| `augment-words.js` | adds okurigana words (hoisted ahead of compounds — from each kanji's own `examples`) and attaches example sentences (exact target match across all grades, falling back to `jed-kanji-sentences.json` by substring) to `../../words/kyoiku-wordsN.json` | `../../kanji/kyoiku-gradeN.json` + all `../../sentences/*.json` |
 | `fetch-example-words.js` | `example-words-report.json` — candidate 例語 per kanji to curate | kanji files: `../../kanji/kyoiku-gradeN.json` |
 | `fetch-examples-kanjialive.js` | backfills `examples` directly (no review file — see below) for kanji that don't have any yet | kanji files: `../../kanji/kyoiku-gradeN.json` |
 | `jmdict.js` | shared JMdict parser (not run directly) | — |
