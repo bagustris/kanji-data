@@ -120,26 +120,35 @@ function fillerFor(word, meaning) {
   const gloss = primaryGloss(meaning);
   switch (classify(word, meaning)) {
     case 'transitive':
-      return { sentence: `それを${word}。`, translation: verbTranslation(gloss, true) };
+      return { sentence: `必要なときにそれを${word}。`, translation: `I ${gloss.toLowerCase()} it when necessary.` };
     case 'intransitive':
-      // が, not は: 見つかる/助かる/整う/写る are all spontaneous-occurrence
-      // ("unaccusative") verbs, and Japanese defaults their subject to が in
-      // a flat, out-of-context sentence — は would read as topicalized/
-      // contrastive ("as for that, unlike other things, it gets found"),
-      // which is exactly the "something's off" feeling それは見つかる gives.
-      return { sentence: `それが${word}。`, translation: verbTranslation(gloss, false) };
+      return { sentence: `ときどきそれが${word}ことがある。`, translation: `Sometimes it ${gloss.toLowerCase()}.` };
     case 'verb-unknown-transitivity':
-      // Neither それを nor それは — Japanese permits a bare zero-pronoun
-      // verb sentence, and it's the only choice that's never wrong when
-      // transitivity isn't known.
-      return { sentence: `${word}。`, translation: verbTranslation(gloss, false) };
+      return { sentence: `必要なときに${word}。`, translation: `I ${gloss.toLowerCase()} when necessary.` };
     case 'i-adjective':
       return { sentence: `これはとても${word}。`, translation: `This is very ${gloss.toLowerCase()}.` };
     case 'na-adjective':
-      return { sentence: `これはとても${word}です。`, translation: `This is very ${gloss.toLowerCase()}.` };
+      return { sentence: `これはとても${word.replace(/な$/, '')}です。`, translation: `This is very ${gloss.toLowerCase()}.` };
     default:
-      // See the file header for why this isn't "これは X です".
-      return { sentence: `${word}が好きです。`, translation: `I like ${gloss.toLowerCase()}.` };
+      return { sentence: `授業で${word}について学ぶ。`, translation: `We learn about ${gloss.toLowerCase()} in class.` };
+  }
+}
+
+function isLegacyFiller(word, meaning, examples) {
+  if (!examples || examples.length !== 1) return false;
+  const legacy = fillerForLegacy(word, meaning);
+  return examples[0].sentence === legacy.sentence && examples[0].translation === legacy.translation;
+}
+
+function fillerForLegacy(word, meaning) {
+  const gloss = primaryGloss(meaning);
+  switch (classify(word, meaning)) {
+    case 'transitive': return { sentence: `それを${word}。`, translation: verbTranslation(gloss, true) };
+    case 'intransitive': return { sentence: `それが${word}。`, translation: verbTranslation(gloss, false) };
+    case 'verb-unknown-transitivity': return { sentence: `${word}。`, translation: verbTranslation(gloss, false) };
+    case 'i-adjective': return { sentence: `これはとても${word}。`, translation: `This is very ${gloss.toLowerCase()}.` };
+    case 'na-adjective': return { sentence: `これはとても${word}です。`, translation: `This is very ${gloss.toLowerCase()}.` };
+    default: return { sentence: `${word}が好きです。`, translation: `I like ${gloss.toLowerCase()}.` };
   }
 }
 
@@ -147,11 +156,16 @@ for (let g = 1; g <= 9; g++) {
   const wfile = `words/kyoiku-words${g}.json`;
   const words = readJson(wfile);
   let filled = 0;
+  let refreshed = 0;
   for (const w of words) {
-    if (w.examples) continue;
-    w.examples = [fillerFor(w.word, w.meaning)];
-    filled++;
+    if (!w.examples) {
+      w.examples = [fillerFor(w.word, w.meaning)];
+      filled++;
+    } else if (isLegacyFiller(w.word, w.meaning, w.examples)) {
+      w.examples = [fillerFor(w.word, w.meaning)];
+      refreshed++;
+    }
   }
   writeWords(wfile, words);
-  console.log(g, 'filled', filled, 'of', words.length);
+  console.log(g, 'filled', filled, 'refreshed', refreshed, 'of', words.length);
 }
