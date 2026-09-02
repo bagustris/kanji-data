@@ -2,7 +2,8 @@
   {
     "kanji": "引",
     "readings": [
-      "ひ.く"
+      "ひ.く",
+      "ひ.ける"
     ],
     "meaning": "pull",
     "examples": [
@@ -120,7 +121,8 @@
   {
     "kanji": "歌",
     "readings": [
-      "うた"
+      "うた",
+      "うた.う"
     ],
     "meaning": "song",
     "examples": [
@@ -265,7 +267,9 @@
   {
     "kanji": "丸",
     "readings": [
-      "まる"
+      "まる",
+      "まる.い",
+      "まる.める"
     ],
     "meaning": "circle; round",
     "examples": [
@@ -605,7 +609,11 @@
   {
     "kanji": "広",
     "readings": [
-      "ひろ.い"
+      "ひろ.い",
+      "ひろ.まる",
+      "ひろ.める",
+      "ひろ.がる",
+      "ひろ.げる"
     ],
     "meaning": "wide",
     "examples": [
@@ -631,7 +639,8 @@
   {
     "kanji": "光",
     "readings": [
-      "ひかり"
+      "ひかり",
+      "ひか.る"
     ],
     "meaning": "light",
     "examples": [
@@ -671,7 +680,10 @@
   {
     "kanji": "高",
     "readings": [
-      "たか.い"
+      "たか.い",
+      "たか",
+      "たか.まる",
+      "たか.める"
     ],
     "meaning": "high; expensive",
     "examples": [
@@ -736,7 +748,8 @@
   {
     "kanji": "黒",
     "readings": [
-      "くろ.い"
+      "くろ.い",
+      "くろ"
     ],
     "meaning": "black",
     "examples": [
@@ -1021,7 +1034,9 @@
   {
     "kanji": "書",
     "readings": [
-      "か.く"
+      "か.く",
+      "しょ"
+
     ],
     "meaning": "write",
     "examples": [
@@ -1192,7 +1207,8 @@
   {
     "kanji": "晴",
     "readings": [
-      "は.れる"
+      "は.れる",
+      "は.らす"
     ],
     "meaning": "clear up (weather)",
     "examples": [
@@ -1205,7 +1221,8 @@
   {
     "kanji": "切",
     "readings": [
-      "き.る"
+      "き.る",
+      "き.れる"
     ],
     "meaning": "cut",
     "examples": [
@@ -1270,7 +1287,8 @@
   {
     "kanji": "組",
     "readings": [
-      "くみ"
+      "くみ",
+      "く.む"
     ],
     "meaning": "group; class",
     "examples": [
@@ -1309,7 +1327,8 @@
   {
     "kanji": "太",
     "readings": [
-      "ふと.い"
+      "ふと.い",
+      "ふと.る"
     ],
     "meaning": "thick; fat",
     "examples": [
@@ -1466,7 +1485,7 @@
     "kanji": "通",
     "readings": [
       "とお.る",
-      "かよ.う"
+      "とお.す"
     ],
     "meaning": "pass through; commute",
     "examples": [
@@ -1531,7 +1550,8 @@
   {
     "kanji": "刀",
     "readings": [
-      "かたな"
+      "かたな",
+      "がたな"
     ],
     "meaning": "sword",
     "examples": [
@@ -1806,7 +1826,8 @@
   {
     "kanji": "聞",
     "readings": [
-      "き.く"
+      "き.く",
+      "き.こえる"
     ],
     "meaning": "hear; listen",
     "examples": [
@@ -2039,7 +2060,8 @@
   {
     "kanji": "来",
     "readings": [
-      "く.る"
+      "く.る",
+      "き.た"
     ],
     "meaning": "come",
     "examples": [
@@ -2079,7 +2101,7 @@
     "kanji": "話",
     "readings": [
       "はな.す",
-      "わ"
+      "はなし"
     ],
     "meaning": "talk; speak",
     "examples": [
