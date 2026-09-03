@@ -7864,9 +7864,9 @@
  },
  {
   "word": "嚇す",
-  "reading": "かくす",
+  "reading": "おどす",
   "readings": [
-   "かくす"
+   "おどす"
   ],
   "accent": "2",
   "meaning": "to threaten",
@@ -10642,9 +10642,9 @@
  },
  {
   "word": "嫡出",
-  "reading": "てきしゅつ",
+  "reading": "ちゃくしゅつ",
   "readings": [
-   "てきしゅつ"
+   "ちゃくしゅつ"
   ],
   "accent": "0",
   "meaning": "legitimate birth",
@@ -10714,11 +10714,11 @@
  },
  {
   "word": "嬢さん",
-  "reading": "とうさん",
+  "reading": "じょうさん",
   "readings": [
-   "とうさん"
+   "じょうさん"
   ],
-  "accent": "1",
+  "accent": "0",
   "meaning": "daughter (of a good family)",
   "sourceKanji": [
    "嬢"
@@ -10775,9 +10775,9 @@
  },
  {
   "word": "孔子",
-  "reading": "くじ",
+  "reading": "こうし",
   "readings": [
-   "くじ"
+   "こうし"
   ],
   "accent": "0",
   "meaning": "Confucius",
@@ -11192,11 +11192,11 @@
  },
  {
   "word": "宮寺",
-  "reading": "ぐうじ",
+  "reading": "みやでら",
   "readings": [
-   "ぐうじ"
+   "みやでら"
   ],
-  "accent": "1",
+  "accent": "0",
   "meaning": "Buddhist temple within a Shinto shrine",
   "sourceKanji": [
    "宮"
@@ -14573,9 +14573,9 @@
  },
  {
   "word": "弓弦",
-  "reading": "ゆづら",
+  "reading": "ゆづる",
   "readings": [
-   "ゆづら"
+   "ゆづる"
   ],
   "accent": "1,0",
   "meaning": "bowstring",
@@ -18129,9 +18129,9 @@
  },
  {
   "word": "尺拍子",
-  "reading": "さくほうし",
+  "reading": "しゃくびょうし",
   "readings": [
-   "さくほうし"
+   "しゃくびょうし"
   ],
   "accent": "3",
   "meaning": "clapper (two long pieces of wood that are clapped together",
@@ -19521,9 +19521,9 @@
  },
  {
   "word": "摂政",
-  "reading": "せっせい",
+  "reading": "せっしょう",
   "readings": [
-   "せっせい"
+   "せっしょう"
   ],
   "accent": "1,0",
   "meaning": "advisor (to the Ryukyuan King)",
@@ -26106,9 +26106,9 @@
  },
  {
   "word": "洲",
-  "reading": "ひし",
+  "reading": "す",
   "readings": [
-   "ひし"
+   "す"
   ],
   "accent": "1",
   "meaning": "mid-ocean sandbank",
@@ -26432,9 +26432,9 @@
  },
  {
   "word": "お浸し",
-  "reading": "おしたし",
+  "reading": "おひたし",
   "readings": [
-   "おしたし"
+   "おひたし"
   ],
   "accent": "3",
   "meaning": "boiled greens in bonito-flavoured soy sauce (vegetable side dish)",
@@ -27904,9 +27904,9 @@
  },
  {
   "word": "澪標",
-  "reading": "みおじるし",
+  "reading": "みおつくし",
   "readings": [
-   "みおじるし"
+   "みおつくし"
   ],
   "accent": "0,4,3",
   "meaning": "marks in a water channel",
@@ -27928,9 +27928,9 @@
  },
  {
   "word": "濁酒",
-  "reading": "じょくしゅ",
+  "reading": "だくしゅ",
   "readings": [
-   "じょくしゅ"
+   "だくしゅ"
   ],
   "accent": "0,1",
   "meaning": "doburoku (unrefined sake)",
@@ -33662,9 +33662,9 @@
  },
  {
   "word": "粘土",
-  "reading": "ねばつち",
+  "reading": "ねんど",
   "readings": [
-   "ねばつち"
+   "ねんど"
   ],
   "accent": "0",
   "meaning": "clay",
@@ -36685,9 +36685,9 @@
  },
  {
   "word": "卵胞",
-  "reading": "らんほう",
+  "reading": "らんぽう",
   "readings": [
-   "らんほう"
+   "らんぽう"
   ],
   "accent": "0",
   "meaning": "(ovarian) follicle",
@@ -45756,11 +45756,11 @@
  },
  {
   "word": "錘",
-  "reading": "つみ",
+  "reading": "つむ",
   "readings": [
-   "つみ"
+   "つむ"
   ],
-  "accent": "2",
+  "accent": "1",
   "meaning": "spindle",
   "sourceKanji": [
    "錘"
@@ -49106,9 +49106,9 @@
  },
  {
   "word": "斑鳩",
-  "reading": "いかるが",
+  "reading": "いかる",
   "readings": [
-   "いかるが"
+   "いかる"
   ],
   "accent": "0",
   "meaning": "Japanese grosbeak (Eophona personata)",

@@ -1,11 +1,11 @@
 [
  {
   "word": "右腕",
-  "reading": "うわん",
+  "reading": "みぎうで",
   "readings": [
-   "うわん"
+   "みぎうで"
   ],
-  "accent": "1",
+  "accent": "0",
   "meaning": "right arm",
   "sourceKanji": [
    "腕"
@@ -1716,9 +1716,9 @@
  },
  {
   "word": "両岸",
-  "reading": "りょうぎし",
+  "reading": "りょうがん",
   "readings": [
-   "りょうぎし"
+   "りょうがん"
   ],
   "accent": "0",
   "meaning": "both banks (of a river)",
@@ -2812,11 +2812,11 @@
  },
  {
   "word": "陽炎",
-  "reading": "ようえん",
+  "reading": "かげろう",
   "readings": [
-   "ようえん"
+   "かげろう"
   ],
-  "accent": "0",
+  "accent": "2,0",
   "meaning": "heat haze, shimmer of hot air",
   "sourceKanji": [
    "陽"
@@ -4209,11 +4209,11 @@
  },
  {
   "word": "外面",
-  "reading": "そとづら",
+  "reading": "がいめん",
   "readings": [
-   "そとづら"
+   "がいめん"
   ],
-  "accent": "0",
+  "accent": "0,3",
   "meaning": "exterior, surface, outward appearance",
   "sourceKanji": [
    "面"
@@ -4257,11 +4257,11 @@
  },
  {
   "word": "木綿",
-  "reading": "きわた",
+  "reading": "もめん",
   "readings": [
-   "きわた"
+   "もめん"
   ],
-  "accent": "1",
+  "accent": "0",
   "meaning": "cotton",
   "sourceKanji": [
    "綿"
@@ -4873,11 +4873,11 @@
  },
  {
   "word": "月末",
-  "reading": "つきずえ",
+  "reading": "げつまつ",
   "readings": [
-   "つきずえ"
+   "げつまつ"
   ],
-  "accent": "0,3",
+  "accent": "0",
   "meaning": "end of the month",
   "sourceKanji": [
    "末"
@@ -5177,9 +5177,9 @@
  },
  {
   "word": "鉄棒",
-  "reading": "かなぼう",
+  "reading": "てつぼう",
   "readings": [
-   "かなぼう"
+   "てつぼう"
   ],
   "accent": "0",
   "meaning": "iron rod, crowbar, horizontal bar (gymnastics)",
@@ -6443,11 +6443,11 @@
  },
  {
   "word": "海辺",
-  "reading": "かいへん",
+  "reading": "うみべ",
   "readings": [
-   "かいへん"
+   "うみべ"
   ],
-  "accent": "0",
+  "accent": "0,3",
   "meaning": "beach, seashore",
   "sourceKanji": [
    "辺"
@@ -6623,11 +6623,11 @@
  },
  {
   "word": "外壁",
-  "reading": "そとかべ",
+  "reading": "がいへき",
   "readings": [
-   "そとかべ"
+   "がいへき"
   ],
-  "accent": "2,0",
+  "accent": "0",
   "meaning": "outer wall",
   "sourceKanji": [
    "壁"
@@ -12963,11 +12963,11 @@
  },
  {
   "word": "何等",
-  "reading": "なにら",
+  "reading": "なんら",
   "readings": [
-   "なにら"
+   "なんら"
   ],
-  "accent": "1",
+  "accent": "1,0",
   "meaning": "whatever, what, what sort of, any kind of, nothing whatever (with neg. verb)",
   "sourceKanji": [
    "等"
@@ -14545,11 +14545,11 @@
  },
  {
   "word": "心底",
-  "reading": "しんてい",
+  "reading": "しんそこ",
   "readings": [
-   "しんてい"
+   "しんそこ"
   ],
-  "accent": "0,1",
+  "accent": "1,0",
   "meaning": "one's innermost depths, completely (from the bottom of one's heart)",
   "sourceKanji": [
    "底"
@@ -14620,9 +14620,9 @@
  },
  {
   "word": "一定",
-  "reading": "いちじょう",
+  "reading": "いってい",
   "readings": [
-   "いちじょう"
+   "いってい"
   ],
   "accent": "0",
   "meaning": "fixed, settled, constant, definite, uniform, regularized, regularised, defined, standardized, standardised, certain, prescribed",
@@ -17074,9 +17074,9 @@
  },
  {
   "word": "一対一",
-  "reading": "いったいいち",
+  "reading": "いちたいいち",
   "readings": [
-   "いったいいち"
+   "いちたいいち"
   ],
   "accent": "3,2",
   "meaning": "one-to-one",
@@ -23330,11 +23330,11 @@
  },
  {
   "word": "女将",
-  "reading": "じょしょう",
+  "reading": "おかみ",
   "readings": [
-   "じょしょう"
+   "おかみ"
   ],
-  "accent": "0",
+  "accent": "2",
   "meaning": "mistress, landlady, hostess, proprietress",
   "sourceKanji": [
    "将"
@@ -23780,9 +23780,9 @@
  },
  {
   "word": "緒戦",
-  "reading": "ちょせん",
+  "reading": "しょせん",
   "readings": [
-   "ちょせん"
+   "しょせん"
   ],
   "accent": "0",
   "meaning": "beginning of hostilities, beginning of competition",
@@ -24925,11 +24925,11 @@
  },
  {
   "word": "一種",
-  "reading": "ひとくさ",
+  "reading": "いっしゅ",
   "readings": [
-   "ひとくさ"
+   "いっしゅ"
   ],
-  "accent": "2",
+  "accent": "1",
   "meaning": "species, kind, variety",
   "sourceKanji": [
    "種"
@@ -26070,11 +26070,11 @@
  },
  {
   "word": "祝詞",
-  "reading": "のと",
+  "reading": "のりと",
   "readings": [
-   "のと"
+   "のりと"
   ],
-  "accent": "0,2",
+  "accent": "0",
   "meaning": "Shinto ritual prayer, congratulatory address",
   "sourceKanji": [
    "詞"
@@ -27994,11 +27994,11 @@
  },
  {
   "word": "歳月",
-  "reading": "としつき",
+  "reading": "さいげつ",
   "readings": [
-   "としつき"
+   "さいげつ"
   ],
-  "accent": "2",
+  "accent": "1",
   "meaning": "time, years",
   "sourceKanji": [
    "歳"
@@ -30725,11 +30725,11 @@
  },
  {
   "word": "金庫",
-  "reading": "かねぐら",
+  "reading": "きんこ",
   "readings": [
-   "かねぐら"
+   "きんこ"
   ],
-  "accent": "0",
+  "accent": "1",
   "meaning": "safe, vault, treasury, provider of funds",
   "sourceKanji": [
    "庫"
@@ -34688,9 +34688,9 @@
  },
  {
   "word": "客員",
-  "reading": "かくいん",
+  "reading": "きゃくいん",
   "readings": [
-   "かくいん"
+   "きゃくいん"
   ],
   "accent": "0",
   "meaning": "guest (associate) member",
@@ -36185,11 +36185,11 @@
  },
  {
   "word": "冷汗",
-  "reading": "れいかん",
+  "reading": "ひやあせ",
   "readings": [
-   "れいかん"
+   "ひやあせ"
   ],
-  "accent": "0",
+  "accent": "3",
   "meaning": "cold sweat",
   "sourceKanji": [
    "汗"
@@ -37573,11 +37573,11 @@
  },
  {
   "word": "快楽",
-  "reading": "けらく",
+  "reading": "かいらく",
   "readings": [
-   "けらく"
+   "かいらく"
   ],
-  "accent": "0,1",
+  "accent": "1,0",
   "meaning": "pleasure",
   "sourceKanji": [
    "快"
@@ -37741,9 +37741,9 @@
  },
  {
   "word": "貨物",
-  "reading": "かぶつ",
+  "reading": "かもつ",
   "readings": [
-   "かぶつ"
+   "かもつ"
   ],
   "accent": "1",
   "meaning": "cargo, freight, money or assets",
@@ -38838,9 +38838,9 @@
  },
  {
   "word": "煙火",
-  "reading": "はなび",
+  "reading": "えんか",
   "readings": [
-   "はなび"
+   "えんか"
   ],
   "accent": "1",
   "meaning": "fireworks",

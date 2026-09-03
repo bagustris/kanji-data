@@ -435,9 +435,9 @@
  },
  {
   "word": "二",
-  "reading": "ふう",
+  "reading": "ふ",
   "readings": [
-   "ふう"
+   "ふ"
   ],
   "accent": "1",
   "meaning": "two",
@@ -471,9 +471,9 @@
  },
  {
   "word": "五",
-  "reading": "い",
+  "reading": "いつ",
   "readings": [
-   "い"
+   "いつ"
   ],
   "accent": "1",
   "meaning": "five",
@@ -1040,9 +1040,9 @@
  },
  {
   "word": "円",
-  "reading": "まる",
+  "reading": "えん",
   "readings": [
-   "まる"
+   "えん"
   ],
   "accent": "0",
   "meaning": "Yen, money, circle",
@@ -1113,9 +1113,9 @@
  },
  {
   "word": "外出",
-  "reading": "そとで",
+  "reading": "がいしゅつ",
   "readings": [
-   "そとで"
+   "がいしゅつ"
   ],
   "accent": "0",
   "meaning": "outing, trip, going out",
@@ -1427,9 +1427,9 @@
  },
  {
   "word": "午",
-  "reading": "ひる",
+  "reading": "うま",
   "readings": [
-   "ひる"
+   "うま"
   ],
   "accent": "2",
   "meaning": "noon, midday, daytime, lunch",
@@ -1777,9 +1777,9 @@
  },
  {
   "word": "右側",
-  "reading": "うそく",
+  "reading": "みぎがわ",
   "readings": [
-   "うそく"
+   "みぎがわ"
   ],
   "accent": "0",
   "meaning": "right side, right hand",
@@ -1885,9 +1885,9 @@
  },
  {
   "word": "四方",
-  "reading": "よも",
+  "reading": "しほう",
   "readings": [
-   "よも"
+   "しほう"
   ],
   "accent": "1",
   "meaning": "every direction",
@@ -1958,9 +1958,9 @@
  },
  {
   "word": "土圭",
-  "reading": "ときはかり",
+  "reading": "とけい",
   "readings": [
-   "ときはかり"
+   "とけい"
   ],
   "accent": "0",
   "meaning": "watch, clock, timepiece",
@@ -2319,9 +2319,9 @@
  },
  {
   "word": "羽子",
-  "reading": "はね",
+  "reading": "はご",
   "readings": [
-   "はね"
+   "はご"
   ],
   "accent": "2",
   "meaning": "feather, plume, wing, blade (fan, propeller, etc.)",
@@ -2379,9 +2379,9 @@
  },
  {
   "word": "化学",
-  "reading": "ばけがく",
+  "reading": "かがく",
   "readings": [
-   "ばけがく"
+   "かがく"
   ],
   "accent": "2",
   "meaning": "chemistry, chemical (company)",
@@ -2656,9 +2656,9 @@
  },
  {
   "word": "山脈",
-  "reading": "やまなみ",
+  "reading": "さんみゃく",
   "readings": [
-   "やまなみ"
+   "さんみゃく"
   ],
   "accent": "0",
   "meaning": "mountain range",
@@ -2776,9 +2776,9 @@
  },
  {
   "word": "去年",
-  "reading": "こぞ",
+  "reading": "きょねん",
   "readings": [
-   "こぞ"
+   "きょねん"
   ],
   "accent": "1",
   "meaning": "last year",
@@ -3606,9 +3606,9 @@
  },
  {
   "word": "祖母",
-  "reading": "うば",
+  "reading": "そぼ",
   "readings": [
-   "うば"
+   "そぼ"
   ],
   "accent": "1",
   "meaning": "grandmother",
@@ -3654,9 +3654,9 @@
  },
  {
   "word": "毎朝",
-  "reading": "まいちょう",
+  "reading": "まいあさ",
   "readings": [
-   "まいちょう"
+   "まいあさ"
   ],
   "accent": "0",
   "meaning": "every morning",
@@ -3895,9 +3895,9 @@
  },
  {
   "word": "祖父",
-  "reading": "そぶ",
+  "reading": "そふ",
   "readings": [
-   "そぶ"
+   "そふ"
   ],
   "accent": "1",
   "meaning": "grandfather, old man",
@@ -4688,9 +4688,9 @@
  },
  {
   "word": "遺言",
-  "reading": "いげん",
+  "reading": "ゆいごん",
   "readings": [
-   "いげん"
+   "ゆいごん"
   ],
   "accent": "0",
   "meaning": "will, testament, last request",
@@ -5216,9 +5216,9 @@
  },
  {
   "word": "金",
-  "reading": "くがね",
+  "reading": "こがね",
   "readings": [
-   "くがね"
+   "こがね"
   ],
   "accent": "0",
   "meaning": "gold",
@@ -5253,9 +5253,9 @@
  },
  {
   "word": "金庫",
-  "reading": "かねぐら",
+  "reading": "きんこ",
   "readings": [
-   "かねぐら"
+   "きんこ"
   ],
   "accent": "0",
   "meaning": "safe, vault, treasury, provider of funds",

@@ -657,9 +657,9 @@
  },
  {
   "word": "作り話",
-  "reading": "つくりはなし",
+  "reading": "つくりばなし",
   "readings": [
-   "つくりはなし"
+   "つくりばなし"
   ],
   "accent": "4",
   "meaning": "fiction, made-up story, myth",
@@ -2887,9 +2887,9 @@
  },
  {
   "word": "ローマ字",
-  "reading": "ロマー字",
+  "reading": "ローマじ",
   "readings": [
-   "ロマー字"
+   "ローマじ"
   ],
   "accent": "3,0",
   "meaning": "romanization, romaji",
@@ -3407,9 +3407,9 @@
  },
  {
   "word": "引用",
-  "reading": "いによう",
+  "reading": "いんよう",
   "readings": [
-   "いによう"
+   "いんよう"
   ],
   "accent": "0",
   "meaning": "quotation, citation",
@@ -4702,14 +4702,15 @@
  },
  {
   "word": "朝ご飯",
-  "reading": "あさご飯",
+  "reading": "あさごはん",
   "readings": [
-   "あさご飯"
+   "あさごはん"
   ],
   "accent": "3",
   "meaning": "breakfast",
   "sourceKanji": [
-   "朝"
+   "朝",
+   "飯"
   ]
  },
  {
@@ -7905,18 +7906,6 @@
   ],
   "accent": "1",
   "meaning": "meal, rice",
-  "sourceKanji": [
-   "飯"
-  ]
- },
- {
-  "word": "朝ご飯",
-  "reading": "あさごはん",
-  "readings": [
-   "あさごはん"
-  ],
-  "accent": "3",
-  "meaning": "breakfast",
   "sourceKanji": [
    "飯"
   ]

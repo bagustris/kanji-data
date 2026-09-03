@@ -338,9 +338,9 @@
  },
  {
   "word": "他人",
-  "reading": "あだびと",
+  "reading": "たにん",
   "readings": [
-   "あだびと"
+   "たにん"
   ],
   "accent": "0",
   "meaning": "another person, unrelated person, outsider, stranger",
@@ -1640,9 +1640,9 @@
  },
  {
   "word": "冷たい",
-  "reading": "つべたい",
+  "reading": "つめたい",
   "readings": [
-   "つべたい"
+   "つめたい"
   ],
   "accent": "0",
   "meaning": "cold (to the touch), chilly, icy, freezing, coldhearted, unfeeling",
@@ -1664,9 +1664,9 @@
  },
  {
   "word": "刀",
-  "reading": "とう",
+  "reading": "かたな",
   "readings": [
-   "とう"
+   "かたな"
   ],
   "accent": "1",
   "meaning": "(single-edged) sword, katana, dagger, knife, scalpel",
@@ -1773,9 +1773,9 @@
  },
  {
   "word": "初夏",
-  "reading": "はつなつ",
+  "reading": "しょか",
   "readings": [
-   "はつなつ"
+   "しょか"
   ],
   "accent": "0",
   "meaning": "early summer, fourth month of the lunar calendar",
@@ -2311,9 +2311,9 @@
  },
  {
   "word": "化学",
-  "reading": "ばけがく",
+  "reading": "かがく",
   "readings": [
-   "ばけがく"
+   "かがく"
   ],
   "accent": "2",
   "meaning": "chemistry, chemical (company)",
@@ -3718,9 +3718,9 @@
  },
  {
   "word": "塩",
-  "reading": "えん",
+  "reading": "しお",
   "readings": [
-   "えん"
+   "しお"
   ],
   "accent": "1",
   "meaning": "salt",
@@ -3898,9 +3898,9 @@
  },
  {
   "word": "夫人",
-  "reading": "はしかし",
+  "reading": "ふじん",
   "readings": [
-   "はしかし"
+   "ふじん"
   ],
   "accent": "0",
   "meaning": "wife, Mrs, madam, wife of a nobleman (aristocrat, etc.), consort of the emperor",
@@ -4211,12 +4211,12 @@
   ]
  },
  {
-  "word": "完壁",
-  "reading": "かんべき",
+  "word": "完璧",
+  "reading": "かんぺき",
   "readings": [
-   "かんべき"
+   "かんぺき"
   ],
-  "accent": null,
+  "accent": "0",
   "meaning": "perfect, complete, flawless",
   "sourceKanji": [
    "完"
@@ -4297,9 +4297,9 @@
  },
  {
   "word": "一定",
-  "reading": "いちじょう",
+  "reading": "いってい",
   "readings": [
-   "いちじょう"
+   "いってい"
   ],
   "accent": "0",
   "meaning": "fixed, settled, constant, definite, uniform, regularized, regularised, defined, standardized",
@@ -4419,9 +4419,9 @@
  },
  {
   "word": "客観",
-  "reading": "かくかん",
+  "reading": "きゃっかん",
   "readings": [
-   "かくかん"
+   "きゃっかん"
   ],
   "accent": "0",
   "meaning": "object (as opposed to subject)",
@@ -5459,9 +5459,9 @@
  },
  {
   "word": "金庫",
-  "reading": "かねぐら",
+  "reading": "きんこ",
   "readings": [
-   "かねぐら"
+   "きんこ"
   ],
   "accent": "0",
   "meaning": "safe, vault, treasury, provider of funds",
@@ -5799,9 +5799,9 @@
  },
  {
   "word": "重役",
-  "reading": "おもやく",
+  "reading": "じゅうやく",
   "readings": [
-   "おもやく"
+   "じゅうやく"
   ],
   "accent": "0",
   "meaning": "director, high executive, (person with) heavy responsibilities",
@@ -6064,9 +6064,9 @@
  },
  {
   "word": "息",
-  "reading": "おき",
+  "reading": "いき",
   "readings": [
-   "おき"
+   "いき"
   ],
   "accent": "1",
   "meaning": "breath, breathing, tone, mood",
@@ -6076,11 +6076,11 @@
  },
  {
   "word": "息",
-  "reading": "そく",
+  "reading": "むすこ",
   "readings": [
-   "そく"
+   "むすこ"
   ],
-  "accent": "1",
+  "accent": "0",
   "meaning": "son, penis",
   "sourceKanji": [
    "息"
@@ -6534,9 +6534,9 @@
  },
  {
   "word": "人才",
-  "reading": "じんさい",
+  "reading": "じんざい",
   "readings": [
-   "じんさい"
+   "じんざい"
   ],
   "accent": "0",
   "meaning": "man of talent, capable person",
@@ -8109,9 +8109,9 @@
  },
  {
   "word": "甲板",
-  "reading": "こうはん",
+  "reading": "かんぱん",
   "readings": [
-   "こうはん"
+   "かんぱん"
   ],
   "accent": "0",
   "meaning": "(ship) deck",
@@ -8133,9 +8133,9 @@
  },
  {
   "word": "果物",
-  "reading": "かぶつ",
+  "reading": "くだもの",
   "readings": [
-   "かぶつ"
+   "くだもの"
   ],
   "accent": "1",
   "meaning": "fruit",
@@ -9203,9 +9203,9 @@
  },
  {
   "word": "毛皮",
-  "reading": "もうひ",
+  "reading": "けがわ",
   "readings": [
-   "もうひ"
+   "けがわ"
   ],
   "accent": "1",
   "meaning": "fur, skin, pelt",
@@ -9349,9 +9349,9 @@
  },
  {
   "word": "決して",
-  "reading": "けして",
+  "reading": "けっして",
   "readings": [
-   "けして"
+   "けっして"
   ],
   "accent": "0",
   "meaning": "never, by no means",
@@ -11506,9 +11506,9 @@
  },
  {
   "word": "御礼",
-  "reading": "おんれい",
+  "reading": "おれい",
   "readings": [
-   "おんれい"
+   "おれい"
   ],
   "accent": "0,1",
   "meaning": "thanking, expression of gratitude",
@@ -11843,9 +11843,9 @@
  },
  {
   "word": "一種",
-  "reading": "ひとくさ",
+  "reading": "いっしゅ",
   "readings": [
-   "ひとくさ"
+   "いっしゅ"
   ],
   "accent": "2",
   "meaning": "species, kind, variety",
@@ -12265,9 +12265,9 @@
  },
  {
   "word": "何等",
-  "reading": "なにら",
+  "reading": "なんら",
   "readings": [
-   "なにら"
+   "なんら"
   ],
   "accent": "1",
   "meaning": "whatever, what, what sort of, any kind of, nothing whatever (with neg. verb)",
@@ -12628,9 +12628,9 @@
  },
  {
   "word": "繭糸",
-  "reading": "きぬいと",
+  "reading": "けんし",
   "readings": [
-   "きぬいと"
+   "けんし"
   ],
   "accent": "0",
   "meaning": "silk thread",
@@ -12845,9 +12845,9 @@
  },
  {
   "word": "取組む",
-  "reading": "とっくむ",
+  "reading": "とりくむ",
   "readings": [
-   "とっくむ"
+   "とりくむ"
   ],
   "accent": "3,0",
   "meaning": "to tackle, to wrestle with, to engage in a bout, to come to grips with, to make effort, to strive for",
@@ -13373,9 +13373,9 @@
  },
  {
   "word": "羽",
-  "reading": "ぱ",
+  "reading": "わ",
   "readings": [
-   "ぱ"
+   "わ"
   ],
   "accent": "1",
   "meaning": "counter for birds and rabbits",
@@ -13433,9 +13433,9 @@
  },
  {
   "word": "老若",
-  "reading": "ろうじゃく",
+  "reading": "ろうにゃく",
   "readings": [
-   "ろうじゃく"
+   "ろうにゃく"
   ],
   "accent": "0,1",
   "meaning": "young and old, all ages",
@@ -13518,9 +13518,9 @@
  },
  {
   "word": "山脈",
-  "reading": "やまなみ",
+  "reading": "さんみゃく",
   "readings": [
-   "やまなみ"
+   "さんみゃく"
   ],
   "accent": "0",
   "meaning": "mountain range",
@@ -13927,9 +13927,9 @@
  },
  {
   "word": "草花",
-  "reading": "そうか",
+  "reading": "くさばな",
   "readings": [
-   "そうか"
+   "くさばな"
   ],
   "accent": "1",
   "meaning": "flower, flowering plant",
@@ -14059,9 +14059,9 @@
  },
  {
   "word": "聚落",
-  "reading": "じゅらく",
+  "reading": "しゅうらく",
   "readings": [
-   "じゅらく"
+   "しゅうらく"
   ],
   "accent": "1",
   "meaning": "village, community, settlement, town, colony (animals, etc.)",
@@ -14095,9 +14095,9 @@
  },
  {
   "word": "木ノ葉",
-  "reading": "きのは",
+  "reading": "このは",
   "readings": [
-   "きのは"
+   "このは"
   ],
   "accent": "1",
   "meaning": "foliage, leaves of trees",
@@ -14685,9 +14685,9 @@
  },
  {
   "word": "詩",
-  "reading": "うた",
+  "reading": "し",
   "readings": [
-   "うた"
+   "し"
   ],
   "accent": "2",
   "meaning": "song, classical Japanese poetry (esp. tanka), modern poetry",
@@ -15130,9 +15130,9 @@
  },
  {
   "word": "背負う",
-  "reading": "しょう",
+  "reading": "せおう",
   "readings": [
-   "しょう"
+   "せおう"
   ],
   "accent": "0",
   "meaning": "to be burdened with, to carry on back or shoulder",
@@ -15190,9 +15190,9 @@
  },
  {
   "word": "貨物",
-  "reading": "かぶつ",
+  "reading": "かもつ",
   "readings": [
-   "かぶつ"
+   "かもつ"
   ],
   "accent": "1",
   "meaning": "cargo, freight, money or assets",
@@ -15610,9 +15610,9 @@
  },
  {
   "word": "辞",
-  "reading": "けとば",
+  "reading": "ことば",
   "readings": [
-   "けとば"
+   "ことば"
   ],
   "accent": "3",
   "meaning": "language, dialect, word, words, phrase, term, expression, remark, speech, (manner of) speaking",
@@ -15694,9 +15694,9 @@
  },
  {
   "word": "海辺",
-  "reading": "かいへん",
+  "reading": "うみべ",
   "readings": [
-   "かいへん"
+   "うみべ"
   ],
   "accent": "0",
   "meaning": "beach, seashore",
@@ -16198,9 +16198,9 @@
  },
  {
   "word": "気配",
-  "reading": "きはい",
+  "reading": "けはい",
   "readings": [
-   "きはい"
+   "けはい"
   ],
   "accent": "2,0,1",
   "meaning": "indication, sign, hint, presence, trend, quotation (esp. stock market)",
@@ -16342,9 +16342,9 @@
  },
  {
   "word": "旧里",
-  "reading": "きゅうり",
+  "reading": "ふるさと",
   "readings": [
-   "きゅうり"
+   "ふるさと"
   ],
   "accent": "1",
   "meaning": "home town, birthplace, old village, historic village, native place, one's old home",
@@ -17002,9 +17002,9 @@
  },
  {
   "word": "外面",
-  "reading": "げめん",
+  "reading": "がいめん",
   "readings": [
-   "げめん"
+   "がいめん"
   ],
   "accent": "1,0",
   "meaning": "outer surface, outward appearance, outside, exterior, outside, outer, outward, exterior, external",
@@ -17386,9 +17386,9 @@
  },
  {
   "word": "黄昏",
-  "reading": "こうこん",
+  "reading": "たそがれ",
   "readings": [
-   "こうこん"
+   "たそがれ"
   ],
   "accent": "0",
   "meaning": "dusk, twilight",
@@ -17398,9 +17398,9 @@
  },
  {
   "word": "黄色",
-  "reading": "おうしょく",
+  "reading": "きいろ",
   "readings": [
-   "おうしょく"
+   "きいろ"
   ],
   "accent": "0",
   "meaning": "yellow, amber",
