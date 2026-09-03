@@ -1,5 +1,21 @@
 [
   {
+    "kanji": "分",
+    "readings": [
+      "わ.かる",
+      "わ.ける",
+      "わ.かれる",
+      "わ.かつ"
+    ],
+    "meaning": "one",
+    "examples": [
+      { "word": "分かる", "reading": "わかる", "gloss": "to understand" },
+      { "word": "分ける", "reading": "わける", "gloss": "to separate (trans)" },
+      { "word": "分かれる", "reading": "わかれる", "gloss": "to separate (intrans)" },
+      { "word": "分かつ", "reading": "わかつ", "gloss": "to split" }
+    ]
+  },
+  {
     "kanji": "引",
     "readings": [
       "ひ.く",
@@ -148,7 +164,9 @@
   {
     "kanji": "回",
     "readings": [
-      "まわ.る"
+      "かい",
+      "まわ.る",
+      "まわ.す"
     ],
     "meaning": "turn; go around",
     "examples": [

@@ -318,5 +318,6 @@
   { "sentence": "来年は中学生だ。", "target": "来年", "readings": ["らいねん"], "meaning": "next year", "translation": "Next year I will be a junior high student." },
   { "sentence": "山里にすむ。", "target": "山里", "readings": ["やまざと"], "meaning": "mountain village", "translation": "I live in a mountain village." },
   { "sentence": "料理をつくる。", "target": "料理", "readings": ["りょうり"], "meaning": "cooking", "translation": "I cook a meal." },
-  { "sentence": "電話をかける。", "target": "電話", "readings": ["でんわ"], "meaning": "telephone", "translation": "I make a phone call." }
+  { "sentence": "電話をかける。", "target": "電話", "readings": ["でんわ"], "meaning": "telephone", "translation": "I make a phone call." },
+  { "sentence": "川が、町を二つに分かつ。", "target": "分かつ", "readings": ["分かつ"], "meaning": "to split", "translation": "The river splits that town into two" }
 ]
