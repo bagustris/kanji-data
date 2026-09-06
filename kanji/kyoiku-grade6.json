@@ -66,7 +66,8 @@
   {
     "kanji": "映",
     "readings": [
-      "うつ.る"
+      "うつ.る",
+      "えい"
     ],
     "meaning": "reflect; be projected",
     "examples": [
@@ -79,7 +80,9 @@
   {
     "kanji": "延",
     "readings": [
-      "の.びる"
+      "の.びる",
+      "えん",
+      "の.ばす"
     ],
     "meaning": "extend",
     "examples": [
@@ -92,7 +95,8 @@
   {
     "kanji": "沿",
     "readings": [
-      "そ.う"
+      "そ.う",
+      "えん"
     ],
     "meaning": "follow along",
     "examples": [
@@ -118,7 +122,8 @@
   {
     "kanji": "我",
     "readings": [
-      "が"
+      "が",
+      "われ"
     ],
     "meaning": "self; ego",
     "examples": [
@@ -131,7 +136,8 @@
   {
     "kanji": "灰",
     "readings": [
-      "はい"
+      "はい",
+      "かい"
     ],
     "meaning": "ash",
     "examples": [
@@ -145,7 +151,8 @@
     "kanji": "拡",
     "readings": [
       "かく",
-      "ひろ.がる"
+      "ひろ.がる",
+      "ひろ.げる"
     ],
     "meaning": "expand",
     "examples": [
@@ -158,7 +165,8 @@
   {
     "kanji": "革",
     "readings": [
-      "かく"
+      "かく",
+      "かわ"
     ],
     "meaning": "leather; reform",
     "examples": [
@@ -185,7 +193,8 @@
     "kanji": "割",
     "readings": [
       "わ.る",
-      "わ.れる"
+      "わ.れる",
+      "かつ"
     ],
     "meaning": "split; divide",
     "examples": [
@@ -198,7 +207,8 @@
   {
     "kanji": "株",
     "readings": [
-      "かぶ"
+      "かぶ",
+      "しゅ"
     ],
     "meaning": "stock; stump",
     "examples": [
@@ -211,7 +221,8 @@
   {
     "kanji": "干",
     "readings": [
-      "ほ.す"
+      "ほ.す",
+      "かん"
     ],
     "meaning": "dry",
     "examples": [
@@ -224,7 +235,9 @@
   {
     "kanji": "巻",
     "readings": [
-      "ま.く"
+      "ま.く",
+      "かん",
+      "ま.き"
     ],
     "meaning": "roll; wind",
     "examples": [
@@ -263,7 +276,8 @@
   {
     "kanji": "危",
     "readings": [
-      "あぶ.ない"
+      "あぶ.ない",
+      "き"
     ],
     "meaning": "dangerous",
     "examples": [
@@ -276,7 +290,8 @@
   {
     "kanji": "机",
     "readings": [
-      "つくえ"
+      "つくえ",
+      "き"
     ],
     "meaning": "desk",
     "examples": [
@@ -300,7 +315,8 @@
   {
     "kanji": "貴",
     "readings": [
-      "き"
+      "き",
+      "たっと.い"
     ],
     "meaning": "precious; noble",
     "examples": [
@@ -313,7 +329,8 @@
   {
     "kanji": "疑",
     "readings": [
-      "うたが.う"
+      "うたが.う",
+      "ぎ"
     ],
     "meaning": "doubt",
     "examples": [
@@ -326,7 +343,8 @@
   {
     "kanji": "吸",
     "readings": [
-      "す.う"
+      "す.う",
+      "きゅう"
     ],
     "meaning": "inhale",
     "examples": [
@@ -340,7 +358,9 @@
     "kanji": "供",
     "readings": [
       "きょう",
-      "とも"
+      "とも",
+      "く",
+      "そな.える"
     ],
     "meaning": "offer; accompany",
     "examples": [
@@ -353,7 +373,8 @@
   {
     "kanji": "胸",
     "readings": [
-      "むね"
+      "むね",
+      "きょう"
     ],
     "meaning": "chest",
     "examples": [
@@ -366,7 +387,8 @@
   {
     "kanji": "郷",
     "readings": [
-      "きょう"
+      "きょう",
+      "ごう"
     ],
     "meaning": "hometown",
     "examples": [
@@ -379,7 +401,8 @@
   {
     "kanji": "勤",
     "readings": [
-      "つと.める"
+      "つと.める",
+      "きん"
     ],
     "meaning": "work (be employed)",
     "examples": [
@@ -392,7 +415,8 @@
   {
     "kanji": "筋",
     "readings": [
-      "すじ"
+      "すじ",
+      "きん"
     ],
     "meaning": "muscle; line",
     "examples": [
@@ -418,7 +442,8 @@
   {
     "kanji": "敬",
     "readings": [
-      "うやま.う"
+      "うやま.う",
+      "けい"
     ],
     "meaning": "respect",
     "examples": [
@@ -431,7 +456,8 @@
   {
     "kanji": "警",
     "readings": [
-      "けい"
+      "けい",
+      "いまし.める"
     ],
     "meaning": "warn; police",
     "examples": [
@@ -457,7 +483,8 @@
   {
     "kanji": "激",
     "readings": [
-      "はげ.しい"
+      "はげ.しい",
+      "げき"
     ],
     "meaning": "intense",
     "examples": [
@@ -470,7 +497,8 @@
   {
     "kanji": "穴",
     "readings": [
-      "あな"
+      "あな",
+      "けつ"
     ],
     "meaning": "hole",
     "examples": [
@@ -496,7 +524,8 @@
   {
     "kanji": "絹",
     "readings": [
-      "きぬ"
+      "きぬ",
+      "けん"
     ],
     "meaning": "silk",
     "examples": [
@@ -535,7 +564,8 @@
   {
     "kanji": "源",
     "readings": [
-      "げん"
+      "げん",
+      "みなもと"
     ],
     "meaning": "source",
     "examples": [
@@ -548,7 +578,9 @@
   {
     "kanji": "厳",
     "readings": [
-      "きび.しい"
+      "きび.しい",
+      "おごそ.か",
+      "げん"
     ],
     "meaning": "strict",
     "examples": [
@@ -561,7 +593,8 @@
   {
     "kanji": "己",
     "readings": [
-      "こ"
+      "こ",
+      "おのれ"
     ],
     "meaning": "self",
     "examples": [
@@ -574,7 +607,8 @@
   {
     "kanji": "呼",
     "readings": [
-      "よ.ぶ"
+      "よ.ぶ",
+      "こ"
     ],
     "meaning": "call",
     "examples": [
@@ -586,7 +620,8 @@
   {
     "kanji": "誤",
     "readings": [
-      "ご"
+      "ご",
+      "あやま.る"
     ],
     "meaning": "mistake",
     "examples": [
@@ -624,7 +659,8 @@
   {
     "kanji": "皇",
     "readings": [
-      "こう"
+      "こう",
+      "おう"
     ],
     "meaning": "emperor",
     "examples": [
@@ -637,7 +673,10 @@
   {
     "kanji": "紅",
     "readings": [
-      "べに"
+      "べに",
+      "くれない",
+      "こう",
+      "く"
     ],
     "meaning": "crimson; rouge",
     "examples": [
@@ -650,7 +689,9 @@
   {
     "kanji": "降",
     "readings": [
-      "ふ.る"
+      "ふ.る",
+      "お.りる",
+      "こう"
     ],
     "meaning": "fall (rain/snow)",
     "examples": [
@@ -663,7 +704,8 @@
   {
     "kanji": "鋼",
     "readings": [
-      "はがね"
+      "はがね",
+      "こう"
     ],
     "meaning": "steel",
     "examples": [
@@ -676,7 +718,8 @@
   {
     "kanji": "刻",
     "readings": [
-      "こく"
+      "こく",
+      "きざ.む"
     ],
     "meaning": "engrave; time",
     "examples": [
@@ -702,7 +745,8 @@
   {
     "kanji": "骨",
     "readings": [
-      "ほね"
+      "ほね",
+      "こつ"
     ],
     "meaning": "bone",
     "examples": [
@@ -715,7 +759,8 @@
   {
     "kanji": "困",
     "readings": [
-      "こま.る"
+      "こま.る",
+      "こん"
     ],
     "meaning": "be troubled",
     "examples": [
@@ -728,7 +773,9 @@
   {
     "kanji": "砂",
     "readings": [
-      "すな"
+      "すな",
+      "さ",
+      "しゃ"
     ],
     "meaning": "sand",
     "examples": [
@@ -741,7 +788,8 @@
   {
     "kanji": "座",
     "readings": [
-      "すわ.る"
+      "すわ.る",
+      "ざ"
     ],
     "meaning": "sit",
     "examples": [
@@ -754,7 +802,8 @@
   {
     "kanji": "済",
     "readings": [
-      "す.む"
+      "す.む",
+      "さい"
     ],
     "meaning": "be finished",
     "examples": [
@@ -767,7 +816,8 @@
   {
     "kanji": "裁",
     "readings": [
-      "さい"
+      "さい",
+      "さば.く"
     ],
     "meaning": "judge; cut cloth",
     "examples": [
@@ -806,7 +856,8 @@
   {
     "kanji": "蚕",
     "readings": [
-      "かいこ"
+      "かいこ",
+      "さん"
     ],
     "meaning": "silkworm",
     "examples": [
@@ -819,7 +870,8 @@
   {
     "kanji": "至",
     "readings": [
-      "し"
+      "し",
+      "いた.る"
     ],
     "meaning": "reach; arrive",
     "examples": [
@@ -832,7 +884,9 @@
   {
     "kanji": "私",
     "readings": [
-      "わたし"
+      "わたし",
+      "し",
+      "わたくし"
     ],
     "meaning": "I; private",
     "examples": [
@@ -844,7 +898,8 @@
   {
     "kanji": "姿",
     "readings": [
-      "すがた"
+      "すがた",
+      "し"
     ],
     "meaning": "figure; appearance",
     "examples": [
@@ -857,7 +912,8 @@
   {
     "kanji": "視",
     "readings": [
-      "し"
+      "し",
+      "み.る"
     ],
     "meaning": "look at; view",
     "examples": [
@@ -870,7 +926,8 @@
   {
     "kanji": "詞",
     "readings": [
-      "し"
+      "し",
+      "ことば"
     ],
     "meaning": "word; part of speech",
     "examples": [
@@ -909,7 +966,8 @@
   {
     "kanji": "射",
     "readings": [
-      "しゃ"
+      "しゃ",
+      "い.る"
     ],
     "meaning": "shoot",
     "examples": [
@@ -922,7 +980,8 @@
   {
     "kanji": "捨",
     "readings": [
-      "す.てる"
+      "す.てる",
+      "しゃ"
     ],
     "meaning": "discard",
     "examples": [
@@ -939,7 +998,7 @@
     ],
     "meaning": "shaku (unit); scale",
     "examples": [
-      { "word": "尺八", "reading": "しゃくはち", "gloss": "bamboo flute, fellatio" },
+      { "word": "尺八", "reading": "しゃくはち", "gloss": "shakuhachi, bamboo flute" },
       { "word": "尺度", "reading": "しゃくど", "gloss": "linear measure, scale" },
       { "word": "一尺", "reading": "いっしゃく", "gloss": "one shaku, approx. 30 cm" },
       { "word": "縮尺", "reading": "しゅくしゃく", "gloss": "reduced scale" }
@@ -948,7 +1007,8 @@
   {
     "kanji": "若",
     "readings": [
-      "わか.い"
+      "わか.い",
+      "じゃく"
     ],
     "meaning": "young",
     "examples": [
@@ -961,7 +1021,8 @@
   {
     "kanji": "樹",
     "readings": [
-      "じゅ"
+      "じゅ",
+      "き"
     ],
     "meaning": "tree",
     "examples": [
@@ -974,7 +1035,8 @@
   {
     "kanji": "収",
     "readings": [
-      "しゅう"
+      "しゅう",
+      "おさ.める"
     ],
     "meaning": "obtain; income",
     "examples": [
@@ -987,7 +1049,8 @@
   {
     "kanji": "宗",
     "readings": [
-      "しゅう"
+      "しゅう",
+      "そう"
     ],
     "meaning": "religion; sect",
     "examples": [
@@ -1000,7 +1063,8 @@
   {
     "kanji": "就",
     "readings": [
-      "しゅう"
+      "しゅう",
+      "つ.く"
     ],
     "meaning": "take up (a position)",
     "examples": [
@@ -1026,7 +1090,8 @@
   {
     "kanji": "従",
     "readings": [
-      "したが.う"
+      "したが.う",
+      "じゅう"
     ],
     "meaning": "obey; follow",
     "examples": [
@@ -1039,7 +1104,8 @@
   {
     "kanji": "縦",
     "readings": [
-      "たて"
+      "たて",
+      "じゅう"
     ],
     "meaning": "vertical",
     "examples": [
@@ -1053,7 +1119,8 @@
     "kanji": "縮",
     "readings": [
       "ちぢ.む",
-      "ちぢ.める"
+      "ちぢ.める",
+      "しゅく"
     ],
     "meaning": "shrink",
     "examples": [
@@ -1066,7 +1133,8 @@
   {
     "kanji": "熟",
     "readings": [
-      "じゅく"
+      "じゅく",
+      "う.れる"
     ],
     "meaning": "ripen; mature",
     "examples": [
@@ -1131,7 +1199,9 @@
   {
     "kanji": "除",
     "readings": [
-      "のぞ.く"
+      "のぞ.く",
+      "じ",
+      "じょ"
     ],
     "meaning": "remove; exclude",
     "examples": [
@@ -1144,7 +1214,8 @@
   {
     "kanji": "承",
     "readings": [
-      "しょう"
+      "しょう",
+      "うけたまわ.る"
     ],
     "meaning": "consent",
     "examples": [
@@ -1171,7 +1242,8 @@
     "kanji": "傷",
     "readings": [
       "きず",
-      "いた.む"
+      "いた.む",
+      "しょう"
     ],
     "meaning": "wound; hurt",
     "examples": [
@@ -1184,7 +1256,8 @@
   {
     "kanji": "障",
     "readings": [
-      "しょう"
+      "しょう",
+      "さわ.る"
     ],
     "meaning": "obstacle",
     "examples": [
@@ -1197,7 +1270,8 @@
   {
     "kanji": "蒸",
     "readings": [
-      "じょう"
+      "じょう",
+      "む.す"
     ],
     "meaning": "steam",
     "examples": [
@@ -1210,7 +1284,8 @@
   {
     "kanji": "針",
     "readings": [
-      "はり"
+      "はり",
+      "しん"
     ],
     "meaning": "needle",
     "examples": [
@@ -1250,7 +1325,8 @@
   {
     "kanji": "推",
     "readings": [
-      "すい"
+      "すい",
+      "お.す"
     ],
     "meaning": "infer; recommend",
     "examples": [
@@ -1276,7 +1352,9 @@
   {
     "kanji": "盛",
     "readings": [
-      "さか.ん"
+      "さか.ん",
+      "せい",
+      "も.る"
     ],
     "meaning": "prosperous; thriving",
     "examples": [
@@ -1302,7 +1380,8 @@
   {
     "kanji": "誠",
     "readings": [
-      "せい"
+      "せい",
+      "まこと"
     ],
     "meaning": "sincerity",
     "examples": [
@@ -1315,7 +1394,8 @@
   {
     "kanji": "舌",
     "readings": [
-      "した"
+      "した",
+      "ぜつ"
     ],
     "meaning": "tongue",
     "examples": [
@@ -1328,7 +1408,8 @@
   {
     "kanji": "宣",
     "readings": [
-      "せん"
+      "せん",
+      "のたま.う"
     ],
     "meaning": "proclaim",
     "examples": [
@@ -1341,7 +1422,8 @@
   {
     "kanji": "専",
     "readings": [
-      "せん"
+      "せん",
+      "もっぱ.ら"
     ],
     "meaning": "exclusive; special",
     "examples": [
@@ -1354,7 +1436,8 @@
   {
     "kanji": "泉",
     "readings": [
-      "いずみ"
+      "いずみ",
+      "せん"
     ],
     "meaning": "spring (water)",
     "examples": [
@@ -1367,7 +1450,8 @@
   {
     "kanji": "洗",
     "readings": [
-      "あら.う"
+      "あら.う",
+      "せん"
     ],
     "meaning": "wash",
     "examples": [
@@ -1380,7 +1464,8 @@
   {
     "kanji": "染",
     "readings": [
-      "そ.める"
+      "そ.める",
+      "せん"
     ],
     "meaning": "dye",
     "examples": [
@@ -1393,7 +1478,8 @@
   {
     "kanji": "銭",
     "readings": [
-      "せん"
+      "せん",
+      "ぜに"
     ],
     "meaning": "coin; money",
     "examples": [
@@ -1406,7 +1492,8 @@
   {
     "kanji": "善",
     "readings": [
-      "ぜん"
+      "ぜん",
+      "よ.い"
     ],
     "meaning": "good; virtue",
     "examples": [
@@ -1419,7 +1506,8 @@
   {
     "kanji": "奏",
     "readings": [
-      "そう"
+      "そう",
+      "かな.でる"
     ],
     "meaning": "play (music); report",
     "examples": [
@@ -1432,7 +1520,8 @@
   {
     "kanji": "窓",
     "readings": [
-      "まど"
+      "まど",
+      "そう"
     ],
     "meaning": "window",
     "examples": [
@@ -1445,7 +1534,8 @@
   {
     "kanji": "創",
     "readings": [
-      "そう"
+      "そう",
+      "つく.る"
     ],
     "meaning": "create",
     "examples": [
@@ -1458,7 +1548,9 @@
   {
     "kanji": "装",
     "readings": [
-      "そう"
+      "そう",
+      "しょう",
+      "よそお.う"
     ],
     "meaning": "equip; dress",
     "examples": [
@@ -1484,7 +1576,8 @@
   {
     "kanji": "操",
     "readings": [
-      "そう"
+      "そう",
+      "あやつ.る"
     ],
     "meaning": "operate; manipulate",
     "examples": [
@@ -1497,7 +1590,8 @@
   {
     "kanji": "蔵",
     "readings": [
-      "ぞう"
+      "ぞう",
+      "くら"
     ],
     "meaning": "storehouse",
     "examples": [
@@ -1536,7 +1630,8 @@
   {
     "kanji": "尊",
     "readings": [
-      "そん"
+      "そん",
+      "とうと.ぶ"
     ],
     "meaning": "noble; respect",
     "examples": [
@@ -1549,7 +1644,8 @@
   {
     "kanji": "退",
     "readings": [
-      "たい"
+      "たい",
+      "しりぞ.く"
     ],
     "meaning": "retreat",
     "examples": [
@@ -1575,7 +1671,8 @@
   {
     "kanji": "担",
     "readings": [
-      "たん"
+      "たん",
+      "にな.う"
     ],
     "meaning": "carry; bear",
     "examples": [
@@ -1588,7 +1685,8 @@
   {
     "kanji": "探",
     "readings": [
-      "さが.す"
+      "さが.す",
+      "たん"
     ],
     "meaning": "search for",
     "examples": [
@@ -1628,7 +1726,8 @@
     "kanji": "暖",
     "readings": [
       "あたた.かい",
-      "あたた.める"
+      "あたた.める",
+      "だん"
     ],
     "meaning": "warm",
     "examples": [
@@ -1641,7 +1740,9 @@
   {
     "kanji": "値",
     "readings": [
-      "ね"
+      "ね",
+      "あたい",
+      "ち"
     ],
     "meaning": "price; value",
     "examples": [
@@ -1680,7 +1781,9 @@
   {
     "kanji": "著",
     "readings": [
-      "ちょ"
+      "ちょ",
+      "あらわ.す",
+      "いちじる.しい"
     ],
     "meaning": "remarkable; write",
     "examples": [
@@ -1706,7 +1809,8 @@
   {
     "kanji": "頂",
     "readings": [
-      "いただ.く"
+      "いただ.く",
+      "ちょう"
     ],
     "meaning": "receive (humble)",
     "examples": [
@@ -1719,7 +1823,8 @@
   {
     "kanji": "腸",
     "readings": [
-      "ちょう"
+      "ちょう",
+      "はらわた"
     ],
     "meaning": "intestine",
     "examples": [
@@ -1732,7 +1837,8 @@
   {
     "kanji": "潮",
     "readings": [
-      "しお"
+      "しお",
+      "ちょう"
     ],
     "meaning": "tide",
     "examples": [
@@ -1758,7 +1864,8 @@
   {
     "kanji": "痛",
     "readings": [
-      "いた.い"
+      "いた.い",
+      "つう"
     ],
     "meaning": "painful",
     "examples": [
@@ -1771,7 +1878,8 @@
   {
     "kanji": "敵",
     "readings": [
-      "てき"
+      "てき",
+      "かたき"
     ],
     "meaning": "enemy",
     "examples": [
@@ -1797,7 +1905,8 @@
   {
     "kanji": "討",
     "readings": [
-      "とう"
+      "とう",
+      "う.つ"
     ],
     "meaning": "attack; discuss",
     "examples": [
@@ -1836,7 +1945,8 @@
   {
     "kanji": "届",
     "readings": [
-      "とど.く"
+      "とど.く",
+      "とど.ける"
     ],
     "meaning": "reach; arrive",
     "examples": [
@@ -1849,7 +1959,8 @@
   {
     "kanji": "難",
     "readings": [
-      "むずか.しい"
+      "むずか.しい",
+      "なん"
     ],
     "meaning": "difficult",
     "examples": [
@@ -1862,7 +1973,8 @@
   {
     "kanji": "乳",
     "readings": [
-      "にゅう"
+      "にゅう",
+      "ちち"
     ],
     "meaning": "milk",
     "examples": [
@@ -1875,7 +1987,8 @@
   {
     "kanji": "認",
     "readings": [
-      "みと.める"
+      "みと.める",
+      "にん"
     ],
     "meaning": "recognize; approve",
     "examples": [
@@ -1888,7 +2001,8 @@
   {
     "kanji": "納",
     "readings": [
-      "のう"
+      "のう",
+      "おさ.める"
     ],
     "meaning": "pay; supply",
     "examples": [
@@ -1927,7 +2041,8 @@
   {
     "kanji": "拝",
     "readings": [
-      "はい"
+      "はい",
+      "おが.む"
     ],
     "meaning": "worship; bow",
     "examples": [
@@ -1940,7 +2055,8 @@
   {
     "kanji": "背",
     "readings": [
-      "せ"
+      "せ",
+      "はい"
     ],
     "meaning": "back (body)",
     "examples": [
@@ -1984,7 +2100,7 @@
     "meaning": "group; squad",
     "examples": [
       { "word": "班", "reading": "はん", "gloss": "group, party, section" },
-      { "word": "斑点", "reading": "はんてん", "gloss": "speck, fleck" },
+      { "word": "班員", "reading": "はんいん", "gloss": "squad/group member" },
       { "word": "班長", "reading": "はんちょう", "gloss": "squad leader, group leader" },
       { "word": "二班", "reading": "にはん", "gloss": "two groups, second group" }
     ]
@@ -2005,7 +2121,9 @@
   {
     "kanji": "否",
     "readings": [
-      "ひ"
+      "ひ",
+      "いな",
+      "いや"
     ],
     "meaning": "no; deny",
     "examples": [
@@ -2031,7 +2149,8 @@
   {
     "kanji": "秘",
     "readings": [
-      "ひ"
+      "ひ",
+      "ひ.める"
     ],
     "meaning": "secret",
     "examples": [
@@ -2044,7 +2163,8 @@
   {
     "kanji": "俵",
     "readings": [
-      "たわら"
+      "たわら",
+      "ひょう"
     ],
     "meaning": "straw bag",
     "examples": [
@@ -2057,7 +2177,8 @@
   {
     "kanji": "腹",
     "readings": [
-      "はら"
+      "はら",
+      "ふく"
     ],
     "meaning": "belly",
     "examples": [
@@ -2070,7 +2191,8 @@
   {
     "kanji": "奮",
     "readings": [
-      "ふん"
+      "ふん",
+      "ふる.う"
     ],
     "meaning": "be roused; exert",
     "examples": [
@@ -2083,7 +2205,9 @@
   {
     "kanji": "並",
     "readings": [
-      "なら.ぶ"
+      "なら.ぶ",
+      "な.み",
+      "へい"
     ],
     "meaning": "line up",
     "examples": [
@@ -2110,7 +2234,8 @@
     "kanji": "閉",
     "readings": [
       "し.める",
-      "と.じる"
+      "と.じる",
+      "へい"
     ],
     "meaning": "close",
     "examples": [
@@ -2123,7 +2248,8 @@
   {
     "kanji": "片",
     "readings": [
-      "かた"
+      "かた",
+      "へん"
     ],
     "meaning": "one side; piece",
     "examples": [
@@ -2136,7 +2262,8 @@
   {
     "kanji": "補",
     "readings": [
-      "おぎな.う"
+      "おぎな.う",
+      "ほ"
     ],
     "meaning": "supplement",
     "examples": [
@@ -2149,7 +2276,8 @@
   {
     "kanji": "暮",
     "readings": [
-      "くら.す"
+      "くら.す",
+      "ぼ"
     ],
     "meaning": "live; spend time",
     "examples": [
@@ -2162,7 +2290,8 @@
   {
     "kanji": "宝",
     "readings": [
-      "たから"
+      "たから",
+      "ほう"
     ],
     "meaning": "treasure",
     "examples": [
@@ -2175,7 +2304,8 @@
   {
     "kanji": "訪",
     "readings": [
-      "たず.ねる"
+      "たず.ねる",
+      "ほう"
     ],
     "meaning": "visit",
     "examples": [
@@ -2188,7 +2318,8 @@
   {
     "kanji": "亡",
     "readings": [
-      "な.くなる"
+      "な.くなる",
+      "ぼう"
     ],
     "meaning": "pass away",
     "examples": [
@@ -2201,7 +2332,8 @@
   {
     "kanji": "忘",
     "readings": [
-      "わす.れる"
+      "わす.れる",
+      "ぼう"
     ],
     "meaning": "forget",
     "examples": [
@@ -2239,7 +2371,8 @@
   {
     "kanji": "幕",
     "readings": [
-      "まく"
+      "まく",
+      "ばく"
     ],
     "meaning": "curtain; act",
     "examples": [
@@ -2278,7 +2411,8 @@
   {
     "kanji": "模",
     "readings": [
-      "も"
+      "も",
+      "ぼ"
     ],
     "meaning": "imitate; model",
     "examples": [
@@ -2291,7 +2425,8 @@
   {
     "kanji": "訳",
     "readings": [
-      "わけ"
+      "わけ",
+      "やく"
     ],
     "meaning": "reason; translation",
     "examples": [
@@ -2318,7 +2453,8 @@
     "kanji": "優",
     "readings": [
       "やさ.しい",
-      "すぐ.れる"
+      "すぐ.れる",
+      "ゆう"
     ],
     "meaning": "kind; excel",
     "examples": [
@@ -2331,7 +2467,8 @@
   {
     "kanji": "預",
     "readings": [
-      "あず.ける"
+      "あず.ける",
+      "よ"
     ],
     "meaning": "deposit; entrust",
     "examples": [
@@ -2343,7 +2480,8 @@
   {
     "kanji": "幼",
     "readings": [
-      "おさな.い"
+      "おさな.い",
+      "よう"
     ],
     "meaning": "childish; young",
     "examples": [
@@ -2356,7 +2494,8 @@
   {
     "kanji": "欲",
     "readings": [
-      "ほ.しい"
+      "ほ.しい",
+      "よく"
     ],
     "meaning": "want",
     "examples": [
@@ -2382,7 +2521,8 @@
   {
     "kanji": "乱",
     "readings": [
-      "らん"
+      "らん",
+      "みだ.れる"
     ],
     "meaning": "disorder; riot",
     "examples": [
@@ -2395,7 +2535,8 @@
   {
     "kanji": "卵",
     "readings": [
-      "たまご"
+      "たまご",
+      "らん"
     ],
     "meaning": "egg",
     "examples": [
@@ -2421,7 +2562,8 @@
   {
     "kanji": "裏",
     "readings": [
-      "うら"
+      "うら",
+      "り"
     ],
     "meaning": "back; reverse side",
     "examples": [
@@ -2447,7 +2589,8 @@
   {
     "kanji": "臨",
     "readings": [
-      "りん"
+      "りん",
+      "のぞ.む"
     ],
     "meaning": "face; be present at",
     "examples": [
@@ -2460,7 +2603,8 @@
   {
     "kanji": "朗",
     "readings": [
-      "ろう"
+      "ろう",
+      "ほが.らか"
     ],
     "meaning": "cheerful; clear",
     "examples": [
@@ -2484,3 +2628,4 @@
     ]
   }
 ]
+

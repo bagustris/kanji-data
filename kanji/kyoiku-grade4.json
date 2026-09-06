@@ -41,7 +41,8 @@
   {
     "kanji": "衣",
     "readings": [
-      "ころも"
+      "ころも",
+      "い"
     ],
     "meaning": "clothing",
     "examples": [
@@ -54,7 +55,8 @@
   {
     "kanji": "位",
     "readings": [
-      "くらい"
+      "くらい",
+      "い"
     ],
     "meaning": "rank; about",
     "examples": [
@@ -67,14 +69,19 @@
   {
     "kanji": "茨",
     "readings": [
-      "いばら"
+      "いばら",
+      "かや",
+      "くさぶき",
+      "し",
+      "じ"
     ],
     "meaning": "bramble; thorn"
   },
   {
     "kanji": "印",
     "readings": [
-      "しるし"
+      "しるし",
+      "いん"
     ],
     "meaning": "mark; sign",
     "examples": [
@@ -100,7 +107,8 @@
   {
     "kanji": "栄",
     "readings": [
-      "さか.える"
+      "さか.える",
+      "えい"
     ],
     "meaning": "prosper",
     "examples": [
@@ -113,14 +121,16 @@
   {
     "kanji": "媛",
     "readings": [
-      "えん"
+      "えん",
+      "ひめ"
     ],
     "meaning": "princess"
   },
   {
     "kanji": "塩",
     "readings": [
-      "しお"
+      "しお",
+      "えん"
     ],
     "meaning": "salt",
     "examples": [
@@ -133,7 +143,8 @@
   {
     "kanji": "岡",
     "readings": [
-      "おか"
+      "おか",
+      "こう"
     ],
     "meaning": "hill"
   },
@@ -151,7 +162,8 @@
   {
     "kanji": "加",
     "readings": [
-      "くわ.える"
+      "くわ.える",
+      "か"
     ],
     "meaning": "add",
     "examples": [
@@ -164,7 +176,8 @@
   {
     "kanji": "果",
     "readings": [
-      "は.たす"
+      "は.たす",
+      "か"
     ],
     "meaning": "fulfill",
     "examples": [
@@ -203,7 +216,8 @@
   {
     "kanji": "芽",
     "readings": [
-      "め"
+      "め",
+      "が"
     ],
     "meaning": "sprout; bud",
     "examples": [
@@ -228,7 +242,8 @@
   {
     "kanji": "改",
     "readings": [
-      "あらた.める"
+      "あらた.める",
+      "かい"
     ],
     "meaning": "revise",
     "examples": [
@@ -281,7 +296,8 @@
   {
     "kanji": "各",
     "readings": [
-      "かく"
+      "かく",
+      "おのおの"
     ],
     "meaning": "each",
     "examples": [
@@ -295,7 +311,8 @@
     "kanji": "覚",
     "readings": [
       "おぼ.える",
-      "かく"
+      "かく",
+      "さ.める"
     ],
     "meaning": "remember",
     "examples": [
@@ -308,7 +325,8 @@
   {
     "kanji": "潟",
     "readings": [
-      "かた"
+      "かた",
+      "せき"
     ],
     "meaning": "lagoon"
   },
@@ -341,12 +359,13 @@
   {
     "kanji": "管",
     "readings": [
-      "くだ"
+      "くだ",
+      "かん"
     ],
     "meaning": "pipe; tube",
     "examples": [
       { "word": "管", "reading": "くだ", "gloss": "pipe, tube" },
-      { "word": "菅", "reading": "かん", "gloss": "pipe, tube, duct" },
+      { "word": "管", "reading": "かん", "gloss": "pipe, tube, duct" },
       { "word": "管轄", "reading": "かんかつ", "gloss": "jurisdiction, control" },
       { "word": "管楽器", "reading": "かんがっき", "gloss": "wind instrument" }
     ]
@@ -354,7 +373,8 @@
   {
     "kanji": "関",
     "readings": [
-      "かん"
+      "かん",
+      "せき"
     ],
     "meaning": "connection; barrier",
     "examples": [
@@ -367,7 +387,8 @@
   {
     "kanji": "観",
     "readings": [
-      "かん"
+      "かん",
+      "み.る"
     ],
     "meaning": "view; outlook",
     "examples": [
@@ -380,7 +401,8 @@
   {
     "kanji": "願",
     "readings": [
-      "ねが.う"
+      "ねが.う",
+      "がん"
     ],
     "meaning": "wish",
     "examples": [
@@ -393,14 +415,16 @@
   {
     "kanji": "岐",
     "readings": [
-      "き"
+      "き",
+      "ぎ"
     ],
     "meaning": "branch; fork"
   },
   {
     "kanji": "希",
     "readings": [
-      "き"
+      "き",
+      "まれ"
     ],
     "meaning": "hope",
     "examples": [
@@ -425,7 +449,8 @@
   {
     "kanji": "旗",
     "readings": [
-      "はた"
+      "はた",
+      "き"
     ],
     "meaning": "flag",
     "examples": [
@@ -438,7 +463,8 @@
   {
     "kanji": "器",
     "readings": [
-      "き"
+      "き",
+      "うつわ"
     ],
     "meaning": "vessel; instrument",
     "examples": [
@@ -451,7 +477,8 @@
   {
     "kanji": "機",
     "readings": [
-      "き"
+      "き",
+      "はた"
     ],
     "meaning": "machine; opportunity",
     "examples": [
@@ -477,7 +504,8 @@
   {
     "kanji": "求",
     "readings": [
-      "もと.める"
+      "もと.める",
+      "きゅう"
     ],
     "meaning": "request",
     "examples": [
@@ -490,7 +518,8 @@
   {
     "kanji": "泣",
     "readings": [
-      "な.く"
+      "な.く",
+      "きゅう"
     ],
     "meaning": "cry; weep",
     "examples": [
@@ -503,7 +532,8 @@
   {
     "kanji": "給",
     "readings": [
-      "きゅう"
+      "きゅう",
+      "たま.う"
     ],
     "meaning": "supply",
     "examples": [
@@ -516,7 +546,8 @@
   {
     "kanji": "挙",
     "readings": [
-      "あ.げる"
+      "あ.げる",
+      "きょ"
     ],
     "meaning": "raise",
     "examples": [
@@ -529,7 +560,9 @@
   {
     "kanji": "漁",
     "readings": [
-      "りょう"
+      "りょう",
+      "あさ.る",
+      "ぎょ"
     ],
     "meaning": "fishing",
     "examples": [
@@ -542,7 +575,8 @@
   {
     "kanji": "共",
     "readings": [
-      "きょう"
+      "きょう",
+      "とも"
     ],
     "meaning": "together",
     "examples": [
@@ -568,7 +602,8 @@
   {
     "kanji": "鏡",
     "readings": [
-      "かがみ"
+      "かがみ",
+      "きょう"
     ],
     "meaning": "mirror",
     "examples": [
@@ -581,7 +616,8 @@
   {
     "kanji": "競",
     "readings": [
-      "きょう"
+      "きょう",
+      "きそ.う"
     ],
     "meaning": "compete",
     "examples": [
@@ -594,7 +630,8 @@
   {
     "kanji": "極",
     "readings": [
-      "きょく"
+      "きょく",
+      "きわ.める"
     ],
     "meaning": "extreme; pole",
     "examples": [
@@ -607,7 +644,8 @@
   {
     "kanji": "熊",
     "readings": [
-      "くま"
+      "くま",
+      "ゆう"
     ],
     "meaning": "bear"
   },
@@ -652,7 +690,10 @@
   {
     "kanji": "群",
     "readings": [
-      "む.れ"
+      "む.れ",
+      "ぐん",
+      "む.れる",
+      "むら.がる"
     ],
     "meaning": "flock; group",
     "examples": [
@@ -704,7 +745,8 @@
   {
     "kanji": "欠",
     "readings": [
-      "けつ"
+      "けつ",
+      "か.ける"
     ],
     "meaning": "lack; missing",
     "examples": [
@@ -717,7 +759,9 @@
   {
     "kanji": "結",
     "readings": [
-      "むす.ぶ"
+      "むす.ぶ",
+      "けつ",
+      "ゆ.う"
     ],
     "meaning": "tie; connect",
     "examples": [
@@ -744,7 +788,8 @@
   {
     "kanji": "健",
     "readings": [
-      "けん"
+      "けん",
+      "すこ.やか"
     ],
     "meaning": "healthy",
     "examples": [
@@ -757,7 +802,9 @@
   {
     "kanji": "固",
     "readings": [
-      "かた.い"
+      "かた.い",
+      "かた.まる",
+      "こ"
     ],
     "meaning": "firm; hard",
     "examples": [
@@ -775,15 +822,18 @@
     "meaning": "achievement",
     "examples": [
       { "word": "成功する", "reading": "せいこうする", "gloss": "succeed" },
-      { "word": "年功序列", "reading": "ねんこうじょれつ", "gloss": "achievement" },
-      { "word": "功績", "reading": "こうせき", "gloss": "seniority system" },
+      { "word": "年功序列", "reading": "ねんこうじょれつ", "gloss": "seniority system" },
+      { "word": "功績", "reading": "こうせき", "gloss": "achievement" },
       { "word": "功労者", "reading": "こうろうしゃ", "gloss": "meritorious person" }
     ]
   },
   {
     "kanji": "好",
     "readings": [
-      "す.き"
+      "す.き",
+      "こう",
+      "この.む",
+      "す.く"
     ],
     "meaning": "likable; fond",
     "examples": [
@@ -796,7 +846,10 @@
   {
     "kanji": "香",
     "readings": [
-      "かお.り"
+      "かお.り",
+      "か",
+      "きょう",
+      "こう"
     ],
     "meaning": "scent",
     "examples": [
@@ -854,7 +907,8 @@
   {
     "kanji": "菜",
     "readings": [
-      "さい"
+      "さい",
+      "な"
     ],
     "meaning": "vegetable",
     "examples": [
@@ -867,7 +921,8 @@
   {
     "kanji": "最",
     "readings": [
-      "もっと.も"
+      "もっと.も",
+      "さい"
     ],
     "meaning": "most",
     "examples": [
@@ -880,7 +935,9 @@
   {
     "kanji": "埼",
     "readings": [
-      "さい"
+      "さい",
+      "き",
+      "さき"
     ],
     "meaning": "cape"
   },
@@ -900,7 +957,8 @@
   {
     "kanji": "崎",
     "readings": [
-      "さき"
+      "さき",
+      "き"
     ],
     "meaning": "cape; peninsula"
   },
@@ -920,7 +978,8 @@
   {
     "kanji": "札",
     "readings": [
-      "ふだ"
+      "ふだ",
+      "さつ"
     ],
     "meaning": "tag; card",
     "examples": [
@@ -933,7 +992,8 @@
   {
     "kanji": "刷",
     "readings": [
-      "さつ"
+      "さつ",
+      "す.る"
     ],
     "meaning": "print",
     "examples": [
@@ -959,7 +1019,8 @@
   {
     "kanji": "参",
     "readings": [
-      "さん"
+      "さん",
+      "まい.る"
     ],
     "meaning": "participate",
     "examples": [
@@ -973,7 +1034,8 @@
     "kanji": "産",
     "readings": [
       "さん",
-      "う.まれる"
+      "う.まれる",
+      "う.む"
     ],
     "meaning": "give birth; produce",
     "examples": [
@@ -986,7 +1048,8 @@
   {
     "kanji": "散",
     "readings": [
-      "ち.る"
+      "ち.る",
+      "さん"
     ],
     "meaning": "scatter",
     "examples": [
@@ -999,7 +1062,8 @@
   {
     "kanji": "残",
     "readings": [
-      "のこ.る"
+      "のこ.る",
+      "ざん"
     ],
     "meaning": "remain",
     "examples": [
@@ -1012,7 +1076,8 @@
   {
     "kanji": "氏",
     "readings": [
-      "し"
+      "し",
+      "うじ"
     ],
     "meaning": "family name; Mr.",
     "examples": [
@@ -1038,7 +1103,9 @@
   {
     "kanji": "試",
     "readings": [
-      "し"
+      "し",
+      "こころ.みる",
+      "ため.す"
     ],
     "meaning": "try; test",
     "examples": [
@@ -1051,7 +1118,9 @@
   {
     "kanji": "児",
     "readings": [
-      "じ"
+      "じ",
+      "こ",
+      "に"
     ],
     "meaning": "child",
     "examples": [
@@ -1064,7 +1133,10 @@
   {
     "kanji": "治",
     "readings": [
-      "なお.る"
+      "なお.る",
+      "おさ.める",
+      "じ",
+      "ち"
     ],
     "meaning": "heal; be cured",
     "examples": [
@@ -1077,14 +1149,16 @@
   {
     "kanji": "滋",
     "readings": [
-      "じ"
+      "じ",
+      "し"
     ],
     "meaning": "nourishing"
   },
   {
     "kanji": "辞",
     "readings": [
-      "じ"
+      "じ",
+      "や.める"
     ],
     "meaning": "word; resign",
     "examples": [
@@ -1097,7 +1171,9 @@
   {
     "kanji": "鹿",
     "readings": [
-      "しか"
+      "しか",
+      "か",
+      "ろく"
     ],
     "meaning": "deer",
     "examples": [
@@ -1110,7 +1186,8 @@
   {
     "kanji": "失",
     "readings": [
-      "しつ"
+      "しつ",
+      "うしな.う"
     ],
     "meaning": "lose; error",
     "examples": [
@@ -1123,7 +1200,8 @@
   {
     "kanji": "借",
     "readings": [
-      "か.りる"
+      "か.りる",
+      "しゃく"
     ],
     "meaning": "borrow",
     "examples": [
@@ -1136,7 +1214,8 @@
   {
     "kanji": "種",
     "readings": [
-      "たね"
+      "たね",
+      "しゅ"
     ],
     "meaning": "seed; kind",
     "examples": [
@@ -1149,7 +1228,8 @@
   {
     "kanji": "周",
     "readings": [
-      "まわ.り"
+      "まわ.り",
+      "しゅう"
     ],
     "meaning": "surroundings",
     "examples": [
@@ -1162,7 +1242,8 @@
   {
     "kanji": "祝",
     "readings": [
-      "いわ.う"
+      "いわ.う",
+      "しゅく"
     ],
     "meaning": "celebrate",
     "examples": [
@@ -1189,7 +1270,8 @@
     "kanji": "初",
     "readings": [
       "はじ.め",
-      "しょ"
+      "しょ",
+      "はつ"
     ],
     "meaning": "beginning",
     "examples": [
@@ -1202,7 +1284,8 @@
   {
     "kanji": "松",
     "readings": [
-      "まつ"
+      "まつ",
+      "しょう"
     ],
     "meaning": "pine tree",
     "examples": [
@@ -1215,7 +1298,8 @@
   {
     "kanji": "笑",
     "readings": [
-      "わら.う"
+      "わら.う",
+      "しょう"
     ],
     "meaning": "laugh",
     "examples": [
@@ -1242,7 +1326,8 @@
   {
     "kanji": "焼",
     "readings": [
-      "や.く"
+      "や.く",
+      "しょう"
     ],
     "meaning": "burn; grill",
     "examples": [
@@ -1255,7 +1340,9 @@
   {
     "kanji": "照",
     "readings": [
-      "て.る"
+      "て.る",
+      "しょう",
+      "て.らす"
     ],
     "meaning": "shine",
     "examples": [
@@ -1268,7 +1355,8 @@
   {
     "kanji": "城",
     "readings": [
-      "しろ"
+      "しろ",
+      "じょう"
     ],
     "meaning": "castle",
     "examples": [
@@ -1281,7 +1369,8 @@
   {
     "kanji": "縄",
     "readings": [
-      "なわ"
+      "なわ",
+      "じょう"
     ],
     "meaning": "rope"
   },
@@ -1314,7 +1403,9 @@
   {
     "kanji": "井",
     "readings": [
-      "い"
+      "い",
+      "しょう",
+      "せい"
     ],
     "meaning": "well"
   },
@@ -1335,7 +1426,9 @@
   {
     "kanji": "省",
     "readings": [
-      "せい"
+      "せい",
+      "しょう",
+      "はぶ.く"
     ],
     "meaning": "ministry; reflect",
     "examples": [
@@ -1348,7 +1441,8 @@
   {
     "kanji": "清",
     "readings": [
-      "せい"
+      "せい",
+      "しょう"
     ],
     "meaning": "pure; clear",
     "examples": [
@@ -1361,7 +1455,8 @@
   {
     "kanji": "静",
     "readings": [
-      "しず.か"
+      "しず.か",
+      "せい"
     ],
     "meaning": "quiet",
     "examples": [
@@ -1401,7 +1496,8 @@
   {
     "kanji": "折",
     "readings": [
-      "お.る"
+      "お.る",
+      "せつ"
     ],
     "meaning": "fold; break",
     "examples": [
@@ -1414,7 +1510,8 @@
   {
     "kanji": "節",
     "readings": [
-      "せつ"
+      "せつ",
+      "ふし"
     ],
     "meaning": "season; joint",
     "examples": [
@@ -1427,7 +1524,8 @@
   {
     "kanji": "説",
     "readings": [
-      "せつ"
+      "せつ",
+      "と.く"
     ],
     "meaning": "theory; opinion",
     "examples": [
@@ -1440,7 +1538,8 @@
   {
     "kanji": "浅",
     "readings": [
-      "あさ.い"
+      "あさ.い",
+      "せん"
     ],
     "meaning": "shallow",
     "examples": [
@@ -1454,7 +1553,8 @@
     "kanji": "戦",
     "readings": [
       "たたか.う",
-      "せん"
+      "せん",
+      "いくさ"
     ],
     "meaning": "fight",
     "examples": [
@@ -1481,7 +1581,9 @@
   {
     "kanji": "然",
     "readings": [
-      "ぜん"
+      "ぜん",
+      "しか.し",
+      "ねん"
     ],
     "meaning": "so; like that",
     "examples": [
@@ -1494,7 +1596,8 @@
   {
     "kanji": "争",
     "readings": [
-      "あらそ.う"
+      "あらそ.う",
+      "そう"
     ],
     "meaning": "dispute",
     "examples": [
@@ -1507,7 +1610,8 @@
   {
     "kanji": "倉",
     "readings": [
-      "くら"
+      "くら",
+      "そう"
     ],
     "meaning": "storehouse",
     "examples": [
@@ -1520,7 +1624,8 @@
   {
     "kanji": "巣",
     "readings": [
-      "す"
+      "す",
+      "そう"
     ],
     "meaning": "nest",
     "examples": [
@@ -1533,7 +1638,9 @@
   {
     "kanji": "束",
     "readings": [
-      "たば"
+      "たば",
+      "そく",
+      "つか"
     ],
     "meaning": "bundle",
     "examples": [
@@ -1546,7 +1653,9 @@
   {
     "kanji": "側",
     "readings": [
-      "がわ"
+      "がわ",
+      "かわ",
+      "そく"
     ],
     "meaning": "side",
     "examples": [
@@ -1559,7 +1668,8 @@
   {
     "kanji": "続",
     "readings": [
-      "つづ.く"
+      "つづ.く",
+      "ぞく"
     ],
     "meaning": "continue",
     "examples": [
@@ -1585,7 +1695,8 @@
   {
     "kanji": "孫",
     "readings": [
-      "まご"
+      "まご",
+      "そん"
     ],
     "meaning": "grandchild",
     "examples": [
@@ -1598,7 +1709,8 @@
   {
     "kanji": "帯",
     "readings": [
-      "おび"
+      "おび",
+      "たい"
     ],
     "meaning": "sash; belt",
     "examples": [
@@ -1650,7 +1762,8 @@
   {
     "kanji": "置",
     "readings": [
-      "お.く"
+      "お.く",
+      "ち"
     ],
     "meaning": "put; place",
     "examples": [
@@ -1663,7 +1776,8 @@
   {
     "kanji": "仲",
     "readings": [
-      "なか"
+      "なか",
+      "ちゅう"
     ],
     "meaning": "relationship",
     "examples": [
@@ -1676,14 +1790,17 @@
   {
     "kanji": "沖",
     "readings": [
-      "おき"
+      "おき",
+      "ちゅう",
+      "わく"
     ],
     "meaning": "offshore"
   },
   {
     "kanji": "兆",
     "readings": [
-      "ちょう"
+      "ちょう",
+      "きざ.し"
     ],
     "meaning": "sign; trillion",
     "examples": [
@@ -1696,7 +1813,8 @@
   {
     "kanji": "低",
     "readings": [
-      "ひく.い"
+      "ひく.い",
+      "てい"
     ],
     "meaning": "low",
     "examples": [
@@ -1709,7 +1827,8 @@
   {
     "kanji": "底",
     "readings": [
-      "そこ"
+      "そこ",
+      "てい"
     ],
     "meaning": "bottom",
     "examples": [
@@ -1722,7 +1841,8 @@
   {
     "kanji": "的",
     "readings": [
-      "てき"
+      "てき",
+      "まと"
     ],
     "meaning": "target; -like",
     "examples": [
@@ -1748,7 +1868,8 @@
   {
     "kanji": "伝",
     "readings": [
-      "つた.える"
+      "つた.える",
+      "でん"
     ],
     "meaning": "convey",
     "examples": [
@@ -1774,7 +1895,8 @@
   {
     "kanji": "努",
     "readings": [
-      "ど"
+      "ど",
+      "つと.める"
     ],
     "meaning": "endeavor",
     "examples": [
@@ -1787,7 +1909,8 @@
   {
     "kanji": "灯",
     "readings": [
-      "とう"
+      "とう",
+      "ひ"
     ],
     "meaning": "lamp",
     "examples": [
@@ -1800,7 +1923,8 @@
   {
     "kanji": "働",
     "readings": [
-      "はたら.く"
+      "はたら.く",
+      "どう"
     ],
     "meaning": "work",
     "examples": [
@@ -1846,14 +1970,17 @@
   {
     "kanji": "奈",
     "readings": [
-      "な"
+      "な",
+      "からなし",
+      "だい"
     ],
     "meaning": "(place name use)"
   },
   {
     "kanji": "梨",
     "readings": [
-      "なし"
+      "なし",
+      "り"
     ],
     "meaning": "pear"
   },
@@ -1887,7 +2014,8 @@
   {
     "kanji": "敗",
     "readings": [
-      "はい"
+      "はい",
+      "やぶ.れる"
     ],
     "meaning": "defeat",
     "examples": [
@@ -1900,7 +2028,8 @@
   {
     "kanji": "梅",
     "readings": [
-      "うめ"
+      "うめ",
+      "ばい"
     ],
     "meaning": "plum",
     "examples": [
@@ -1926,14 +2055,16 @@
   {
     "kanji": "阪",
     "readings": [
-      "はん"
+      "はん",
+      "さか"
     ],
     "meaning": "slope"
   },
   {
     "kanji": "飯",
     "readings": [
-      "はん"
+      "はん",
+      "めし"
     ],
     "meaning": "meal; cooked rice",
     "examples": [
@@ -1946,7 +2077,8 @@
   {
     "kanji": "飛",
     "readings": [
-      "と.ぶ"
+      "と.ぶ",
+      "ひ"
     ],
     "meaning": "fly",
     "examples": [
@@ -1959,7 +2091,8 @@
   {
     "kanji": "必",
     "readings": [
-      "かなら.ず"
+      "かなら.ず",
+      "ひつ"
     ],
     "meaning": "certainly",
     "examples": [
@@ -1998,7 +2131,8 @@
   {
     "kanji": "不",
     "readings": [
-      "ふ"
+      "ふ",
+      "ぶ"
     ],
     "meaning": "negative prefix",
     "examples": [
@@ -2011,7 +2145,8 @@
   {
     "kanji": "夫",
     "readings": [
-      "おっと"
+      "おっと",
+      "ふ"
     ],
     "meaning": "husband",
     "examples": [
@@ -2024,7 +2159,9 @@
   {
     "kanji": "付",
     "readings": [
-      "つ.ける"
+      "つ.ける",
+      "つ.く",
+      "ふ"
     ],
     "meaning": "attach",
     "examples": [
@@ -2057,7 +2194,8 @@
   {
     "kanji": "富",
     "readings": [
-      "ふ"
+      "ふ",
+      "とみ"
     ],
     "meaning": "wealth",
     "examples": [
@@ -2083,7 +2221,9 @@
   {
     "kanji": "兵",
     "readings": [
-      "へい"
+      "へい",
+      "つわもの",
+      "ひょう"
     ],
     "meaning": "soldier",
     "examples": [
@@ -2096,7 +2236,8 @@
   {
     "kanji": "別",
     "readings": [
-      "べつ"
+      "べつ",
+      "わか.れる"
     ],
     "meaning": "separate",
     "examples": [
@@ -2109,7 +2250,8 @@
   {
     "kanji": "辺",
     "readings": [
-      "へん"
+      "へん",
+      "あた.り"
     ],
     "meaning": "area; vicinity",
     "examples": [
@@ -2137,7 +2279,8 @@
     "kanji": "便",
     "readings": [
       "べん",
-      "びん"
+      "びん",
+      "たよ.り"
     ],
     "meaning": "convenience; mail",
     "examples": [
@@ -2150,7 +2293,8 @@
   {
     "kanji": "包",
     "readings": [
-      "つつ.む"
+      "つつ.む",
+      "ほう"
     ],
     "meaning": "wrap",
     "examples": [
@@ -2190,7 +2334,8 @@
   {
     "kanji": "牧",
     "readings": [
-      "ぼく"
+      "ぼく",
+      "まき"
     ],
     "meaning": "pasture",
     "examples": [
@@ -2203,7 +2348,8 @@
   {
     "kanji": "末",
     "readings": [
-      "まつ"
+      "まつ",
+      "すえ"
     ],
     "meaning": "end",
     "examples": [
@@ -2216,7 +2362,8 @@
   {
     "kanji": "満",
     "readings": [
-      "まん"
+      "まん",
+      "み.ちる"
     ],
     "meaning": "full",
     "examples": [
@@ -2229,7 +2376,8 @@
   {
     "kanji": "未",
     "readings": [
-      "み"
+      "み",
+      "いま.だ"
     ],
     "meaning": "not yet",
     "examples": [
@@ -2242,7 +2390,8 @@
   {
     "kanji": "民",
     "readings": [
-      "みん"
+      "みん",
+      "たみ"
     ],
     "meaning": "people; citizen",
     "examples": [
@@ -2255,7 +2404,9 @@
   {
     "kanji": "無",
     "readings": [
-      "む"
+      "む",
+      "な.い",
+      "ぶ"
     ],
     "meaning": "nothing; negative",
     "examples": [
@@ -2281,7 +2432,8 @@
   {
     "kanji": "勇",
     "readings": [
-      "ゆう"
+      "ゆう",
+      "いさ.む"
     ],
     "meaning": "courage",
     "examples": [
@@ -2294,7 +2446,8 @@
   {
     "kanji": "要",
     "readings": [
-      "よう"
+      "よう",
+      "い.る"
     ],
     "meaning": "need; important",
     "examples": [
@@ -2307,7 +2460,8 @@
   {
     "kanji": "養",
     "readings": [
-      "よう"
+      "よう",
+      "やしな.う"
     ],
     "meaning": "nurture",
     "examples": [
@@ -2320,7 +2474,8 @@
   {
     "kanji": "浴",
     "readings": [
-      "あ.びる"
+      "あ.びる",
+      "よく"
     ],
     "meaning": "bathe",
     "examples": [
@@ -2359,7 +2514,8 @@
   {
     "kanji": "良",
     "readings": [
-      "よ.い"
+      "よ.い",
+      "りょう"
     ],
     "meaning": "good",
     "examples": [
@@ -2398,7 +2554,8 @@
   {
     "kanji": "輪",
     "readings": [
-      "わ"
+      "わ",
+      "りん"
     ],
     "meaning": "ring; wheel",
     "examples": [
@@ -2438,7 +2595,9 @@
     "kanji": "冷",
     "readings": [
       "つめ.たい",
-      "れい"
+      "れい",
+      "さ.める",
+      "ひ.える"
     ],
     "meaning": "cold (to touch)",
     "examples": [
@@ -2451,7 +2610,8 @@
   {
     "kanji": "例",
     "readings": [
-      "れい"
+      "れい",
+      "たと.える"
     ],
     "meaning": "example",
     "examples": [
@@ -2464,7 +2624,9 @@
   {
     "kanji": "連",
     "readings": [
-      "れん"
+      "れん",
+      "つら.ねる",
+      "つ.れる"
     ],
     "meaning": "connect; series",
     "examples": [
@@ -2477,7 +2639,8 @@
   {
     "kanji": "老",
     "readings": [
-      "ろう"
+      "ろう",
+      "お.いる"
     ],
     "meaning": "old age",
     "examples": [
@@ -2490,7 +2653,8 @@
   {
     "kanji": "労",
     "readings": [
-      "ろう"
+      "ろう",
+      "ねぎら.う"
     ],
     "meaning": "labor",
     "examples": [
@@ -2527,3 +2691,4 @@
     ]
   }
 ]
+

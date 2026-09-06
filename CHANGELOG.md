@@ -6,7 +6,15 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 This project does not yet follow semantic version tags; entries are
 grouped chronologically until a first release is cut.
 
-## [0.2.0[ - 2026-08-27  
+## [Unreleased]
+
+### Fixed
+- `kanji/kyoiku-grade2.json`: merged the duplicate 分 entry (there were two
+  分 records, making the file 161 entries) into a single 160-char entry; the
+  set now exactly matches the official Kyōiku kanji grade-2 list (160 kanji).
+  Also corrected 分's meaning ("one" → "divide; part").
+
+## [0.2.0] - 2026-08-27  
 
 ## Added 
 - ~555 new okurigana entries and example sentences attached to ~1430 words.
