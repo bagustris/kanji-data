@@ -120,11 +120,11 @@ function fillerFor(word, meaning) {
   const gloss = primaryGloss(meaning);
   switch (classify(word, meaning)) {
     case 'transitive':
-      return { sentence: `必要なときにそれを${word}。`, translation: `I ${gloss.toLowerCase()} it when necessary.` };
+      return { sentence: `必要なときにそれを${word}。`, translation: `It is possible to ${gloss.toLowerCase()} something when necessary.` };
     case 'intransitive':
-      return { sentence: `ときどきそれが${word}ことがある。`, translation: `Sometimes it ${gloss.toLowerCase()}.` };
+      return { sentence: `ときどきそれが${word}ことがある。`, translation: `It is possible for something to ${gloss.toLowerCase()} sometimes.` };
     case 'verb-unknown-transitivity':
-      return { sentence: `必要なときに${word}。`, translation: `I ${gloss.toLowerCase()} when necessary.` };
+      return { sentence: `必要なときに${word}。`, translation: `It is possible to ${gloss.toLowerCase()} when necessary.` };
     case 'i-adjective':
       return { sentence: `これはとても${word}。`, translation: `This is very ${gloss.toLowerCase()}.` };
     case 'na-adjective':
@@ -137,7 +137,18 @@ function fillerFor(word, meaning) {
 function isLegacyFiller(word, meaning, examples) {
   if (!examples || examples.length !== 1) return false;
   const legacy = fillerForLegacy(word, meaning);
-  return examples[0].sentence === legacy.sentence && examples[0].translation === legacy.translation;
+  if (examples[0].sentence === legacy.sentence && examples[0].translation === legacy.translation) return true;
+  const gloss = primaryGloss(meaning).toLowerCase();
+  switch (classify(word, meaning)) {
+    case 'transitive':
+      return examples[0].sentence === `必要なときにそれを${word}。` && examples[0].translation === `I ${gloss} it when necessary.`;
+    case 'intransitive':
+      return examples[0].sentence === `ときどきそれが${word}ことがある。` && examples[0].translation === `Sometimes it ${gloss}.`;
+    case 'verb-unknown-transitivity':
+      return examples[0].sentence === `必要なときに${word}。` && examples[0].translation === `I ${gloss} when necessary.`;
+    default:
+      return examples[0].sentence === `授業で${word}について学ぶ。` && examples[0].translation === `We learn about ${gloss} in class.`;
+  }
 }
 
 function fillerForLegacy(word, meaning) {
