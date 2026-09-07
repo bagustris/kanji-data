@@ -409,7 +409,8 @@
     "kanji": "脱",
     "readings": [
       "ぬ.ぐ",
-      "ぬ.げる"
+      "ぬ.げる",
+      "だつ"
     ],
     "meaning": "take off; escape",
     "examples": [
@@ -574,7 +575,8 @@
     "kanji": "舟",
     "readings": [
       "ふね",
-      "ふな"
+      "ふな",
+      "しゅう"
     ],
     "meaning": "boat",
     "examples": [
@@ -1119,7 +1121,8 @@
     "kanji": "触",
     "readings": [
       "ふ.れる",
-      "さわ.る"
+      "さわ.る",
+      "しょく"
     ],
     "meaning": "touch",
     "examples": [
@@ -1215,7 +1218,8 @@
     "kanji": "詰",
     "readings": [
       "つ.める",
-      "つ.まる"
+      "つ.まる",
+      "きつ"
     ],
     "meaning": "stuff; pack",
     "examples": [
@@ -1599,7 +1603,8 @@
     "kanji": "超",
     "readings": [
       "こ.す",
-      "こ.える"
+      "こ.える",
+      "ちょう"
     ],
     "meaning": "exceed",
     "examples": [
@@ -1677,7 +1682,8 @@
     "kanji": "踊",
     "readings": [
       "おど.る",
-      "おど.り"
+      "おど.り",
+      "よう"
     ],
     "meaning": "dance",
     "examples": [
@@ -1743,7 +1749,8 @@
     "kanji": "軟",
     "readings": [
       "やわ.らか",
-      "やわ.らかい"
+      "やわ.らかい",
+      "なん"
     ],
     "meaning": "soft; flexible",
     "examples": [
@@ -1976,7 +1983,9 @@
     "kanji": "遅",
     "readings": [
       "おく.れる",
-      "おく.らす"
+      "おく.らす",
+      "おそ.い",
+      "ち"
     ],
     "meaning": "be late",
     "examples": [
@@ -2262,7 +2271,8 @@
     "kanji": "鈍",
     "readings": [
       "にぶ.い",
-      "にぶ.る"
+      "にぶ.る",
+      "どん"
     ],
     "meaning": "dull; slow",
     "examples": [
@@ -2658,7 +2668,8 @@
     "kanji": "離",
     "readings": [
       "はな.れる",
-      "はな.す"
+      "はな.す",
+      "り"
     ],
     "meaning": "separate; leave",
     "examples": [
@@ -2707,7 +2718,8 @@
     "kanji": "震",
     "readings": [
       "ふる.う",
-      "ふる.える"
+      "ふる.える",
+      "しん"
     ],
     "meaning": "shake; tremble",
     "examples": [
@@ -3010,7 +3022,8 @@
     "kanji": "驚",
     "readings": [
       "おどろ.く",
-      "おどろ.かす"
+      "おどろ.かす",
+      "きょう"
     ],
     "meaning": "be surprised",
     "examples": [

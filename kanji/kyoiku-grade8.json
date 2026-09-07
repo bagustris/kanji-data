@@ -51,7 +51,8 @@
     "kanji": "抜",
     "readings": [
       "ぬ.く",
-      "ぬ.ける"
+      "ぬ.ける",
+      "ばつ"
     ],
     "meaning": "pull out",
     "examples": [
@@ -79,7 +80,8 @@
     "kanji": "抱",
     "readings": [
       "だ.く",
-      "いだ.く"
+      "いだ.く",
+      "ほう"
     ],
     "meaning": "hold; embrace",
     "examples": [
@@ -237,7 +239,8 @@
     "kanji": "挟",
     "readings": [
       "はさ.む",
-      "はさ.まる"
+      "はさ.まる",
+      "きょう"
     ],
     "meaning": "insert between",
     "examples": [
@@ -424,7 +427,8 @@
     "kanji": "描",
     "readings": [
       "えが.く",
-      "か.く"
+      "か.く",
+      "びょう"
     ],
     "meaning": "draw; depict",
     "examples": [
@@ -859,7 +863,8 @@
     "kanji": "更",
     "readings": [
       "ふ.ける",
-      "ふ.かす"
+      "ふ.かす",
+      "こう"
     ],
     "meaning": "grow late; renew",
     "examples": [
@@ -979,7 +984,8 @@
     "kanji": "枯",
     "readings": [
       "か.れる",
-      "か.らす"
+      "か.らす",
+      "こ"
     ],
     "meaning": "wither",
     "examples": [
@@ -1016,7 +1022,9 @@
     "kanji": "柔",
     "readings": [
       "やわ.らか",
-      "やわ.らかい"
+      "やわ.らかい",
+      "じゅう",
+      "にゅう"
     ],
     "meaning": "soft",
     "examples": [
@@ -1288,7 +1296,8 @@
     "kanji": "殿",
     "readings": [
       "との",
-      "どの"
+      "どの",
+      "でん"
     ],
     "meaning": "lord; Mr. (formal)",
     "examples": [
@@ -1381,7 +1390,8 @@
     "kanji": "沈",
     "readings": [
       "しず.む",
-      "しず.める"
+      "しず.める",
+      "ちん"
     ],
     "meaning": "sink",
     "examples": [
@@ -1559,7 +1569,8 @@
     "kanji": "浮",
     "readings": [
       "う.かべる",
-      "う.く"
+      "う.く",
+      "ふ"
     ],
     "meaning": "float",
     "examples": [
@@ -1602,7 +1613,8 @@
     "kanji": "涼",
     "readings": [
       "すず.しい",
-      "すず.む"
+      "すず.む",
+      "りょう"
     ],
     "meaning": "cool",
     "examples": [
@@ -1725,7 +1737,8 @@
     "kanji": "湿",
     "readings": [
       "しめ.す",
-      "しめ.る"
+      "しめ.る",
+      "しつ"
     ],
     "meaning": "damp; humid",
     "examples": [
@@ -1747,7 +1760,8 @@
     "kanji": "溶",
     "readings": [
       "と.かす",
-      "と.く"
+      "と.く",
+      "よう"
     ],
     "meaning": "melt; dissolve",
     "examples": [
@@ -2006,7 +2020,8 @@
     "kanji": "煙",
     "readings": [
       "けむ.る",
-      "けむ.い"
+      "けむ.い",
+      "えん"
     ],
     "meaning": "smoke",
     "examples": [
@@ -2107,7 +2122,8 @@
     "kanji": "狂",
     "readings": [
       "くる.う",
-      "くる.おしい"
+      "くる.おしい",
+      "きょう"
     ],
     "meaning": "go mad",
     "examples": [
@@ -2137,7 +2153,8 @@
     "kanji": "狭",
     "readings": [
       "せば.める",
-      "せば.まる"
+      "せば.まる",
+      "きょう"
     ],
     "meaning": "narrow",
     "examples": [
@@ -2595,7 +2612,8 @@
     "kanji": "眠",
     "readings": [
       "ねむ.る",
-      "ねむ.い"
+      "ねむ.い",
+      "みん"
     ],
     "meaning": "sleep",
     "examples": [
@@ -2970,7 +2988,8 @@
     "kanji": "端",
     "readings": [
       "はし",
-      "は"
+      "は",
+      "たん"
     ],
     "meaning": "edge; end",
     "examples": [
@@ -3226,7 +3245,8 @@
     "kanji": "絡",
     "readings": [
       "から.む",
-      "から.まる"
+      "から.まる",
+      "らく"
     ],
     "meaning": "entwine",
     "examples": [
