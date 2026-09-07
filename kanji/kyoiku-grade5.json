@@ -132,7 +132,7 @@
     ],
     "meaning": "liquid",
     "examples": [
-      { "word": "液", "reading": "えき", "gloss": "liquid, fluid" },
+      { "word": "血液", "reading": "けつえき", "gloss": "blood" },
       { "word": "液体", "reading": "えきたい", "gloss": "liquid, fluid" },
       { "word": "液状", "reading": "えきじょう", "gloss": "liquid state" },
       { "word": "廃液", "reading": "はいえき", "gloss": "liquid waste" }
@@ -186,7 +186,7 @@
     ],
     "meaning": "cherry blossom",
     "examples": [
-      { "word": "桜", "reading": "さくら", "gloss": "cherry tree or blossom, decoy" },
+      { "word": "桜花", "reading": "おうか", "gloss": "cherry blossom" },
       { "word": "桜ん坊", "reading": "さくらんぼ", "gloss": "cherry" },
       { "word": "桜桃", "reading": "おうとう", "gloss": "cherry" },
       { "word": "山桜", "reading": "やまざくら", "gloss": "wild cherry tree or blossoms" }
@@ -242,7 +242,7 @@
     ],
     "meaning": "river",
     "examples": [
-      { "word": "河", "reading": "かわ", "gloss": "river, stream" },
+      { "word": "河口", "reading": "かわぐち", "gloss": "mouth of river" },
       { "word": "河底", "reading": "かわぞこ", "gloss": "river bed" },
       { "word": "河原", "reading": "かわら", "gloss": "dry river bed, river beach" },
       { "word": "河川", "reading": "かせん", "gloss": "rivers and streams" }
@@ -301,7 +301,7 @@
     ],
     "meaning": "status; rule",
     "examples": [
-      { "word": "格", "reading": "かく", "gloss": "status, character, case" },
+      { "word": "格好", "reading": "かっこう", "gloss": "shape" },
       { "word": "格闘技", "reading": "かくとうぎ", "gloss": "hand to hand fighting sport" },
       { "word": "性格", "reading": "せいかく", "gloss": "character, personality" },
       { "word": "体格", "reading": "たいかく", "gloss": "physique, constitution" }
@@ -330,7 +330,7 @@
     ],
     "meaning": "amount; framed picture",
     "examples": [
-      { "word": "額", "reading": "がく", "gloss": "picture, amount, sum" },
+      { "word": "総額", "reading": "そうがく", "gloss": "total amount (of money)" },
       { "word": "額面", "reading": "がくめん", "gloss": "face value" },
       { "word": "額縁", "reading": "がくぶち", "gloss": "picture frame" },
       { "word": "金額", "reading": "きんがく", "gloss": "amount of money" }
@@ -357,7 +357,7 @@
     ],
     "meaning": "trunk (tree)",
     "examples": [
-      { "word": "幹", "reading": "みき", "gloss": "(tree) trunk" },
+      { "word": "新幹線", "reading": "しんかんせん", "gloss": "Shinkansen" },
       { "word": "幹事", "reading": "かんじ", "gloss": "party coordinator" },
       { "word": "幹部", "reading": "かんぶ", "gloss": "executive, leader" },
       { "word": "幹線道路", "reading": "かんせんどうろ", "gloss": "main road, main thoroughfare" }
@@ -413,7 +413,7 @@
     ],
     "meaning": "basis; foundation",
     "examples": [
-      { "word": "基", "reading": "もと", "gloss": "basis" },
+      { "word": "基本的", "reading": "きほんてき", "gloss": "fundamental" },
       { "word": "基づく", "reading": "もとづく", "gloss": "be based on" },
       { "word": "基本", "reading": "きほん", "gloss": "basics" },
       { "word": "基礎", "reading": "きそ", "gloss": "foundation" }
@@ -469,7 +469,7 @@
     ],
     "meaning": "skill; technique",
     "examples": [
-      { "word": "技", "reading": "わざ", "gloss": "art, technique" },
+      { "word": "技術的", "reading": "ぎじゅつてき", "gloss": "technical" },
       { "word": "技術", "reading": "ぎじゅつ", "gloss": "technique" },
       { "word": "技能", "reading": "ぎのう", "gloss": "technical skill" },
       { "word": "技巧", "reading": "ぎこう", "gloss": "skill, technique, craftsmanship" }
@@ -496,7 +496,7 @@
     ],
     "meaning": "reverse",
     "examples": [
-      { "word": "逆", "reading": "ぎゃく", "gloss": "opposite [n.]" },
+      { "word": "逆さ", "reading": "さかさ", "gloss": "inverted" },
       { "word": "逆説", "reading": "ぎゃくせつ", "gloss": "paradox" },
       { "word": "逆流", "reading": "ぎゃくりゅう", "gloss": "counter-current" },
       { "word": "逆効果", "reading": "ぎゃくこうか", "gloss": "opposite effect" }
@@ -523,7 +523,7 @@
     ],
     "meaning": "old; former",
     "examples": [
-      { "word": "旧", "reading": "きゅう", "gloss": "old, ex-" },
+      { "word": "復旧", "reading": "ふっきゅう", "gloss": "restoration" },
       { "word": "旧姓", "reading": "きゅうせい", "gloss": "maiden name" },
       { "word": "旧式", "reading": "きゅうしき", "gloss": "old-fashioned" },
       { "word": "旧制", "reading": "きゅうせい", "gloss": "old system, old order" }
@@ -632,7 +632,7 @@
     ],
     "meaning": "mold; type",
     "examples": [
-      { "word": "型", "reading": "かた", "gloss": "shape [n.]" },
+      { "word": "大型", "reading": "おおがた", "gloss": "large" },
       { "word": "原型", "reading": "げんけい", "gloss": "prototype" },
       { "word": "模型", "reading": "もけい", "gloss": "model" },
       { "word": "典型", "reading": "てんけい", "gloss": "archetype" }
@@ -674,7 +674,7 @@
     ],
     "meaning": "matter; case",
     "examples": [
-      { "word": "件", "reading": "けん", "gloss": "incident" },
+      { "word": "要件", "reading": "ようけん", "gloss": "important matter" },
       { "word": "事件", "reading": "じけん", "gloss": "incident, criminal case" },
       { "word": "条件", "reading": "じょうけん", "gloss": "condition [n.]" },
       { "word": "用件", "reading": "ようけん", "gloss": "(one's) business, concerns" }
@@ -800,7 +800,7 @@
     ],
     "meaning": "be effective",
     "examples": [
-      { "word": "効", "reading": "こう", "gloss": "efficacy, benefit, effect" },
+      { "word": "有効", "reading": "ゆうこう", "gloss": "valid" },
       { "word": "効果", "reading": "こうか", "gloss": "efficacy, benefit, effect" },
       { "word": "効率", "reading": "こうりつ", "gloss": "efficiency" },
       { "word": "効力", "reading": "こうりょく", "gloss": "efficacy, benefit, effect" }
@@ -884,7 +884,7 @@
     ],
     "meaning": "interest; entertain",
     "examples": [
-      { "word": "興", "reading": "きょう", "gloss": "interest, entertainment" },
+      { "word": "興奮", "reading": "こうふん", "gloss": "excitement" },
       { "word": "興味", "reading": "きょうみ", "gloss": "interest (in something)" },
       { "word": "余興", "reading": "よきょう", "gloss": "side show" },
       { "word": "即興", "reading": "そっきょう", "gloss": "improvisation" }
@@ -982,7 +982,7 @@
     ],
     "meaning": "wife",
     "examples": [
-      { "word": "妻", "reading": "つま", "gloss": "wife" },
+      { "word": "稲妻", "reading": "いなずま", "gloss": "lightning" },
       { "word": "妻子", "reading": "さいし", "gloss": "wife and children" },
       { "word": "妻帯者", "reading": "さいたいしゃ", "gloss": "a married man" },
       { "word": "夫妻", "reading": "ふさい", "gloss": "man and wife, married couple" }
@@ -1013,7 +1013,7 @@
       { "word": "実際に", "reading": "じっさいに", "gloss": "in fact" },
       { "word": "国際的な", "reading": "こくさいてきな", "gloss": "international" },
       { "word": "交際する", "reading": "こうさいする", "gloss": "go out with, date" },
-      { "word": "際", "reading": "きわ", "gloss": "edge" }
+      { "word": "実際", "reading": "じっさい", "gloss": "reality" }
     ]
   },
   {
@@ -1037,7 +1037,7 @@
     ],
     "meaning": "wealth; property",
     "examples": [
-      { "word": "財", "reading": "ざい", "gloss": "fortune, riches" },
+      { "word": "財布", "reading": "さいふ", "gloss": "wallet" },
       { "word": "財産", "reading": "ざいさん", "gloss": "property, fortune, assets" },
       { "word": "財界", "reading": "ざいかい", "gloss": "financial world" },
       { "word": "財源", "reading": "ざいげん", "gloss": "resources, finances" }
@@ -1051,7 +1051,7 @@
     ],
     "meaning": "crime; sin",
     "examples": [
-      { "word": "罪", "reading": "つみ", "gloss": "crime, sin" },
+      { "word": "犯罪", "reading": "はんざい", "gloss": "crime" },
       { "word": "罪状", "reading": "ざいじょう", "gloss": "crime, criminal charges" },
       { "word": "罪人", "reading": "ざいにん", "gloss": "criminal" },
       { "word": "罪悪", "reading": "ざいあく", "gloss": "crime, sin, vice" }
@@ -1091,7 +1091,7 @@
     ],
     "meaning": "acid",
     "examples": [
-      { "word": "酸", "reading": "さん", "gloss": "acid" },
+      { "word": "酸化", "reading": "さんか", "gloss": "oxidation" },
       { "word": "酸素", "reading": "さんそ", "gloss": "oxygen" },
       { "word": "酸味", "reading": "さんみ", "gloss": "sourness, acidity" },
       { "word": "酸性", "reading": "さんせい", "gloss": "acidity" }
@@ -1172,7 +1172,7 @@
     ],
     "meaning": "branch",
     "examples": [
-      { "word": "枝", "reading": "えだ", "gloss": "branch, bow, twig" },
+      { "word": "爪楊枝", "reading": "つまようじ", "gloss": "toothpick" },
       { "word": "枝葉", "reading": "えだは", "gloss": "leaves and branches, foliage" },
       { "word": "小枝", "reading": "こえだ", "gloss": "twig, spray" },
       { "word": "枝葉末節", "reading": "しようまっせつ", "gloss": "inessentials" }
@@ -1185,7 +1185,7 @@
     ],
     "meaning": "teacher; master",
     "examples": [
-      { "word": "師", "reading": "し", "gloss": "teacher, master, mentor" },
+      { "word": "教師", "reading": "きょうし", "gloss": "teacher" },
       { "word": "師範", "reading": "しはん", "gloss": "instructor, teacher" },
       { "word": "師匠", "reading": "ししょう", "gloss": "master, teacher" },
       { "word": "師弟", "reading": "してい", "gloss": "teacher and student" }
@@ -1484,7 +1484,7 @@
     ],
     "meaning": "emotion; feeling",
     "examples": [
-      { "word": "情", "reading": "じょう", "gloss": "feelings" },
+      { "word": "情報", "reading": "じょうほう", "gloss": "information" },
       { "word": "感情", "reading": "かんじょう", "gloss": "emotion(s)" },
       { "word": "愛情", "reading": "あいじょう", "gloss": "love [n.]" },
       { "word": "友情", "reading": "ゆうじょう", "gloss": "friendship" }
@@ -1512,7 +1512,7 @@
     ],
     "meaning": "occupation",
     "examples": [
-      { "word": "職", "reading": "しょく", "gloss": "job" },
+      { "word": "就職", "reading": "しゅうしょく", "gloss": "finding employment" },
       { "word": "職業", "reading": "しょくぎょう", "gloss": "occupation" },
       { "word": "職場", "reading": "しょくば", "gloss": "workplace" },
       { "word": "職務", "reading": "しょくむ", "gloss": "professional duties" }
@@ -1817,7 +1817,7 @@
     ],
     "meaning": "rate; ratio",
     "examples": [
-      { "word": "率", "reading": "りつ", "gloss": "rate, proportion" },
+      { "word": "効率", "reading": "こうりつ", "gloss": "efficiency" },
       { "word": "比率", "reading": "ひりつ", "gloss": "rate, proportion" },
       { "word": "利率", "reading": "りりつ", "gloss": "interest rate" },
       { "word": "確率", "reading": "かくりつ", "gloss": "probability" }
@@ -1831,7 +1831,7 @@
     ],
     "meaning": "loss",
     "examples": [
-      { "word": "損", "reading": "そん", "gloss": "loss" },
+      { "word": "損益", "reading": "そんえき", "gloss": "profit and loss" },
       { "word": "損失", "reading": "そんしつ", "gloss": "loss" },
       { "word": "損得", "reading": "そんとく", "gloss": "loss and gain" },
       { "word": "損害", "reading": "そんがい", "gloss": "damage, injury, loss" }
@@ -1971,7 +1971,7 @@
     ],
     "meaning": "extent; degree",
     "examples": [
-      { "word": "程", "reading": "ほど", "gloss": "degree, extent" },
+      { "word": "過程", "reading": "かてい", "gloss": "process" },
       { "word": "三日程", "reading": "みっかほど", "gloss": "about three days" },
       { "word": "先程", "reading": "さきほど", "gloss": "some time ago" },
       { "word": "程度", "reading": "ていど", "gloss": "degree, grade" }
@@ -2023,7 +2023,7 @@
     ],
     "meaning": "copper",
     "examples": [
-      { "word": "銅", "reading": "どう", "gloss": "copper" },
+      { "word": "銅版画", "reading": "どうはんが", "gloss": "copperplate engraving" },
       { "word": "銅山", "reading": "どうざん", "gloss": "copper mine" },
       { "word": "銅貨", "reading": "どうか", "gloss": "copper coin" },
       { "word": "銅像", "reading": "どうぞう", "gloss": "bronze statue" }
@@ -2064,7 +2064,7 @@
     ],
     "meaning": "poison",
     "examples": [
-      { "word": "毒", "reading": "どく", "gloss": "poison" },
+      { "word": "中毒", "reading": "ちゅうどく", "gloss": "poisoning" },
       { "word": "毒ガス", "reading": "どくガス", "gloss": "poison gas" },
       { "word": "毒薬", "reading": "どくやく", "gloss": "poison" },
       { "word": "毒物", "reading": "どくぶつ", "gloss": "poison" }
@@ -2120,7 +2120,7 @@
     ],
     "meaning": "ability",
     "examples": [
-      { "word": "能", "reading": "のう", "gloss": "talent, Noh drama" },
+      { "word": "可能性", "reading": "かのうせい", "gloss": "possibility" },
       { "word": "能面", "reading": "のうめん", "gloss": "Noh mask" },
       { "word": "能力", "reading": "のうりょく", "gloss": "ability" },
       { "word": "能率", "reading": "のうりつ", "gloss": "efficiency" }
@@ -2163,7 +2163,7 @@
     ],
     "meaning": "judgment; seal",
     "examples": [
-      { "word": "判", "reading": "はん", "gloss": "stamp [n.]" },
+      { "word": "判断", "reading": "はんだん", "gloss": "judgment" },
       { "word": "判事", "reading": "はんじ", "gloss": "judge [n.]" },
       { "word": "判決", "reading": "はんけつ", "gloss": "judicial decision" },
       { "word": "判断する", "reading": "はんだんする", "gloss": "judge, decipher" }
@@ -2176,7 +2176,7 @@
     ],
     "meaning": "printing; edition",
     "examples": [
-      { "word": "版", "reading": "はん", "gloss": "plate, printing, edition" },
+      { "word": "出版", "reading": "しゅっぱん", "gloss": "publication" },
       { "word": "版画", "reading": "はんが", "gloss": "art print" },
       { "word": "版元", "reading": "はんもと", "gloss": "publisher" },
       { "word": "版権", "reading": "はんけん", "gloss": "copyright" }
@@ -2218,7 +2218,7 @@
     ],
     "meaning": "non-; wrong",
     "examples": [
-      { "word": "非", "reading": "ひ", "gloss": "faulty, non-" },
+      { "word": "非常", "reading": "ひじょう", "gloss": "emergency" },
       { "word": "非常に", "reading": "ひじょうに", "gloss": "very, extremely" },
       { "word": "非常事態", "reading": "ひじょうじたい", "gloss": "state of emergency" },
       { "word": "非常口", "reading": "ひじょうぐち", "gloss": "emergency exit" }
@@ -2289,7 +2289,7 @@
     ],
     "meaning": "cloth",
     "examples": [
-      { "word": "布", "reading": "ぬの", "gloss": "cloth" },
+      { "word": "財布", "reading": "さいふ", "gloss": "wallet" },
       { "word": "布地", "reading": "ぬのじ", "gloss": "cloth, fabric" },
       { "word": "布団", "reading": "ふとん", "gloss": "bedding, futon" },
       { "word": "毛布", "reading": "もうふ", "gloss": "blanket" }
@@ -2372,7 +2372,7 @@
     ],
     "meaning": "flour; powder",
     "examples": [
-      { "word": "粉", "reading": "こな", "gloss": "powder" },
+      { "word": "小麦粉", "reading": "こむぎこ", "gloss": "wheat flour" },
       { "word": "粉薬", "reading": "こなぐすり", "gloss": "powdered medicine" },
       { "word": "粉々", "reading": "こなごな", "gloss": "in very small pieces" },
       { "word": "粉末", "reading": "ふんまつ", "gloss": "fine powder" }
@@ -2427,7 +2427,7 @@
     ],
     "meaning": "grave",
     "examples": [
-      { "word": "墓", "reading": "はか", "gloss": "tomb" },
+      { "word": "墓参", "reading": "はかまいり", "gloss": "visit to a grave" },
       { "word": "墓参り", "reading": "はかまいり", "gloss": "visit to a grave" },
       { "word": "墓碑", "reading": "ぼひ", "gloss": "gravestone, tombstone" },
       { "word": "墓地", "reading": "ぼち", "gloss": "cemetery, graveyard" }
@@ -2509,7 +2509,7 @@
     ],
     "meaning": "pulse; vein",
     "examples": [
-      { "word": "脈", "reading": "みゃく", "gloss": "pulse" },
+      { "word": "山脈", "reading": "さんみゃく", "gloss": "mountain range" },
       { "word": "脈拍", "reading": "みゃくはく", "gloss": "pulse, pulsation" },
       { "word": "脈絡", "reading": "みゃくらく", "gloss": "chain of reasoning, coherence" },
       { "word": "文脈", "reading": "ぶんみゃく", "gloss": "context" }
@@ -2538,7 +2538,7 @@
     ],
     "meaning": "dream",
     "examples": [
-      { "word": "夢", "reading": "ゆめ", "gloss": "dream [n.]" },
+      { "word": "夢中", "reading": "むちゅう", "gloss": "absorbed in" },
       { "word": "初夢", "reading": "はつゆめ", "gloss": "first dream of the year" },
       { "word": "正夢", "reading": "まさゆめ", "gloss": "dream that comes true" },
       { "word": "夢中で", "reading": "むちゅうで", "gloss": "be absorbed, be engrossed" }
@@ -2566,7 +2566,7 @@
     ],
     "meaning": "cotton",
     "examples": [
-      { "word": "綿", "reading": "わた", "gloss": "raw cotton" },
+      { "word": "木綿", "reading": "もめん", "gloss": "cotton (material)" },
       { "word": "綿菓子", "reading": "わたがし", "gloss": "cotton candy" },
       { "word": "綿花", "reading": "めんか", "gloss": "raw cotton, cotton wool" },
       { "word": "綿糸", "reading": "めんし", "gloss": "cotton yarn" }
@@ -2620,7 +2620,7 @@
     ],
     "meaning": "abbreviate; omit",
     "examples": [
-      { "word": "略", "reading": "りゃく", "gloss": "abbreviation, omission" },
+      { "word": "戦略", "reading": "せんりゃく", "gloss": "strategy" },
       { "word": "略語", "reading": "りゃくご", "gloss": "abbreviation, acronym" },
       { "word": "略字", "reading": "りゃくじ", "gloss": "abbreviation, simplified character" },
       { "word": "略歴", "reading": "りゃくれき", "gloss": "brief personal record, short CV" }

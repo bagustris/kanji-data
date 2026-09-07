@@ -6,7 +6,7 @@
     ],
     "meaning": "stomach",
     "examples": [
-      { "word": "胃", "reading": "い", "gloss": "stomach" },
+      { "word": "胃痛", "reading": "いつう", "gloss": "stomach-ache" },
       { "word": "胃腸", "reading": "いちょう", "gloss": "stomach & intestines" },
       { "word": "胃袋", "reading": "いぶくろ", "gloss": "stomach" },
       { "word": "胃炎", "reading": "いえん", "gloss": "gastritis, gastric catarrh" }
@@ -113,7 +113,7 @@
     ],
     "meaning": "favor; grace",
     "examples": [
-      { "word": "恩", "reading": "おん", "gloss": "debt of gratitude" },
+      { "word": "恩返し", "reading": "おんがえし", "gloss": "paying back a favour" },
       { "word": "恩恵", "reading": "おんけい", "gloss": "grace, favor, blessing, benefit" },
       { "word": "恩人", "reading": "おんじん", "gloss": "benefactor, patron" },
       { "word": "恩義", "reading": "おんぎ", "gloss": "debt of gratitude" }
@@ -141,7 +141,7 @@
     ],
     "meaning": "ash",
     "examples": [
-      { "word": "灰", "reading": "はい", "gloss": "ash" },
+      { "word": "火山灰", "reading": "かざんばい", "gloss": "volcanic ash" },
       { "word": "灰皿", "reading": "はいざら", "gloss": "ashtray" },
       { "word": "灰色", "reading": "はいいろ", "gloss": "grey, ashen" },
       { "word": "灰白色", "reading": "かいはくしょく", "gloss": "grayish white" }
@@ -173,7 +173,7 @@
       { "word": "革命", "reading": "かくめい", "gloss": "revolution" },
       { "word": "革新的な", "reading": "かくしんてきな", "gloss": "revolutionary" },
       { "word": "改革する", "reading": "かいかくする", "gloss": "reform [v.t.]" },
-      { "word": "革", "reading": "かわ", "gloss": "leather" }
+      { "word": "改革", "reading": "かいかく", "gloss": "reform" }
     ]
   },
   {
@@ -212,7 +212,7 @@
     ],
     "meaning": "stock; stump",
     "examples": [
-      { "word": "株", "reading": "かぶ", "gloss": "share, stock, stump" },
+      { "word": "株主", "reading": "かぶぬし", "gloss": "shareholder" },
       { "word": "株式", "reading": "かぶしき", "gloss": "stock [n.]" },
       { "word": "株価", "reading": "かぶか", "gloss": "stock prices" },
       { "word": "株券", "reading": "かぶけん", "gloss": "stock certificate" }
@@ -295,7 +295,7 @@
     ],
     "meaning": "desk",
     "examples": [
-      { "word": "机", "reading": "つくえ", "gloss": "desk" },
+      { "word": "机上", "reading": "きじょう", "gloss": "on the desk" },
       { "word": "机上の空論", "reading": "きじょうのくうろん", "gloss": "empty theory" }
     ]
   },
@@ -378,7 +378,7 @@
     ],
     "meaning": "chest",
     "examples": [
-      { "word": "胸", "reading": "むね", "gloss": "breast, chest" },
+      { "word": "胸部", "reading": "きょうぶ", "gloss": "chest" },
       { "word": "胸囲", "reading": "きょうい", "gloss": "chest measurement" },
       { "word": "胸中", "reading": "きょうちゅう", "gloss": "one's heart, one's mind" },
       { "word": "度胸", "reading": "どきょう", "gloss": "bravery, grit" }
@@ -420,7 +420,7 @@
     ],
     "meaning": "muscle; line",
     "examples": [
-      { "word": "筋", "reading": "すじ", "gloss": "muscle, string, line, stripe, plot" },
+      { "word": "筋肉", "reading": "きんにく", "gloss": "muscle" },
       { "word": "筋道", "reading": "すじみち", "gloss": "reason, logic, thread, method" },
       { "word": "筋書き", "reading": "すじがき", "gloss": "synopsis, outline, plot" },
       { "word": "背筋", "reading": "せすじ", "gloss": "the muscles along the spine" }
@@ -474,7 +474,7 @@
     ],
     "meaning": "drama",
     "examples": [
-      { "word": "劇", "reading": "げき", "gloss": "drama, play" },
+      { "word": "悲劇", "reading": "ひげき", "gloss": "tragedy" },
       { "word": "劇場", "reading": "げきじょう", "gloss": "theatre, playhouse" },
       { "word": "劇団", "reading": "げきだん", "gloss": "troupe, theatrical company" },
       { "word": "演劇", "reading": "えんげき", "gloss": "play, performance" }
@@ -502,7 +502,7 @@
     ],
     "meaning": "hole",
     "examples": [
-      { "word": "穴", "reading": "あな", "gloss": "hole" },
+      { "word": "穴埋め", "reading": "あなうめ", "gloss": "filling (up) a hole" },
       { "word": "洞穴", "reading": "ほらあな", "gloss": "cave, grotto" },
       { "word": "落とし穴", "reading": "おとしあな", "gloss": "pitfall, trap, pit" },
       { "word": "墓穴", "reading": "ぼけつ", "gloss": "grave [n.]" }
@@ -515,7 +515,7 @@
     ],
     "meaning": "ticket",
     "examples": [
-      { "word": "券", "reading": "けん", "gloss": "ticket, coupon, bond, certificate" },
+      { "word": "入場券", "reading": "にゅうじょうけん", "gloss": "admission ticket" },
       { "word": "券売機", "reading": "けんばいき", "gloss": "ticket machine" },
       { "word": "旅券", "reading": "りょけん", "gloss": "passport" },
       { "word": "証券", "reading": "しょうけん", "gloss": "securities, bonds, certificates" }
@@ -529,7 +529,7 @@
     ],
     "meaning": "silk",
     "examples": [
-      { "word": "絹", "reading": "きぬ", "gloss": "silk" },
+      { "word": "絹雲", "reading": "けんうん", "gloss": "cirrus (cloud)" },
       { "word": "絹糸", "reading": "きぬいと", "gloss": "silk thread" },
       { "word": "絹織物", "reading": "きぬおりもの", "gloss": "silk goods" },
       { "word": "絹布", "reading": "けんぷ", "gloss": "silk, silk cloth" }
@@ -709,7 +709,7 @@
     ],
     "meaning": "steel",
     "examples": [
-      { "word": "鋼", "reading": "はがね", "gloss": "steel" },
+      { "word": "鉄鋼", "reading": "てっこう", "gloss": "iron and steel" },
       { "word": "鋼色", "reading": "はがねいろ", "gloss": "steel blue" },
       { "word": "鋼材", "reading": "こうざい", "gloss": "material made from steel" },
       { "word": "鋼板", "reading": "こうはん", "gloss": "steel sheet, steel plate" }
@@ -750,7 +750,7 @@
     ],
     "meaning": "bone",
     "examples": [
-      { "word": "骨", "reading": "ほね", "gloss": "bone" },
+      { "word": "鉄骨", "reading": "てっこつ", "gloss": "steel frame" },
       { "word": "骨っぽい", "reading": "ほねっぽい", "gloss": "bony, tough, plucky" },
       { "word": "骨組み", "reading": "ほねぐみ", "gloss": "skeleton, framework" },
       { "word": "骨惜しみ", "reading": "ほねおしみ", "gloss": "sparing oneself laziness" }
@@ -779,7 +779,7 @@
     ],
     "meaning": "sand",
     "examples": [
-      { "word": "砂", "reading": "すな", "gloss": "sand" },
+      { "word": "砂糖", "reading": "さとう", "gloss": "sugar" },
       { "word": "砂地", "reading": "すなち", "gloss": "sandy soil" },
       { "word": "砂場", "reading": "すなば", "gloss": "sand pit" },
       { "word": "砂浜", "reading": "すなはま", "gloss": "sandy beach" }
@@ -834,7 +834,7 @@
     ],
     "meaning": "plan; policy",
     "examples": [
-      { "word": "策", "reading": "さく", "gloss": "plan, policy" },
+      { "word": "政策", "reading": "せいさく", "gloss": "political measures" },
       { "word": "策略", "reading": "さくりゃく", "gloss": "scheme, tactic, strategy" },
       { "word": "策士", "reading": "さくし", "gloss": "intriguer, tactician, schemer" },
       { "word": "対策", "reading": "たいさく", "gloss": "counter-plan, counter-measure" }
@@ -861,7 +861,7 @@
     ],
     "meaning": "silkworm",
     "examples": [
-      { "word": "蚕", "reading": "かいこ", "gloss": "silkworm" },
+      { "word": "家蚕", "reading": "かさん", "gloss": "domesticated silkworm" },
       { "word": "蚕糸", "reading": "さんし", "gloss": "silk thread, silk yarn" },
       { "word": "養蚕", "reading": "ようさん", "gloss": "sericulture, silkworm culture" },
       { "word": "蚕食する", "reading": "さんしょくする", "gloss": "encroach, invade" }
@@ -890,7 +890,7 @@
     ],
     "meaning": "I; private",
     "examples": [
-      { "word": "私", "reading": "わたし", "gloss": "I" },
+      { "word": "私達", "reading": "わたしたち", "gloss": "we" },
       { "word": "私鉄", "reading": "してつ", "gloss": "privately-owned railway" },
       { "word": "私立", "reading": "しりつ", "gloss": "privately-owned (institution)" }
     ]
@@ -903,7 +903,7 @@
     ],
     "meaning": "figure; appearance",
     "examples": [
-      { "word": "姿", "reading": "すがた", "gloss": "figure, shape, appearance" },
+      { "word": "容姿", "reading": "ようし", "gloss": "(physical) appearance (of a person)" },
       { "word": "姿見", "reading": "すがたみ", "gloss": "full-length mirror" },
       { "word": "後ろ姿", "reading": "うしろすがた", "gloss": "back view" },
       { "word": "姿勢", "reading": "しせい", "gloss": "attitude, posture" }
@@ -1109,7 +1109,7 @@
     ],
     "meaning": "vertical",
     "examples": [
-      { "word": "縦", "reading": "たて", "gloss": "length, height" },
+      { "word": "操縦", "reading": "そうじゅう", "gloss": "steering" },
       { "word": "縦書き", "reading": "たてがき", "gloss": "vertical writing" },
       { "word": "縦横に", "reading": "じゅうおうに", "gloss": "in all directions, freely" },
       { "word": "縦断する", "reading": "じゅうだんする", "gloss": "cut across, travel through" }
@@ -1247,7 +1247,7 @@
     ],
     "meaning": "wound; hurt",
     "examples": [
-      { "word": "傷", "reading": "きず", "gloss": "wound, injury, hurt, cut" },
+      { "word": "傷付ける", "reading": "きずつける", "gloss": "to wound" },
       { "word": "傷口", "reading": "きずぐち", "gloss": "wound" },
       { "word": "傷跡", "reading": "きずあと", "gloss": "scar" },
       { "word": "傷つける", "reading": "きずつける", "gloss": "hurt, wound [v.t.]" }
@@ -1289,7 +1289,7 @@
     ],
     "meaning": "needle",
     "examples": [
-      { "word": "針", "reading": "はり", "gloss": "needle, fish hook, pointer, hand" },
+      { "word": "方針", "reading": "ほうしん", "gloss": "policy" },
       { "word": "針金", "reading": "はりがね", "gloss": "wire" },
       { "word": "針葉樹林", "reading": "しんようじゅりん", "gloss": "conifer, needle-leaved tree" },
       { "word": "秒針", "reading": "びょうしん", "gloss": "second hand" }
@@ -1399,7 +1399,7 @@
     ],
     "meaning": "tongue",
     "examples": [
-      { "word": "舌", "reading": "した", "gloss": "tongue" },
+      { "word": "猫舌", "reading": "ねこじた", "gloss": "dislike of very hot food or drink" },
       { "word": "舌打ちする", "reading": "したうちする", "gloss": "smack one's lips" },
       { "word": "舌癌", "reading": "ぜつがん", "gloss": "tongue cancer" },
       { "word": "舌戦", "reading": "ぜっせん", "gloss": "war of words" }
@@ -1441,7 +1441,7 @@
     ],
     "meaning": "spring (water)",
     "examples": [
-      { "word": "泉", "reading": "いずみ", "gloss": "spring, fountain" },
+      { "word": "源泉", "reading": "げんせん", "gloss": "source (of a spring, etc.)" },
       { "word": "温泉", "reading": "おんせん", "gloss": "onsen, hot spring, spa" },
       { "word": "冷泉", "reading": "れいせん", "gloss": "cold mineral spring" },
       { "word": "鉱泉", "reading": "こうせん", "gloss": "mineral spring" }
@@ -1525,7 +1525,7 @@
     ],
     "meaning": "window",
     "examples": [
-      { "word": "窓", "reading": "まど", "gloss": "window" },
+      { "word": "同窓会", "reading": "どうそうかい", "gloss": "alumni association" },
       { "word": "窓口", "reading": "まどぐち", "gloss": "ticket window" },
       { "word": "窓際", "reading": "まどぎわ", "gloss": "(at the) window" },
       { "word": "車窓", "reading": "しゃそう", "gloss": "car window" }
@@ -1816,7 +1816,7 @@
     "examples": [
       { "word": "頂く", "reading": "いただく", "gloss": "receive, take food [hum.]" },
       { "word": "頂けない", "reading": "いただけない", "gloss": "pitiful, miserable, shameful" },
-      { "word": "頂", "reading": "いただき", "gloss": "top, summit, spire, peak, crown" },
+      { "word": "頂上", "reading": "ちょうじょう", "gloss": "top" },
       { "word": "頂点", "reading": "ちょうてん", "gloss": "top, summit" }
     ]
   },
@@ -1828,7 +1828,7 @@
     ],
     "meaning": "intestine",
     "examples": [
-      { "word": "腸", "reading": "ちょう", "gloss": "guts, bowels, intestines" },
+      { "word": "大腸菌", "reading": "だいちょうきん", "gloss": "Escherichia coli (E. coli)" },
       { "word": "腸炎", "reading": "ちょうえん", "gloss": "enteritis" },
       { "word": "胃腸", "reading": "いちょう", "gloss": "stomach, intestines" },
       { "word": "大腸", "reading": "だいちょう", "gloss": "colon" }
@@ -1842,7 +1842,7 @@
     ],
     "meaning": "tide",
     "examples": [
-      { "word": "潮", "reading": "しお", "gloss": "tide" },
+      { "word": "風潮", "reading": "ふうちょう", "gloss": "tide" },
       { "word": "潮時", "reading": "しおどき", "gloss": "timing of tides, opportunity" },
       { "word": "潮干狩り", "reading": "しおひがり", "gloss": "shell gathering" },
       { "word": "血潮", "reading": "ちしお", "gloss": "blood" }
@@ -1883,7 +1883,7 @@
     ],
     "meaning": "enemy",
     "examples": [
-      { "word": "敵", "reading": "てき", "gloss": "enemy" },
+      { "word": "素敵", "reading": "すてき", "gloss": "lovely" },
       { "word": "敵意", "reading": "てきい", "gloss": "hostility" },
       { "word": "強敵", "reading": "きょうてき", "gloss": "formidable enemy" },
       { "word": "不敵な", "reading": "ふてきな", "gloss": "daring, fearless" }
@@ -1923,7 +1923,7 @@
     ],
     "meaning": "party (political)",
     "examples": [
-      { "word": "党", "reading": "とう", "gloss": "political party" },
+      { "word": "悪党", "reading": "あくとう", "gloss": "scoundrel" },
       { "word": "党員", "reading": "とういん", "gloss": "party member" },
       { "word": "党首", "reading": "とうしゅ", "gloss": "party leader" },
       { "word": "党派", "reading": "とうは", "gloss": "faction" }
@@ -2019,7 +2019,7 @@
     ],
     "meaning": "brain",
     "examples": [
-      { "word": "脳", "reading": "のう", "gloss": "brain" },
+      { "word": "首脳", "reading": "しゅのう", "gloss": "head" },
       { "word": "脳髄", "reading": "のうずい", "gloss": "brain" },
       { "word": "脳炎", "reading": "のうえん", "gloss": "brain inflammation" },
       { "word": "脳死", "reading": "のうし", "gloss": "brain death" }
@@ -2060,7 +2060,7 @@
     ],
     "meaning": "back (body)",
     "examples": [
-      { "word": "背", "reading": "せ", "gloss": "height (of body)" },
+      { "word": "背景", "reading": "はいけい", "gloss": "background" },
       { "word": "背広", "reading": "せびろ", "gloss": "business suit" },
       { "word": "背中", "reading": "せなか", "gloss": "back (of body)" },
       { "word": "背負う", "reading": "せおう", "gloss": "carry on back or shoulder" }
@@ -2073,7 +2073,7 @@
     ],
     "meaning": "lung",
     "examples": [
-      { "word": "肺", "reading": "はい", "gloss": "lung" },
+      { "word": "肺結核", "reading": "はいけっかく", "gloss": "pulmonary tuberculosis" },
       { "word": "肺臓", "reading": "はいぞう", "gloss": "lungs" },
       { "word": "肺癌", "reading": "はいがん", "gloss": "lung cancer" },
       { "word": "肺炎", "reading": "はいえん", "gloss": "pneumonia" }
@@ -2168,7 +2168,7 @@
     ],
     "meaning": "straw bag",
     "examples": [
-      { "word": "俵", "reading": "たわら", "gloss": "bale, sack" },
+      { "word": "土俵際", "reading": "どひょうぎわ", "gloss": "edge of the ring" },
       { "word": "土俵", "reading": "どひょう", "gloss": "sumo ring" },
       { "word": "一俵", "reading": "いっぴょう", "gloss": "one straw bag" },
       { "word": "米俵", "reading": "こめだわら", "gloss": "straw rice bag" }
@@ -2182,7 +2182,7 @@
     ],
     "meaning": "belly",
     "examples": [
-      { "word": "腹", "reading": "はら", "gloss": "abdomen, belly, stomach" },
+      { "word": "裏腹", "reading": "うらはら", "gloss": "opposite" },
       { "word": "腹違い", "reading": "はらちがい", "gloss": "born of a different mother [n.]" },
       { "word": "腹を立てる", "reading": "はらをたてる", "gloss": "take offense, get angry [v.t.]" },
       { "word": "腹が立つ", "reading": "はらがたつ", "gloss": "take offense, get angry [v.i.]" }
@@ -2295,7 +2295,7 @@
     ],
     "meaning": "treasure",
     "examples": [
-      { "word": "宝", "reading": "たから", "gloss": "treasure" },
+      { "word": "宝石", "reading": "ほうせき", "gloss": "gem" },
       { "word": "宝くじ", "reading": "たからくじ", "gloss": "lottery" },
       { "word": "宝物", "reading": "たからもの", "gloss": "treasure, treasured item" },
       { "word": "宝探し", "reading": "たからさがし", "gloss": "treasure hunt" }
@@ -2350,7 +2350,7 @@
     ],
     "meaning": "stick; rod",
     "examples": [
-      { "word": "棒", "reading": "ぼう", "gloss": "pole, rod, stick" },
+      { "word": "泥棒", "reading": "どろぼう", "gloss": "thief" },
       { "word": "棒状", "reading": "ぼうじょう", "gloss": "cylindrical" },
       { "word": "棒立ち", "reading": "ぼうだち", "gloss": "stand bolt upright [n.]" },
       { "word": "棒読み", "reading": "ぼうよみ", "gloss": "read in monotone [n.]" }
@@ -2376,7 +2376,7 @@
     ],
     "meaning": "curtain; act",
     "examples": [
-      { "word": "幕", "reading": "まく", "gloss": "curtain (theater), hanging" },
+      { "word": "幕府", "reading": "ばくふ", "gloss": "shogunate" },
       { "word": "天幕", "reading": "てんまく", "gloss": "curtain, tent, pavilion" },
       { "word": "内幕", "reading": "ないまく", "gloss": "inside information" },
       { "word": "煙幕", "reading": "えんまく", "gloss": "smoke screen" }
@@ -2430,10 +2430,10 @@
     ],
     "meaning": "reason; translation",
     "examples": [
-      { "word": "訳", "reading": "わけ", "gloss": "reason" },
+      { "word": "申し訳", "reading": "もうしわけ", "gloss": "apology" },
       { "word": "言い訳", "reading": "いいわけ", "gloss": "excuse [n.]" },
       { "word": "申し訳ない", "reading": "もうしわけない", "gloss": "inexcusable" },
-      { "word": "訳", "reading": "やく", "gloss": "translation" }
+      { "word": "翻訳", "reading": "ほんやく", "gloss": "translation" }
     ]
   },
   {
@@ -2501,7 +2501,7 @@
     "examples": [
       { "word": "欲する", "reading": "ほっする", "gloss": "want" },
       { "word": "欲しい", "reading": "ほしい", "gloss": "want [adj.]" },
-      { "word": "欲", "reading": "よく", "gloss": "greed" },
+      { "word": "意欲", "reading": "いよく", "gloss": "will" },
       { "word": "食欲", "reading": "しょくよく", "gloss": "appetite (for food)" }
     ]
   },
@@ -2540,7 +2540,7 @@
     ],
     "meaning": "egg",
     "examples": [
-      { "word": "卵", "reading": "たまご", "gloss": "egg, spawn, roe" },
+      { "word": "産卵", "reading": "さんらん", "gloss": "egg-laying" },
       { "word": "卵焼き", "reading": "たまごやき", "gloss": "omelet" },
       { "word": "卵形", "reading": "たまごがた", "gloss": "oval, egg-shaped" },
       { "word": "卵黄", "reading": "らんおう", "gloss": "egg yolk" }
@@ -2567,7 +2567,7 @@
     ],
     "meaning": "back; reverse side",
     "examples": [
-      { "word": "裏", "reading": "うら", "gloss": "back, reverse side" },
+      { "word": "裏切る", "reading": "うらぎる", "gloss": "to betray" },
       { "word": "裏通り", "reading": "うらどおり", "gloss": "side street, back street" },
       { "word": "裏口", "reading": "うらぐち", "gloss": "backdoor, rear entrance" },
       { "word": "裏側", "reading": "うらがわ", "gloss": "back, reverse side" }

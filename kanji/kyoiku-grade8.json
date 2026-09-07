@@ -815,7 +815,7 @@
     "examples": [
       { "word": "余暇", "reading": "よか", "gloss": "leisure, spare time" },
       { "word": "休暇", "reading": "きゅうか", "gloss": "holiday" },
-      { "word": "暇", "reading": "ひま", "gloss": "free time" },
+      { "word": "暇潰し", "reading": "ひまつぶし", "gloss": "killing time" },
       { "word": "暇つぶし", "reading": "ひまつぶし", "gloss": "killing time" }
     ]
   },
@@ -944,7 +944,7 @@
       { "word": "祝杯", "reading": "しゅくはい", "gloss": "toast, celebratory drink" },
       { "word": "優勝杯", "reading": "ゆうしょうはい", "gloss": "championship cup, trophy" },
       { "word": "二杯", "reading": "にはい", "gloss": "two cups" },
-      { "word": "杯", "reading": "さかずき", "gloss": "sake cup" }
+      { "word": "一杯", "reading": "いっぱい", "gloss": "one cup (of)" }
     ]
   },
   {
@@ -1292,7 +1292,7 @@
     ],
     "meaning": "lord; Mr. (formal)",
     "examples": [
-      { "word": "殿", "reading": "との", "gloss": "Your Highness, His Highness" },
+      { "word": "殿下", "reading": "でんか", "gloss": "Your Highness" },
       { "word": "殿様", "reading": "とのさま", "gloss": "feudal lord" },
       { "word": "山田殿", "reading": "やまだどの", "gloss": "Dear Mr. Yamada" },
       { "word": "殿堂", "reading": "でんどう", "gloss": "palace, palatial building" }
@@ -1337,7 +1337,7 @@
     "examples": [
       { "word": "汗腺", "reading": "かんせん", "gloss": "sweat gland" },
       { "word": "発汗する", "reading": "はっかんする", "gloss": "sweat [v.i.]" },
-      { "word": "汗", "reading": "あせ", "gloss": "sweat, perspiration" },
+      { "word": "冷汗", "reading": "ひやあせ", "gloss": "cold sweat" },
       { "word": "汗かき", "reading": "あせかき", "gloss": "person who sweats a lot" }
     ]
   },
@@ -1415,7 +1415,7 @@
     "examples": [
       { "word": "沢山", "reading": "たくさん", "gloss": "many, a lot, much" },
       { "word": "贅沢な", "reading": "ぜいたくな", "gloss": "luxurious" },
-      { "word": "沢", "reading": "さわ", "gloss": "swamp" }
+      { "word": "贅沢", "reading": "ぜいたく", "gloss": "luxury" }
     ]
   },
   {
@@ -1588,7 +1588,7 @@
       { "word": "涙腺", "reading": "るいせん", "gloss": "tear gland" },
       { "word": "感涙", "reading": "かんるい", "gloss": "tears of gratitude" },
       { "word": "催涙ガス", "reading": "さいるいガス", "gloss": "tear gas" },
-      { "word": "涙", "reading": "なみだ", "gloss": "tear" }
+      { "word": "催涙", "reading": "さいるい", "gloss": "tear-inducing" }
     ]
   },
   {
@@ -1715,7 +1715,7 @@
     ],
     "meaning": "bay; gulf",
     "examples": [
-      { "word": "湾", "reading": "わん", "gloss": "bay, gulf, inlet" },
+      { "word": "湾岸", "reading": "わんがん", "gloss": "gulf coast" },
       { "word": "湾内", "reading": "わんない", "gloss": "inside the bay" },
       { "word": "湾口", "reading": "わんこう", "gloss": "entrance or mouth of a bay" },
       { "word": "台湾", "reading": "たいわん", "gloss": "Taiwan" }
@@ -2010,7 +2010,7 @@
     ],
     "meaning": "smoke",
     "examples": [
-      { "word": "煙", "reading": "けむり", "gloss": "smoke, fumes" },
+      { "word": "禁煙", "reading": "きんえん", "gloss": "abstaining from smoking" },
       { "word": "煙る", "reading": "けむる", "gloss": "smoke, appear dim [v.i.]" },
       { "word": "煙たい", "reading": "けむたい", "gloss": "smoky, awkward feeling [adj.]" },
       { "word": "煙突", "reading": "えんとつ", "gloss": "chimney" }
@@ -2170,7 +2170,7 @@
     "meaning": "cat",
     "examples": [
       { "word": "愛猫家", "reading": "あいびょうか", "gloss": "cat lover" },
-      { "word": "猫", "reading": "ねこ", "gloss": "cat" },
+      { "word": "猫背", "reading": "ねこぜ", "gloss": "bent back" },
       { "word": "子猫", "reading": "こねこ", "gloss": "kitten" }
     ]
   },
@@ -2312,7 +2312,7 @@
     ],
     "meaning": "bottle",
     "examples": [
-      { "word": "瓶", "reading": "びん", "gloss": "bottle" },
+      { "word": "火炎瓶", "reading": "かえんびん", "gloss": "Molotov cocktail" },
       { "word": "瓶詰め", "reading": "びんづめ", "gloss": "bottling, bottled" },
       { "word": "花瓶", "reading": "かびん", "gloss": "vase" },
       { "word": "空き瓶", "reading": "あきびん", "gloss": "empty bottle" }
@@ -2393,7 +2393,7 @@
       { "word": "6畳", "reading": "ろくじょう", "gloss": "6 tatami mats" },
       { "word": "畳む", "reading": "たたむ", "gloss": "fold" },
       { "word": "折り畳み椅子", "reading": "おりたたみいす", "gloss": "folding chair" },
-      { "word": "畳", "reading": "たたみ", "gloss": "tatami, reed floor matting" }
+      { "word": "折り畳み", "reading": "おりたたみ", "gloss": "folding" }
     ]
   },
   {
@@ -2762,7 +2762,7 @@
       { "word": "礎石", "reading": "そせき", "gloss": "foundation stone, cornerstone" },
       { "word": "定礎", "reading": "ていそ", "gloss": "laying a cornerstone" },
       { "word": "基礎", "reading": "きそ", "gloss": "foundation, basis" },
-      { "word": "礎", "reading": "いしずえ", "gloss": "foundation stone, cornerstone" }
+      { "word": "基礎控除", "reading": "きそこうじょ", "gloss": "basic or standard deduction" }
     ]
   },
   {
@@ -2851,7 +2851,7 @@
     ],
     "meaning": "rice plant",
     "examples": [
-      { "word": "稲", "reading": "いね", "gloss": "rice-plant" },
+      { "word": "稲妻", "reading": "いなずま", "gloss": "lightning" },
       { "word": "稲刈り", "reading": "いねかり", "gloss": "rice reaping" },
       { "word": "稲作", "reading": "いなさく", "gloss": "rice crop" },
       { "word": "稲穂", "reading": "いなほ", "gloss": "ear of rice" }
@@ -2974,7 +2974,7 @@
     ],
     "meaning": "edge; end",
     "examples": [
-      { "word": "端", "reading": "はし", "gloss": "edge" },
+      { "word": "極端", "reading": "きょくたん", "gloss": "extreme" },
       { "word": "両端", "reading": "りょうはし", "gloss": "both ends" },
       { "word": "右端", "reading": "みぎはし", "gloss": "right end" },
       { "word": "端数", "reading": "はすう", "gloss": "fraction" }
@@ -3095,7 +3095,7 @@
       { "word": "粒子", "reading": "りゅうし", "gloss": "particle, grain" },
       { "word": "顆粒", "reading": "かりゅう", "gloss": "granule" },
       { "word": "素粒子", "reading": "そりゅうし", "gloss": "elementary particle, particle" },
-      { "word": "粒", "reading": "つぶ", "gloss": "grain, drop" }
+      { "word": "大粒", "reading": "おおつぶ", "gloss": "large drop (of rain, sweat, tears, etc.)" }
     ]
   },
   {

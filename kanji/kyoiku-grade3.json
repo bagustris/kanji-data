@@ -171,7 +171,7 @@
     ],
     "meaning": "station",
     "examples": [
-      { "word": "駅", "reading": "えき", "gloss": "station" },
+      { "word": "駅員", "reading": "えきいん", "gloss": "(train) station attendant" },
       { "word": "駅前", "reading": "えきまえ", "gloss": "in front of the station" },
       { "word": "駅長", "reading": "えきちょう", "gloss": "station master" },
       { "word": "駅弁", "reading": "えきべん", "gloss": "(boxed) lunch sold in stations" }
@@ -197,7 +197,7 @@
     ],
     "meaning": "side; horizontal",
     "examples": [
-      { "word": "横", "reading": "よこ", "gloss": "beside, side" },
+      { "word": "横断", "reading": "おうだん", "gloss": "crossing (a road, river, etc.)" },
       { "word": "横浜", "reading": "よこはま", "gloss": "Yokohama" },
       { "word": "横綱", "reading": "よこづな", "gloss": "sumo grand champion" },
       { "word": "横書き", "reading": "よこがき", "gloss": "writing horizontally" }
@@ -254,7 +254,7 @@
     "meaning": "load; cargo",
     "examples": [
       { "word": "入荷する", "reading": "にゅうかする", "gloss": "(shipment) arrive [v.i.]" },
-      { "word": "荷", "reading": "に", "gloss": "load, cargo" },
+      { "word": "出荷", "reading": "しゅっか", "gloss": "shipping" },
       { "word": "荷物", "reading": "にもつ", "gloss": "luggage" },
       { "word": "荷造り", "reading": "にづくり", "gloss": "packing, crating" }
     ]
@@ -364,7 +364,7 @@
     ],
     "meaning": "shore",
     "examples": [
-      { "word": "岸", "reading": "きし", "gloss": "bank" },
+      { "word": "川岸", "reading": "かわぎし", "gloss": "riverbank" },
       { "word": "岸壁", "reading": "がんぺき", "gloss": "wharf, steep cliff" },
       { "word": "海岸", "reading": "かいがん", "gloss": "coast, beach" },
       { "word": "沿岸", "reading": "えんがん", "gloss": "(along) coast, shore" }
@@ -404,7 +404,7 @@
     ],
     "meaning": "guest",
     "examples": [
-      { "word": "客", "reading": "きゃく", "gloss": "guest, customer" },
+      { "word": "客観的", "reading": "きゃっかんてき", "gloss": "objective" },
       { "word": "客席", "reading": "きゃくせき", "gloss": "seat (e.g. theater)" },
       { "word": "来客", "reading": "らいきゃく", "gloss": "visitor" },
       { "word": "乗客", "reading": "じょうきゃく", "gloss": "passenger" }
@@ -460,7 +460,7 @@
     ],
     "meaning": "shrine; palace",
     "examples": [
-      { "word": "宮", "reading": "みや", "gloss": "residence or family of a prince" },
+      { "word": "神宮", "reading": "じんぐう", "gloss": "high-status Shinto shrine with connection to imperial family" },
       { "word": "宮仕え", "reading": "みやづかえ", "gloss": "court (government) service" },
       { "word": "宮参り", "reading": "みやまいり", "gloss": "shrine visit" },
       { "word": "宮殿", "reading": "きゅうでん", "gloss": "palace" }
@@ -474,7 +474,7 @@
     ],
     "meaning": "ball; sphere",
     "examples": [
-      { "word": "球", "reading": "たま", "gloss": "ball" },
+      { "word": "地球上", "reading": "ちきゅうじょう", "gloss": "on Earth" },
       { "word": "地球", "reading": "ちきゅう", "gloss": "the earth" },
       { "word": "電球", "reading": "でんきゅう", "gloss": "light bulb" },
       { "word": "野球", "reading": "やきゅう", "gloss": "baseball" }
@@ -503,7 +503,7 @@
     ],
     "meaning": "bridge",
     "examples": [
-      { "word": "橋", "reading": "はし", "gloss": "bridge" },
+      { "word": "桟橋", "reading": "さんばし", "gloss": "wharf" },
       { "word": "歩道橋", "reading": "ほどうきょう", "gloss": "pedestrian bridge" },
       { "word": "鉄橋", "reading": "てっきょう", "gloss": "iron bridge" },
       { "word": "吊り橋", "reading": "つりばし", "gloss": "suspension bridge" }
@@ -571,7 +571,7 @@
     ],
     "meaning": "ward; district",
     "examples": [
-      { "word": "区", "reading": "く", "gloss": "ward, district, section" },
+      { "word": "区別", "reading": "くべつ", "gloss": "distinction" },
       { "word": "東京都23区", "reading": "とうきょうと23く", "gloss": "Tokyo metro area, 23 wards" },
       { "word": "区域", "reading": "くいき", "gloss": "limits, boundary, domain, zone" },
       { "word": "区間", "reading": "くかん", "gloss": "section" }
@@ -601,7 +601,7 @@
     ],
     "meaning": "tool; equipment",
     "examples": [
-      { "word": "具", "reading": "ぐ", "gloss": "ingredients" },
+      { "word": "具体的", "reading": "ぐたいてき", "gloss": "concrete" },
       { "word": "道具", "reading": "どうぐ", "gloss": "tool" },
       { "word": "家具", "reading": "かぐ", "gloss": "furniture" },
       { "word": "文房具", "reading": "ぶんぼうぐ", "gloss": "stationery" }
@@ -615,7 +615,7 @@
     ],
     "meaning": "you (familiar)",
     "examples": [
-      { "word": "君", "reading": "きみ", "gloss": "you" },
+      { "word": "諸君", "reading": "しょくん", "gloss": "you (people)" },
       { "word": "君が代", "reading": "きみがよ", "gloss": "Japanese national anthem" },
       { "word": "君主", "reading": "くんしゅ", "gloss": "monarch" },
       { "word": "暴君", "reading": "ぼうくん", "gloss": "tyrant" }
@@ -658,7 +658,7 @@
     ],
     "meaning": "blood",
     "examples": [
-      { "word": "血", "reading": "ち", "gloss": "blood, consanguinity" },
+      { "word": "血管", "reading": "けっかん", "gloss": "blood vessel" },
       { "word": "血眼", "reading": "ちまなこ", "gloss": "bloodshot eyes, frantic" },
       { "word": "血塗れ", "reading": "ちまみれ", "gloss": "bloodstained, bloody" },
       { "word": "血液", "reading": "けつえき", "gloss": "blood" }
@@ -700,7 +700,7 @@
     ],
     "meaning": "prefecture",
     "examples": [
-      { "word": "県", "reading": "けん", "gloss": "prefecture" },
+      { "word": "県警", "reading": "けんけい", "gloss": "prefectural police" },
       { "word": "県庁", "reading": "けんちょう", "gloss": "prefectural office" },
       { "word": "県民", "reading": "けんみん", "gloss": "citizens of a prefecture" },
       { "word": "県立", "reading": "けんりつ", "gloss": "prefecturally run" }
@@ -729,7 +729,7 @@
     ],
     "meaning": "lake",
     "examples": [
-      { "word": "湖", "reading": "みずうみ", "gloss": "lake" },
+      { "word": "湖沼", "reading": "こしょう", "gloss": "lake" },
       { "word": "湖上", "reading": "こじょう", "gloss": "on the lake" },
       { "word": "湖畔", "reading": "こはん", "gloss": "lake shore" },
       { "word": "淡水湖", "reading": "たんすいこ", "gloss": "freshwater lake" }
@@ -772,7 +772,7 @@
     ],
     "meaning": "harbor",
     "examples": [
-      { "word": "港", "reading": "みなと", "gloss": "harbor, port" },
+      { "word": "空港", "reading": "くうこう", "gloss": "airport" },
       { "word": "港町", "reading": "みなとまち", "gloss": "port city" },
       { "word": "港湾", "reading": "こうわん", "gloss": "harbors and ports" },
       { "word": "港内", "reading": "こうない", "gloss": "inside a harbor" }
@@ -801,7 +801,7 @@
     ],
     "meaning": "root",
     "examples": [
-      { "word": "根", "reading": "ね", "gloss": "root" },
+      { "word": "屋根", "reading": "やね", "gloss": "roof" },
       { "word": "根元", "reading": "ねもと", "gloss": "root, base" },
       { "word": "根回し", "reading": "ねまわし", "gloss": "groundwork, preparatory work" },
       { "word": "根強い", "reading": "ねづよい", "gloss": "firmly rooted" }
@@ -829,7 +829,7 @@
     ],
     "meaning": "plate; dish",
     "examples": [
-      { "word": "皿", "reading": "さら", "gloss": "plate" },
+      { "word": "灰皿", "reading": "はいざら", "gloss": "ashtray" },
       { "word": "皿洗い", "reading": "さらあらい", "gloss": "dish-washing" },
       { "word": "一皿", "reading": "ひとさら", "gloss": "one dish" },
       { "word": "大皿", "reading": "おおざら", "gloss": "large plate, platter" }
@@ -901,7 +901,7 @@
     ],
     "meaning": "finger",
     "examples": [
-      { "word": "指", "reading": "ゆび", "gloss": "finger [n.]" },
+      { "word": "目指す", "reading": "めざす", "gloss": "to aim at (for, to do, to become)" },
       { "word": "指輪", "reading": "ゆびわ", "gloss": "ring" },
       { "word": "親指", "reading": "おやゆび", "gloss": "thumb" },
       { "word": "指紋", "reading": "しもん", "gloss": "fingerprint" }
@@ -915,7 +915,7 @@
     ],
     "meaning": "tooth",
     "examples": [
-      { "word": "歯", "reading": "は", "gloss": "tooth" },
+      { "word": "歯止め", "reading": "はどめ", "gloss": "brake" },
       { "word": "歯車", "reading": "はぐるま", "gloss": "gear, cog" },
       { "word": "歯医者", "reading": "はいしゃ", "gloss": "dentist" },
       { "word": "歯ブラシ", "reading": "はブラシ", "gloss": "toothbrush" }
@@ -929,7 +929,7 @@
     ],
     "meaning": "poem",
     "examples": [
-      { "word": "詩", "reading": "し", "gloss": "poem" },
+      { "word": "詩歌", "reading": "しいか", "gloss": "Japanese and Chinese poetry" },
       { "word": "詩人", "reading": "しじん", "gloss": "poet" },
       { "word": "詩集", "reading": "ししゅう", "gloss": "poetry collection" },
       { "word": "詩的な", "reading": "してきな", "gloss": "poetic" }
@@ -944,7 +944,7 @@
     ],
     "meaning": "next",
     "examples": [
-      { "word": "次", "reading": "つぎ", "gloss": "next" },
+      { "word": "次第", "reading": "しだい", "gloss": "depending on" },
       { "word": "次回", "reading": "じかい", "gloss": "next time" },
       { "word": "次週", "reading": "じしゅう", "gloss": "next week" },
       { "word": "次男", "reading": "じなん", "gloss": "second son" }
@@ -958,7 +958,7 @@
     ],
     "meaning": "matter; thing",
     "examples": [
-      { "word": "事", "reading": "こと", "gloss": "(abstract) thing" },
+      { "word": "仕事", "reading": "しごと", "gloss": "work" },
       { "word": "事故", "reading": "じこ", "gloss": "accident" },
       { "word": "食事", "reading": "しょくじ", "gloss": "meal" },
       { "word": "用事", "reading": "ようじ", "gloss": "business, engagement" }
@@ -1085,7 +1085,7 @@
     ],
     "meaning": "alcohol",
     "examples": [
-      { "word": "酒", "reading": "さけ", "gloss": "alcoholic beverages" },
+      { "word": "日本酒", "reading": "にほんしゅ", "gloss": "sake (rice wine)" },
       { "word": "酒癖", "reading": "さけぐせ", "gloss": "drunken behavior" },
       { "word": "酒飲み", "reading": "さけのみ", "gloss": "drinker" },
       { "word": "酒造", "reading": "しゅぞう", "gloss": "sake brewing" }
@@ -1113,7 +1113,7 @@
     ],
     "meaning": "state; continent",
     "examples": [
-      { "word": "州", "reading": "しゅう", "gloss": "state" },
+      { "word": "欧州", "reading": "おうしゅう", "gloss": "Europe" },
       { "word": "州立", "reading": "しゅうりつ", "gloss": "state-run" },
       { "word": "州都", "reading": "しゅうと", "gloss": "state capital" },
       { "word": "九州", "reading": "きゅうしゅう", "gloss": "Kyushu" }
@@ -1230,7 +1230,7 @@
     ],
     "meaning": "place",
     "examples": [
-      { "word": "所", "reading": "ところ", "gloss": "place" },
+      { "word": "事務所", "reading": "じむしょ", "gloss": "office" },
       { "word": "場所", "reading": "ばしょ", "gloss": "place" },
       { "word": "住所", "reading": "じゅうしょ", "gloss": "address" },
       { "word": "近所", "reading": "きんじょ", "gloss": "neighborhood" }
@@ -1311,7 +1311,7 @@
     ],
     "meaning": "chapter; badge",
     "examples": [
-      { "word": "章", "reading": "しょう", "gloss": "chapter" },
+      { "word": "憲章", "reading": "けんしょう", "gloss": "charter" },
       { "word": "文章", "reading": "ぶんしょう", "gloss": "sentence [n.]" },
       { "word": "校章", "reading": "こうしょう", "gloss": "school badge" },
       { "word": "勲章", "reading": "くんしょう", "gloss": "medal" }
@@ -1381,7 +1381,7 @@
     ],
     "meaning": "body",
     "examples": [
-      { "word": "身", "reading": "み", "gloss": "body, meaty part" },
+      { "word": "私自身", "reading": "わたしじしん", "gloss": "myself" },
       { "word": "身近な", "reading": "みぢかな", "gloss": "familiar" },
       { "word": "中身", "reading": "なかみ", "gloss": "contents" },
       { "word": "刺身", "reading": "さしみ", "gloss": "sliced raw fish" }
@@ -1396,7 +1396,7 @@
     ],
     "meaning": "god",
     "examples": [
-      { "word": "神", "reading": "かみ", "gloss": "god" },
+      { "word": "精神的", "reading": "せいしんてき", "gloss": "mental" },
       { "word": "神業", "reading": "かみわざ", "gloss": "miracle" },
       { "word": "神道", "reading": "しんとう", "gloss": "Shinto" },
       { "word": "神話", "reading": "しんわ", "gloss": "myth" }
@@ -1482,7 +1482,7 @@
     ],
     "meaning": "long ago",
     "examples": [
-      { "word": "昔", "reading": "むかし", "gloss": "olden days, former [n.]" },
+      { "word": "一昔", "reading": "ひとむかし", "gloss": "an age (ago)" },
       { "word": "昔話", "reading": "むかしばなし", "gloss": "folklore" },
       { "word": "昔日", "reading": "せきじつ", "gloss": "old days" },
       { "word": "今昔物語", "reading": "こんじゃくものがたり", "gloss": "Tales of past and present" }
@@ -1551,7 +1551,7 @@
     ],
     "meaning": "breath",
     "examples": [
-      { "word": "息", "reading": "いき", "gloss": "breath" },
+      { "word": "息子", "reading": "むすこ", "gloss": "son" },
       { "word": "ため息", "reading": "ためいき", "gloss": "sigh" },
       { "word": "子息", "reading": "しそく", "gloss": "son" },
       { "word": "消息", "reading": "しょうそく", "gloss": "news, information" }
@@ -1691,7 +1691,7 @@
     ],
     "meaning": "charcoal",
     "examples": [
-      { "word": "炭", "reading": "すみ", "gloss": "charcoal" },
+      { "word": "石炭", "reading": "せきたん", "gloss": "coal" },
       { "word": "炭火", "reading": "すみび", "gloss": "charcoal fire" },
       { "word": "炭焼き", "reading": "すみやき", "gloss": "charcoal maker, charcoal-grilled" },
       { "word": "炭坑", "reading": "たんこう", "gloss": "coal mine, coal pit" }
@@ -1761,7 +1761,7 @@
     ],
     "meaning": "pillar",
     "examples": [
-      { "word": "柱", "reading": "はしら", "gloss": "pillar, post" },
+      { "word": "電柱", "reading": "でんちゅう", "gloss": "utility pole" },
       { "word": "柱時計", "reading": "はしらどけい", "gloss": "wall clock" },
       { "word": "石柱", "reading": "せきちゅう", "gloss": "stone pillar" },
       { "word": "円柱", "reading": "えんちゅう", "gloss": "column, shaft, cylinder" }
@@ -1778,7 +1778,7 @@
     "examples": [
       { "word": "丁寧な", "reading": "ていねいな", "gloss": "polite, courteous, careful" },
       { "word": "丁重な", "reading": "ていちょうな", "gloss": "polite, courteous" },
-      { "word": "丁", "reading": "ちょう", "gloss": "counter for guns and tofu" },
+      { "word": "丁寧", "reading": "ていねい", "gloss": "polite" },
       { "word": "丁度", "reading": "ちょうど", "gloss": "just, right, exactly" }
     ]
   },
@@ -1847,7 +1847,7 @@
     ],
     "meaning": "garden; yard",
     "examples": [
-      { "word": "庭", "reading": "にわ", "gloss": "garden" },
+      { "word": "家庭", "reading": "かてい", "gloss": "home" },
       { "word": "中庭", "reading": "なかにわ", "gloss": "courtyard" },
       { "word": "校庭", "reading": "こうてい", "gloss": "campus play ground" },
       { "word": "石庭", "reading": "せきてい", "gloss": "rock garden" }
@@ -1861,7 +1861,7 @@
     ],
     "meaning": "flute; whistle",
     "examples": [
-      { "word": "笛", "reading": "ふえ", "gloss": "flute, pipe, whistle" },
+      { "word": "口笛", "reading": "くちぶえ", "gloss": "whistle (sound made with the lips)" },
       { "word": "汽笛", "reading": "きてき", "gloss": "steam whistle" },
       { "word": "警笛", "reading": "けいてき", "gloss": "horn, alarm, whistle, foghorn" },
       { "word": "鼓笛隊", "reading": "こてきたい", "gloss": "drum and fife band" }
@@ -1875,7 +1875,7 @@
     ],
     "meaning": "iron",
     "examples": [
-      { "word": "鉄", "reading": "てつ", "gloss": "iron" },
+      { "word": "地下鉄", "reading": "ちかてつ", "gloss": "subway" },
       { "word": "鉄道", "reading": "てつどう", "gloss": "railroad" },
       { "word": "製鉄", "reading": "せいてつ", "gloss": "steelmaking" },
       { "word": "私鉄", "reading": "してつ", "gloss": "private railway" }
@@ -1947,7 +1947,7 @@
     ],
     "meaning": "bean",
     "examples": [
-      { "word": "豆", "reading": "まめ", "gloss": "beans, peas, miniature, tiny" },
+      { "word": "納豆", "reading": "なっとう", "gloss": "natto (fermented soybeans)" },
       { "word": "豆電球", "reading": "まめでんきゅう", "gloss": "miniature light bulb" },
       { "word": "枝豆", "reading": "えだまめ", "gloss": "green soybeans" },
       { "word": "豆腐", "reading": "とうふ", "gloss": "tofu, bean-curd" }
@@ -1961,7 +1961,7 @@
     ],
     "meaning": "island",
     "examples": [
-      { "word": "島", "reading": "しま", "gloss": "island" },
+      { "word": "無人島", "reading": "むじんとう", "gloss": "uninhabited island" },
       { "word": "島国", "reading": "しまぐに", "gloss": "island country" },
       { "word": "島々", "reading": "しまじま", "gloss": "islands" },
       { "word": "島民", "reading": "とうみん", "gloss": "islander" }
@@ -1975,7 +1975,7 @@
     ],
     "meaning": "hot water",
     "examples": [
-      { "word": "湯", "reading": "ゆ", "gloss": "hot water" },
+      { "word": "銭湯", "reading": "せんとう", "gloss": "public bath" },
       { "word": "湯気", "reading": "ゆげ", "gloss": "steam, vapor [n.]" },
       { "word": "湯飲み", "reading": "ゆのみ", "gloss": "teacup (for green tea)" },
       { "word": "湯船", "reading": "ゆぶね", "gloss": "bathtub" }
@@ -2060,7 +2060,7 @@
     ],
     "meaning": "wave",
     "examples": [
-      { "word": "波", "reading": "なみ", "gloss": "wave [n.]" },
+      { "word": "電波", "reading": "でんぱ", "gloss": "radio wave" },
       { "word": "波乗り", "reading": "なみのり", "gloss": "surfing" },
       { "word": "津波", "reading": "つなみ", "gloss": "tsunami, tidal wave" },
       { "word": "人波", "reading": "ひとなみ", "gloss": "surging crowd, stampede" }
@@ -2101,7 +2101,7 @@
     ],
     "meaning": "box",
     "examples": [
-      { "word": "箱", "reading": "はこ", "gloss": "box" },
+      { "word": "私書箱", "reading": "ししょばこ", "gloss": "post office box" },
       { "word": "箱庭", "reading": "はこにわ", "gloss": "miniature garden" },
       { "word": "箱入り娘", "reading": "はこいりむすめ", "gloss": "girl who has led a sheltered life" },
       { "word": "巣箱", "reading": "すばこ", "gloss": "nest box" }
@@ -2115,7 +2115,7 @@
     ],
     "meaning": "field (farm)",
     "examples": [
-      { "word": "畑", "reading": "はたけ", "gloss": "dry fields" },
+      { "word": "桑畑", "reading": "くわばたけ", "gloss": "mulberry field" },
       { "word": "畑作", "reading": "はたさく", "gloss": "dry field farming, dry field crop" },
       { "word": "田畑", "reading": "たはた", "gloss": "rice fields and dry fields" },
       { "word": "花畑", "reading": "はなばたけ", "gloss": "flower garden, flower bed" }
@@ -2156,7 +2156,7 @@
     ],
     "meaning": "slope",
     "examples": [
-      { "word": "坂", "reading": "さか", "gloss": "slope hill" },
+      { "word": "下り坂", "reading": "くだりざか", "gloss": "downhill" },
       { "word": "坂道", "reading": "さかみち", "gloss": "hill road" },
       { "word": "登坂する", "reading": "とはんする", "gloss": "climb a hill" },
       { "word": "上り坂", "reading": "のぼりざか", "gloss": "uphill, upgrade" }
@@ -2171,7 +2171,7 @@
     ],
     "meaning": "board; plank",
     "examples": [
-      { "word": "板", "reading": "いた", "gloss": "board, plank" },
+      { "word": "掲示板", "reading": "けいじばん", "gloss": "bulletin board" },
       { "word": "板前", "reading": "いたまえ", "gloss": "chef, cook" },
       { "word": "黒板", "reading": "こくばん", "gloss": "blackboard" },
       { "word": "看板", "reading": "かんばん", "gloss": "signboard, billboard" }
@@ -2185,7 +2185,7 @@
     ],
     "meaning": "skin; hide",
     "examples": [
-      { "word": "皮", "reading": "かわ", "gloss": "skin, hide, leather, fur, pelt, bark" },
+      { "word": "毛皮", "reading": "けがわ", "gloss": "fur" },
       { "word": "皮膚", "reading": "ひふ", "gloss": "skin [n.]" },
       { "word": "皮肉", "reading": "ひにく", "gloss": "cynicism, sarcasm, irony, satire" },
       { "word": "皮相", "reading": "ひそう", "gloss": "superficial" }
@@ -2214,7 +2214,7 @@
     "meaning": "beautiful",
     "examples": [
       { "word": "美しい", "reading": "うつくしい", "gloss": "beautiful" },
-      { "word": "美", "reading": "び", "gloss": "beauty" },
+      { "word": "美しさ", "reading": "うつくしさ", "gloss": "beauty" },
       { "word": "美学", "reading": "びがく", "gloss": "aesthetics" },
       { "word": "美人", "reading": "びじん", "gloss": "beautiful woman" }
     ]
@@ -2227,7 +2227,7 @@
     ],
     "meaning": "nose",
     "examples": [
-      { "word": "鼻", "reading": "はな", "gloss": "nose" },
+      { "word": "鼻息", "reading": "はないき", "gloss": "nasal breathing" },
       { "word": "鼻水", "reading": "はなみず", "gloss": "mucus" },
       { "word": "鼻血", "reading": "はなぢ", "gloss": "nosebleed" },
       { "word": "鼻炎", "reading": "びえん", "gloss": "nasal inflammation" }
@@ -2241,7 +2241,7 @@
     ],
     "meaning": "writing brush",
     "examples": [
-      { "word": "筆", "reading": "ふで", "gloss": "writing brush" },
+      { "word": "鉛筆", "reading": "えんぴつ", "gloss": "(wooden) pencil" },
       { "word": "筆無精", "reading": "ふでぶしょう", "gloss": "poor correspondent" },
       { "word": "筆順", "reading": "ひつじゅん", "gloss": "stroke order" },
       { "word": "筆者", "reading": "ひっしゃ", "gloss": "writer, author" }
@@ -2255,7 +2255,7 @@
     ],
     "meaning": "ice",
     "examples": [
-      { "word": "氷", "reading": "こおり", "gloss": "ice" },
+      { "word": "南氷洋", "reading": "なんひょうよう", "gloss": "Antarctic Ocean" },
       { "word": "氷枕", "reading": "こおりまくら", "gloss": "ice pillow" },
       { "word": "氷山", "reading": "ひょうざん", "gloss": "iceberg" },
       { "word": "氷河", "reading": "ひょうが", "gloss": "glacier" }
@@ -2271,7 +2271,7 @@
     ],
     "meaning": "surface; show",
     "examples": [
-      { "word": "表", "reading": "ひょう", "gloss": "table, chart" },
+      { "word": "表現", "reading": "ひょうげん", "gloss": "expression" },
       { "word": "表情", "reading": "ひょうじょう", "gloss": "facial expression" },
       { "word": "表面", "reading": "ひょうめん", "gloss": "surface" },
       { "word": "予定表", "reading": "よていひょう", "gloss": "schedule" }
@@ -2284,7 +2284,7 @@
     ],
     "meaning": "second (time)",
     "examples": [
-      { "word": "秒", "reading": "びょう", "gloss": "second" },
+      { "word": "毎秒", "reading": "まいびょう", "gloss": "every second" },
       { "word": "秒速", "reading": "びょうそく", "gloss": "speed (m/s)" },
       { "word": "秒針", "reading": "びょうしん", "gloss": "second hand" },
       { "word": "秒読み", "reading": "びょうよみ", "gloss": "countdown" }
@@ -2340,7 +2340,7 @@
     ],
     "meaning": "section; part",
     "examples": [
-      { "word": "部", "reading": "ぶ", "gloss": "section, category, department" },
+      { "word": "全部", "reading": "ぜんぶ", "gloss": "all" },
       { "word": "部分", "reading": "ぶぶん", "gloss": "portion" },
       { "word": "部長", "reading": "ぶちょう", "gloss": "head of a section or department" },
       { "word": "部下", "reading": "ぶか", "gloss": "subordinate person" }
@@ -2353,7 +2353,7 @@
     ],
     "meaning": "clothes",
     "examples": [
-      { "word": "服", "reading": "ふく", "gloss": "clothes" },
+      { "word": "服装", "reading": "ふくそう", "gloss": "attire" },
       { "word": "洋服", "reading": "ようふく", "gloss": "Western-style clothes" },
       { "word": "和服", "reading": "わふく", "gloss": "Japanese clothes" },
       { "word": "制服", "reading": "せいふく", "gloss": "uniform" }
@@ -2381,7 +2381,7 @@
     ],
     "meaning": "thing",
     "examples": [
-      { "word": "物", "reading": "もの", "gloss": "thing" },
+      { "word": "動物", "reading": "どうぶつ", "gloss": "animal" },
       { "word": "建物", "reading": "たてもの", "gloss": "building" },
       { "word": "食べ物", "reading": "たべもの", "gloss": "food" },
       { "word": "買い物", "reading": "かいもの", "gloss": "shopping" }
@@ -2453,7 +2453,7 @@
     ],
     "meaning": "taste",
     "examples": [
-      { "word": "味", "reading": "あじ", "gloss": "flavor" },
+      { "word": "興味", "reading": "きょうみ", "gloss": "interest (in something)" },
       { "word": "後味", "reading": "あとあじ", "gloss": "aftertaste" },
       { "word": "味わう", "reading": "あじわう", "gloss": "taste, appreciate" },
       { "word": "意味", "reading": "いみ", "gloss": "meaning" }
@@ -2467,7 +2467,7 @@
     ],
     "meaning": "life",
     "examples": [
-      { "word": "命", "reading": "いのち", "gloss": "life" },
+      { "word": "一生懸命", "reading": "いっしょうけんめい", "gloss": "very hard" },
       { "word": "使命", "reading": "しめい", "gloss": "mission" },
       { "word": "運命", "reading": "うんめい", "gloss": "fate" },
       { "word": "生命", "reading": "せいめい", "gloss": "life" }
@@ -2510,7 +2510,7 @@
     ],
     "meaning": "role",
     "examples": [
-      { "word": "役", "reading": "やく", "gloss": "role" },
+      { "word": "役立つ", "reading": "やくだつ", "gloss": "to be useful" },
       { "word": "役者", "reading": "やくしゃ", "gloss": "actor, actress" },
       { "word": "役割", "reading": "やくわり", "gloss": "role, duties" },
       { "word": "役所", "reading": "やくしょ", "gloss": "public office" }
@@ -2524,7 +2524,7 @@
     ],
     "meaning": "medicine",
     "examples": [
-      { "word": "薬", "reading": "くすり", "gloss": "medicine" },
+      { "word": "麻薬", "reading": "まやく", "gloss": "narcotic" },
       { "word": "薬屋", "reading": "くすりや", "gloss": "pharmacy" },
       { "word": "薬指", "reading": "くすりゆび", "gloss": "ring finger" },
       { "word": "薬品", "reading": "やくひん", "gloss": "medicine, chemical [n.]" }
@@ -2553,7 +2553,7 @@
     ],
     "meaning": "oil",
     "examples": [
-      { "word": "油", "reading": "あぶら", "gloss": "oil" },
+      { "word": "しょう油", "reading": "しょうゆ", "gloss": "soy sauce" },
       { "word": "油絵", "reading": "あぶらえ", "gloss": "oil painting" },
       { "word": "油脂", "reading": "ゆし", "gloss": "fat, fats and oils" },
       { "word": "石油", "reading": "せきゆ", "gloss": "oil, petroleum, kerosene" }
@@ -2609,7 +2609,7 @@
     ],
     "meaning": "sheep",
     "examples": [
-      { "word": "羊", "reading": "ひつじ", "gloss": "sheep" },
+      { "word": "小羊", "reading": "こひつじ", "gloss": "lamb" },
       { "word": "羊飼い", "reading": "ひつじかい", "gloss": "shepherd, shepherdess" },
       { "word": "子羊", "reading": "こひつじ", "gloss": "lamb" },
       { "word": "羊毛", "reading": "ようもう", "gloss": "wool" }
@@ -2636,7 +2636,7 @@
     ],
     "meaning": "leaf",
     "examples": [
-      { "word": "葉", "reading": "は", "gloss": "leaf, foliage" },
+      { "word": "言葉", "reading": "ことば", "gloss": "language" },
       { "word": "葉っぱ", "reading": "はっぱ", "gloss": "leaf" },
       { "word": "葉書", "reading": "はがき", "gloss": "postcard" },
       { "word": "葉緑素", "reading": "ようりょくそ", "gloss": "chlorophyl" }
@@ -2707,7 +2707,7 @@
     ],
     "meaning": "journey",
     "examples": [
-      { "word": "旅", "reading": "たび", "gloss": "journey" },
+      { "word": "旅行", "reading": "りょこう", "gloss": "travel" },
       { "word": "旅先", "reading": "たびさき", "gloss": "destination" },
       { "word": "旅立つ", "reading": "たびだつ", "gloss": "begin a trip [v.i.]" },
       { "word": "旅人", "reading": "たびびと", "gloss": "traveller" }
@@ -2736,7 +2736,7 @@
     ],
     "meaning": "green",
     "examples": [
-      { "word": "緑", "reading": "みどり", "gloss": "greenery" },
+      { "word": "緑地", "reading": "りょくち", "gloss": "green tract of land" },
       { "word": "緑色", "reading": "みどりいろ", "gloss": "green" },
       { "word": "緑茶", "reading": "りょくちゃ", "gloss": "green tea, Japanese tea" },
       { "word": "新緑", "reading": "しんりょく", "gloss": "fresh verdure" }
@@ -2762,7 +2762,7 @@
     ],
     "meaning": "row; line",
     "examples": [
-      { "word": "列", "reading": "れつ", "gloss": "line" },
+      { "word": "列車", "reading": "れっしゃ", "gloss": "train" },
       { "word": "行列", "reading": "ぎょうれつ", "gloss": "line, procession, matrix" },
       { "word": "前列", "reading": "ぜんれつ", "gloss": "front row" },
       { "word": "後列", "reading": "こうれつ", "gloss": "back row" }

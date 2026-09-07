@@ -155,7 +155,7 @@
     ],
     "meaning": "can (container)",
     "examples": [
-      { "word": "缶", "reading": "かん", "gloss": "can, tin" },
+      { "word": "缶詰", "reading": "かんづめ", "gloss": "canned food" },
       { "word": "缶切り", "reading": "かんきり", "gloss": "can opener" },
       { "word": "缶詰め", "reading": "かんづめ", "gloss": "canned goods, tin can" },
       { "word": "空き缶", "reading": "あきかん", "gloss": "empty can" }
@@ -258,7 +258,7 @@
     ],
     "meaning": "skin",
     "examples": [
-      { "word": "肌", "reading": "はだ", "gloss": "skin" },
+      { "word": "肌寒い", "reading": "はださむい", "gloss": "chilly" },
       { "word": "肌身", "reading": "はだみ", "gloss": "body" },
       { "word": "肌着", "reading": "はだぎ", "gloss": "underwear" },
       { "word": "肌色", "reading": "はだいろ", "gloss": "skin-colored" }
@@ -311,7 +311,7 @@
     "examples": [
       { "word": "肩甲骨", "reading": "けんこうこつ", "gloss": "shoulder-blade" },
       { "word": "強肩", "reading": "きょうけん", "gloss": "strong throwing arm" },
-      { "word": "肩", "reading": "かた", "gloss": "shoulder" },
+      { "word": "肩書", "reading": "かたがき", "gloss": "title (e.g. Doctor, Professor, Lord)" },
       { "word": "肩書き", "reading": "かたがき", "gloss": "title" }
     ]
   },
@@ -372,7 +372,7 @@
       { "word": "脂肪", "reading": "しぼう", "gloss": "fat, grease, blubber" },
       { "word": "脂質", "reading": "ししつ", "gloss": "lipid, fats, adipose" },
       { "word": "油脂", "reading": "ゆし", "gloss": "fat, fats and oils" },
-      { "word": "脂", "reading": "あぶら", "gloss": "fat, tallow, lard" }
+      { "word": "樹脂", "reading": "じゅし", "gloss": "resin" }
     ]
   },
   {
@@ -465,7 +465,7 @@
     "meaning": "hip; waist",
     "examples": [
       { "word": "腰痛", "reading": "ようつう", "gloss": "back pain" },
-      { "word": "腰", "reading": "こし", "gloss": "waist" },
+      { "word": "本腰", "reading": "ほんごし", "gloss": "strenuous effort" },
       { "word": "腰骨", "reading": "こしぼね", "gloss": "hipbone, innominate bone" },
       { "word": "足腰", "reading": "あしこし", "gloss": "legs and loins" }
     ]
@@ -578,7 +578,7 @@
     ],
     "meaning": "boat",
     "examples": [
-      { "word": "舟", "reading": "ふね", "gloss": "ship, boat, watercraft" },
+      { "word": "小舟", "reading": "こぶね", "gloss": "small boat" },
       { "word": "舟大工", "reading": "ふなだいく", "gloss": "shipwright" },
       { "word": "舟着き場", "reading": "ふなつきば", "gloss": "wharf" },
       { "word": "舟航", "reading": "しゅうこう", "gloss": "boating, sailing" }
@@ -646,7 +646,7 @@
     ],
     "meaning": "lawn; turf",
     "examples": [
-      { "word": "芝", "reading": "しば", "gloss": "lawn, sod, turf" },
+      { "word": "紙芝居", "reading": "かみしばい", "gloss": "kamishibai" },
       { "word": "芝生", "reading": "しばふ", "gloss": "lawn" },
       { "word": "芝居", "reading": "しばい", "gloss": "play, drama" },
       { "word": "人工芝", "reading": "じんこうしば", "gloss": "artificial grass" }
@@ -1018,7 +1018,7 @@
     "meaning": "bag",
     "examples": [
       { "word": "郵袋", "reading": "ゆうたい", "gloss": "mailbag" },
-      { "word": "袋", "reading": "ふくろ", "gloss": "bag, sack" },
+      { "word": "寝袋", "reading": "ねぶくろ", "gloss": "sleeping bag" },
       { "word": "袋小路", "reading": "ふくろこうじ", "gloss": "blind alley, cul-de-sac" },
       { "word": "お袋", "reading": "おふくろ", "gloss": "one's mother" }
     ]
@@ -1289,7 +1289,7 @@
     ],
     "meaning": "who",
     "examples": [
-      { "word": "誰", "reading": "だれ", "gloss": "who" },
+      { "word": "誰か", "reading": "だれか", "gloss": "someone" },
       { "word": "誰何", "reading": "すいか", "gloss": "asking a person's identity" }
     ]
   },
@@ -1417,7 +1417,7 @@
       { "word": "豚カツ", "reading": "とんカツ", "gloss": "pork cutlet" },
       { "word": "豚舎", "reading": "とんしゃ", "gloss": "pigpen, pigsty" },
       { "word": "養豚", "reading": "ようとん", "gloss": "pig-keeping, pig farming" },
-      { "word": "豚", "reading": "ぶた", "gloss": "pig" }
+      { "word": "豚肉", "reading": "ぶたにく", "gloss": "pork" }
     ]
   },
   {
@@ -1634,7 +1634,7 @@
       { "word": "趣味", "reading": "しゅみ", "gloss": "hobby, interest, tastes" },
       { "word": "趣旨", "reading": "しゅし", "gloss": "object, goal" },
       { "word": "趣向", "reading": "しゅこう", "gloss": "plan, scheme" },
-      { "word": "趣", "reading": "おもむき", "gloss": "grace, refinement" }
+      { "word": "趣意書", "reading": "しゅいしょ", "gloss": "prospectus" }
     ]
   },
   {
@@ -1736,7 +1736,7 @@
       { "word": "軒数", "reading": "けんすう", "gloss": "number of houses" },
       { "word": "一軒", "reading": "いっけん", "gloss": "one house" },
       { "word": "一軒家", "reading": "いっけんや", "gloss": "an isolated house" },
-      { "word": "軒", "reading": "のき", "gloss": "eaves" }
+      { "word": "軒並", "reading": "のきなみ", "gloss": "row of houses" }
     ]
   },
   {
@@ -2541,7 +2541,7 @@
     "meaning": "corner",
     "examples": [
       { "word": "一隅", "reading": "いちぐう", "gloss": "corner, nook" },
-      { "word": "隅", "reading": "すみ", "gloss": "corner, nook" },
+      { "word": "四隅", "reading": "よすみ", "gloss": "four corners" },
       { "word": "隅々", "reading": "すみずみ", "gloss": "every nook and corner" },
       { "word": "片隅", "reading": "かたすみ", "gloss": "corner, nook" }
     ]
@@ -2682,7 +2682,7 @@
     ],
     "meaning": "zero",
     "examples": [
-      { "word": "零", "reading": "れい", "gloss": "zero, nought" },
+      { "word": "零細", "reading": "れいさい", "gloss": "insignificant" },
       { "word": "零度", "reading": "れいど", "gloss": "zero degree" },
       { "word": "零下", "reading": "れいか", "gloss": "below zero" },
       { "word": "零時", "reading": "れいじ", "gloss": "twelve o'clock" }
@@ -2759,7 +2759,7 @@
     "examples": [
       { "word": "軍靴", "reading": "ぐんか", "gloss": "military shoes" },
       { "word": "製靴業", "reading": "せいかぎょう", "gloss": "the shoemaking industry" },
-      { "word": "靴", "reading": "くつ", "gloss": "shoes, footwear" },
+      { "word": "靴下", "reading": "くつした", "gloss": "socks" },
       { "word": "靴屋", "reading": "くつや", "gloss": "shoemaker, shoe store" }
     ]
   },
@@ -2798,7 +2798,7 @@
     ],
     "meaning": "about (time)",
     "examples": [
-      { "word": "頃", "reading": "ころ", "gloss": "approximately (time)" },
+      { "word": "日頃", "reading": "ひごろ", "gloss": "usually" },
       { "word": "頃日", "reading": "けいじつ", "gloss": "recently" },
       { "word": "三時頃", "reading": "さんじごろ", "gloss": "about 3 o'clock" },
       { "word": "この頃", "reading": "このごろ", "gloss": "recently" }
@@ -3045,7 +3045,7 @@
       { "word": "頭髪", "reading": "とうはつ", "gloss": "hair (on the head)" },
       { "word": "毛髪", "reading": "もうはつ", "gloss": "hair" },
       { "word": "白髪", "reading": "はくはつ", "gloss": "white hair, grey hair" },
-      { "word": "髪", "reading": "かみ", "gloss": "hair (on the head)" }
+      { "word": "髪の毛", "reading": "かみのけ", "gloss": "hair (on the head)" }
     ]
   },
   {

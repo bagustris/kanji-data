@@ -22,7 +22,7 @@
     ],
     "meaning": "right",
     "examples": [
-      { "word": "右", "reading": "みぎ", "gloss": "right" },
+      { "word": "左右", "reading": "さゆう", "gloss": "left and right" },
       { "word": "右手", "reading": "みぎて", "gloss": "right hand, right side" },
       { "word": "右側", "reading": "みぎがわ", "gloss": "right side" },
       { "word": "右折する", "reading": "うせつする", "gloss": "turn to the right" }
@@ -36,7 +36,7 @@
     ],
     "meaning": "rain",
     "examples": [
-      { "word": "雨", "reading": "あめ", "gloss": "rain" },
+      { "word": "梅雨", "reading": "つゆ", "gloss": "(East Asian) rainy season (in Japan, usu. from early June to mid-July)" },
       { "word": "大雨", "reading": "おおあめ", "gloss": "heavy rain" },
       { "word": "雨上がり", "reading": "あめあがり", "gloss": "after the rain" },
       { "word": "降雨量", "reading": "こううりょう", "gloss": "amount of rainfall" }
@@ -79,7 +79,7 @@
     ],
     "meaning": "sound",
     "examples": [
-      { "word": "音", "reading": "おと", "gloss": "sound" },
+      { "word": "音楽", "reading": "おんがく", "gloss": "music" },
       { "word": "足音", "reading": "あしおと", "gloss": "footsteps (sound)" },
       { "word": "発音する", "reading": "はつおんする", "gloss": "pronounce" },
       { "word": "録音する", "reading": "ろくおんする", "gloss": "record" }
@@ -103,7 +103,7 @@
     ],
     "meaning": "below; under",
     "examples": [
-      { "word": "下", "reading": "した", "gloss": "under, below" },
+      { "word": "下りる", "reading": "おりる", "gloss": "to descend (e.g. a mountain)" },
       { "word": "靴下", "reading": "くつした", "gloss": "socks" },
       { "word": "地下鉄", "reading": "ちかてつ", "gloss": "subway" },
       { "word": "上下する", "reading": "じょうげする", "gloss": "go up and down" }
@@ -117,7 +117,7 @@
     ],
     "meaning": "fire",
     "examples": [
-      { "word": "火", "reading": "ひ", "gloss": "flame, fire" },
+      { "word": "花火", "reading": "はなび", "gloss": "fireworks" },
       { "word": "火事", "reading": "かじ", "gloss": "fire" },
       { "word": "火力", "reading": "かりょく", "gloss": "thermal power" },
       { "word": "火曜日", "reading": "かようび", "gloss": "Tuesday" }
@@ -131,7 +131,7 @@
     ],
     "meaning": "flower",
     "examples": [
-      { "word": "花", "reading": "はな", "gloss": "flower" },
+      { "word": "花粉", "reading": "かふん", "gloss": "pollen" },
       { "word": "花屋", "reading": "はなや", "gloss": "florist" },
       { "word": "花嫁", "reading": "はなよめ", "gloss": "bride" },
       { "word": "花火", "reading": "はなび", "gloss": "fireworks" }
@@ -145,7 +145,7 @@
     ],
     "meaning": "shellfish",
     "examples": [
-      { "word": "貝", "reading": "かい", "gloss": "shell, shellfish" },
+      { "word": "貝塚", "reading": "かいづか", "gloss": "shell heap" },
       { "word": "貝柱", "reading": "かいばしら", "gloss": "adductor muscle (of shellfish)" },
       { "word": "貝殻", "reading": "かいがら", "gloss": "shell" }
     ]
@@ -218,7 +218,7 @@
     ],
     "meaning": "ball; jewel",
     "examples": [
-      { "word": "玉", "reading": "たま", "gloss": "ball, jewel" },
+      { "word": "玉ねぎ", "reading": "たまねぎ", "gloss": "onion (Allium cepa)" },
       { "word": "玉子", "reading": "たまご", "gloss": "egg" },
       { "word": "玉葱", "reading": "たまねぎ", "gloss": "onion" },
       { "word": "水玉模様", "reading": "みずたまもよう", "gloss": "polka dots" }
@@ -248,7 +248,7 @@
     ],
     "meaning": "sky; empty",
     "examples": [
-      { "word": "空", "reading": "そら", "gloss": "sky" },
+      { "word": "空く", "reading": "あく", "gloss": "to open (e.g. doors)" },
       { "word": "空間", "reading": "くうかん", "gloss": "space" },
       { "word": "空港", "reading": "くうこう", "gloss": "airport" },
       { "word": "空気", "reading": "くうき", "gloss": "air" }
@@ -277,7 +277,7 @@
     ],
     "meaning": "dog",
     "examples": [
-      { "word": "犬", "reading": "いぬ", "gloss": "dog" },
+      { "word": "盲導犬", "reading": "もうどうけん", "gloss": "guide dog" },
       { "word": "飼い犬", "reading": "かいいぬ", "gloss": "pet dog" },
       { "word": "子犬", "reading": "こいぬ", "gloss": "puppy" },
       { "word": "番犬", "reading": "ばんけん", "gloss": "watchdog" }
@@ -324,7 +324,7 @@
     "meaning": "mouth",
     "examples": [
       { "word": "口調", "reading": "くちょう", "gloss": "tone of voice" },
-      { "word": "口", "reading": "くち", "gloss": "mouth" },
+      { "word": "入り口", "reading": "いりぐち", "gloss": "entrance" },
       { "word": "無口な", "reading": "むくちな", "gloss": "reticent" },
       { "word": "人口", "reading": "じんこう", "gloss": "population" }
     ]
@@ -350,7 +350,7 @@
     ],
     "meaning": "left",
     "examples": [
-      { "word": "左", "reading": "ひだり", "gloss": "left" },
+      { "word": "左右", "reading": "さゆう", "gloss": "left and right" },
       { "word": "左側", "reading": "ひだりがわ", "gloss": "left side" },
       { "word": "左向き", "reading": "ひだりむき", "gloss": "left facing" },
       { "word": "左右する", "reading": "さゆうする", "gloss": "influence, control, command" }
@@ -380,7 +380,7 @@
     ],
     "meaning": "mountain",
     "examples": [
-      { "word": "山", "reading": "やま", "gloss": "mountain, pile, climax" },
+      { "word": "火山", "reading": "かざん", "gloss": "volcano" },
       { "word": "岩山", "reading": "いわやま", "gloss": "rocky mountain" },
       { "word": "山火事", "reading": "やまかじ", "gloss": "bushfire" },
       { "word": "富士山", "reading": "ふじさん", "gloss": "Mt Fuji" }
@@ -426,7 +426,7 @@
     ],
     "meaning": "thread",
     "examples": [
-      { "word": "糸", "reading": "いと", "gloss": "thread, yarn, string" },
+      { "word": "生糸", "reading": "きいと", "gloss": "raw silk thread" },
       { "word": "糸口", "reading": "いとぐち", "gloss": "beginning, start, clue" },
       { "word": "毛糸", "reading": "けいと", "gloss": "knitting wool" },
       { "word": "縦糸", "reading": "たていと", "gloss": "warp" }
@@ -440,7 +440,7 @@
     ],
     "meaning": "character; letter",
     "examples": [
-      { "word": "字", "reading": "じ", "gloss": "character, hand-writing" },
+      { "word": "数字", "reading": "すうじ", "gloss": "numeral" },
       { "word": "漢字", "reading": "かんじ", "gloss": "Chinese characters" },
       { "word": "文字", "reading": "もじ", "gloss": "character" },
       { "word": "ローマ字", "reading": "ローマじ", "gloss": "Roman letters (alphabet)" }
@@ -454,7 +454,7 @@
     ],
     "meaning": "ear",
     "examples": [
-      { "word": "耳", "reading": "みみ", "gloss": "ear" },
+      { "word": "耳より", "reading": "みみより", "gloss": "welcome (news)" },
       { "word": "初耳", "reading": "はつみみ", "gloss": "heard for the first time" },
       { "word": "耳鼻科", "reading": "じびか", "gloss": "otolaryngology" }
     ]
@@ -483,7 +483,7 @@
     ],
     "meaning": "car; vehicle",
     "examples": [
-      { "word": "車", "reading": "くるま", "gloss": "car" },
+      { "word": "自動車", "reading": "じどうしゃ", "gloss": "car" },
       { "word": "車いす", "reading": "くるまいす", "gloss": "wheel chair" },
       { "word": "自転車", "reading": "じてんしゃ", "gloss": "bicycle" },
       { "word": "電車", "reading": "でんしゃ", "gloss": "train" }
@@ -511,7 +511,7 @@
     ],
     "meaning": "ten",
     "examples": [
-      { "word": "十", "reading": "じゅう", "gloss": "10" },
+      { "word": "十分", "reading": "じゅうぶん", "gloss": "enough" },
       { "word": "十年", "reading": "じゅうねん", "gloss": "10 years" },
       { "word": "十分な", "reading": "じゅうぶんな", "gloss": "enough" },
       { "word": "十日", "reading": "とおか", "gloss": "10 days, 10th of the month" }
@@ -542,7 +542,7 @@
     ],
     "meaning": "woman",
     "examples": [
-      { "word": "女", "reading": "おんな", "gloss": "woman" },
+      { "word": "彼女", "reading": "かのじょ", "gloss": "she" },
       { "word": "女の子", "reading": "おんなのこ", "gloss": "girl" },
       { "word": "女性", "reading": "じょせい", "gloss": "female" },
       { "word": "女子学生", "reading": "じょしがくせい", "gloss": "female student" }
@@ -571,7 +571,7 @@
     ],
     "meaning": "above; up",
     "examples": [
-      { "word": "上", "reading": "うえ", "gloss": "above, on top, upper part of" },
+      { "word": "以上", "reading": "いじょう", "gloss": "not less than ..." },
       { "word": "目上", "reading": "めうえ", "gloss": "superior(s)" },
       { "word": "上下する", "reading": "じょうげする", "gloss": "go up and down" },
       { "word": "頂上", "reading": "ちょうじょう", "gloss": "summit" }
@@ -585,7 +585,7 @@
     ],
     "meaning": "forest",
     "examples": [
-      { "word": "森", "reading": "もり", "gloss": "woods" },
+      { "word": "大森", "reading": "おおもり", "gloss": "large forest" },
       { "word": "森林", "reading": "しんりん", "gloss": "forest" }
     ]
   },
@@ -598,7 +598,7 @@
     ],
     "meaning": "person",
     "examples": [
-      { "word": "人", "reading": "ひと", "gloss": "person" },
+      { "word": "一人", "reading": "ひとり", "gloss": "one person" },
       { "word": "人柄", "reading": "ひとがら", "gloss": "personality" },
       { "word": "一人", "reading": "ひとり", "gloss": "one person" },
       { "word": "人類学", "reading": "じんるいがく", "gloss": "anthropology" }
@@ -612,7 +612,7 @@
     ],
     "meaning": "water",
     "examples": [
-      { "word": "水", "reading": "みず", "gloss": "water" },
+      { "word": "水分", "reading": "すいぶん", "gloss": "water" },
       { "word": "水着", "reading": "みずぎ", "gloss": "bathing suit" },
       { "word": "水色", "reading": "みずいろ", "gloss": "light blue" },
       { "word": "水曜日", "reading": "すいようび", "gloss": "Wednesday" }
@@ -687,7 +687,7 @@
     ],
     "meaning": "stone",
     "examples": [
-      { "word": "石", "reading": "いし", "gloss": "stone" },
+      { "word": "化石", "reading": "かせき", "gloss": "fossil" },
       { "word": "石像", "reading": "せきぞう", "gloss": "stone statue" },
       { "word": "石炭", "reading": "せきたん", "gloss": "coal" },
       { "word": "石油", "reading": "せきゆ", "gloss": "petroleum" }
@@ -719,7 +719,7 @@
     ],
     "meaning": "thousand",
     "examples": [
-      { "word": "千", "reading": "せん", "gloss": "1000" },
+      { "word": "千円", "reading": "せんえん", "gloss": "1000 yen" },
       { "word": "八千", "reading": "はっせん", "gloss": "8000" },
       { "word": "三千", "reading": "さんぜん", "gloss": "3000" },
       { "word": "千切れる", "reading": "ちぎれる", "gloss": "be torn off" }
@@ -733,7 +733,7 @@
     ],
     "meaning": "river",
     "examples": [
-      { "word": "川", "reading": "かわ", "gloss": "river" },
+      { "word": "小川", "reading": "おがわ", "gloss": "stream" },
       { "word": "川上", "reading": "かわかみ", "gloss": "upper reaches of a river" },
       { "word": "川下", "reading": "かわしも", "gloss": "downstream" },
       { "word": "河川", "reading": "かせん", "gloss": "rivers" }
@@ -747,7 +747,7 @@
     ],
     "meaning": "previous; ahead",
     "examples": [
-      { "word": "先", "reading": "さき", "gloss": "point, end, front, lead, former" },
+      { "word": "先程", "reading": "さきほど", "gloss": "a short while ago" },
       { "word": "店先", "reading": "みせさき", "gloss": "store front" },
       { "word": "先生", "reading": "せんせい", "gloss": "teacher, master, doctor" },
       { "word": "先週", "reading": "せんしゅう", "gloss": "last week" }
@@ -778,7 +778,7 @@
     ],
     "meaning": "grass",
     "examples": [
-      { "word": "草", "reading": "くさ", "gloss": "grass" },
+      { "word": "仕草", "reading": "しぐさ", "gloss": "gesture" },
       { "word": "草分け", "reading": "くさわけ", "gloss": "pioneer, trailblazer" },
       { "word": "草原", "reading": "そうげん", "gloss": "grass-covered plain, grasslands" },
       { "word": "草食", "reading": "そうしょく", "gloss": "herbivorous" }
@@ -794,7 +794,7 @@
     ],
     "meaning": "foot; leg",
     "examples": [
-      { "word": "足", "reading": "あし", "gloss": "leg" },
+      { "word": "足りる", "reading": "たりる", "gloss": "to be sufficient" },
       { "word": "足跡", "reading": "そくせき", "gloss": "footprints" },
       { "word": "遠足", "reading": "えんそく", "gloss": "field trip" },
       { "word": "自給自足", "reading": "じきゅうじそく", "gloss": "self-sufficiency" }
@@ -808,7 +808,7 @@
     ],
     "meaning": "village",
     "examples": [
-      { "word": "村", "reading": "むら", "gloss": "village" },
+      { "word": "市町村", "reading": "しちょうそん", "gloss": "cities, towns and villages" },
       { "word": "村人", "reading": "むらびと", "gloss": "villager" },
       { "word": "農村", "reading": "のうそん", "gloss": "farm village" },
       { "word": "漁村", "reading": "ぎょそん", "gloss": "fishing village" }
@@ -840,7 +840,7 @@
     ],
     "meaning": "man",
     "examples": [
-      { "word": "男", "reading": "おとこ", "gloss": "man" },
+      { "word": "男の子", "reading": "おとこのこ", "gloss": "boy" },
       { "word": "男子学生", "reading": "だんしがくせい", "gloss": "male student" },
       { "word": "男性", "reading": "だんせい", "gloss": "male" },
       { "word": "長男", "reading": "ちょうなん", "gloss": "eldest son" }
@@ -854,7 +854,7 @@
     ],
     "meaning": "bamboo",
     "examples": [
-      { "word": "竹", "reading": "たけ", "gloss": "bamboo" },
+      { "word": "爆竹", "reading": "ばくちく", "gloss": "firecracker" },
       { "word": "竹の子", "reading": "たけのこ", "gloss": "bamboo shoot" },
       { "word": "竹馬", "reading": "たけうま", "gloss": "stilts, bamboo horse" },
       { "word": "竹細工", "reading": "たけざいく", "gloss": "bamboo working/crafting" }
@@ -868,7 +868,7 @@
     ],
     "meaning": "middle; inside",
     "examples": [
-      { "word": "中", "reading": "なか", "gloss": "inside" },
+      { "word": "中心", "reading": "ちゅうしん", "gloss": "center" },
       { "word": "中村", "reading": "なかむら", "gloss": "Nakamura (surname)" },
       { "word": "中川", "reading": "なかがわ", "gloss": "Nakagawa (surname)" },
       { "word": "田中", "reading": "たなか", "gloss": "Tanaka (surname)" }
@@ -882,7 +882,7 @@
     ],
     "meaning": "insect; bug",
     "examples": [
-      { "word": "虫", "reading": "むし", "gloss": "insect" },
+      { "word": "昆虫", "reading": "こんちゅう", "gloss": "insect" },
       { "word": "虫歯", "reading": "むしば", "gloss": "(tooth) cavity" },
       { "word": "毛虫", "reading": "けむし", "gloss": "caterpillar" },
       { "word": "水虫", "reading": "みずむし", "gloss": "athlete's foot" }
@@ -896,7 +896,7 @@
     ],
     "meaning": "town",
     "examples": [
-      { "word": "町", "reading": "まち", "gloss": "town" },
+      { "word": "市町村", "reading": "しちょうそん", "gloss": "cities, towns and villages" },
       { "word": "町並み", "reading": "まちなみ", "gloss": "the appearance of a town/street" },
       { "word": "下町", "reading": "したまち", "gloss": "old commercial area of Tokyo" },
       { "word": "町長", "reading": "ちょうちょう", "gloss": "town headman" }
@@ -939,7 +939,7 @@
     ],
     "meaning": "soil; earth",
     "examples": [
-      { "word": "土", "reading": "つち", "gloss": "soil" },
+      { "word": "土地", "reading": "とち", "gloss": "plot of land" },
       { "word": "土色", "reading": "つちいろ", "gloss": "earth colored" },
       { "word": "土曜日", "reading": "どようび", "gloss": "Saturday" },
       { "word": "土日", "reading": "どにち", "gloss": "Saturday and Sunday" }
@@ -1044,7 +1044,7 @@
     ],
     "meaning": "hundred",
     "examples": [
-      { "word": "百", "reading": "ひゃく", "gloss": "100" },
+      { "word": "百円", "reading": "ひゃくえん", "gloss": "100 yen" },
       { "word": "百倍", "reading": "ひゃくばい", "gloss": "hundredfold" },
       { "word": "百姓", "reading": "ひゃくしょう", "gloss": "farmer" },
       { "word": "三百", "reading": "さんびゃく", "gloss": "300" }
@@ -1088,7 +1088,7 @@
     ],
     "meaning": "book; origin",
     "examples": [
-      { "word": "本", "reading": "ほん", "gloss": "book" },
+      { "word": "本当", "reading": "ほんとう", "gloss": "truth" },
       { "word": "本日", "reading": "ほんじつ", "gloss": "today" },
       { "word": "本店", "reading": "ほんてん", "gloss": "head office" },
       { "word": "本当に", "reading": "ほんとうに", "gloss": "really" }
@@ -1117,7 +1117,7 @@
     ],
     "meaning": "eye",
     "examples": [
-      { "word": "目", "reading": "め", "gloss": "eye" },
+      { "word": "目的", "reading": "もくてき", "gloss": "purpose" },
       { "word": "目を通す", "reading": "めをとおす", "gloss": "scan, look over" },
       { "word": "駄目な", "reading": "だめな", "gloss": "useless" },
       { "word": "真面目な", "reading": "まじめな", "gloss": "serious" }
@@ -1146,7 +1146,7 @@
     ],
     "meaning": "power; strength",
     "examples": [
-      { "word": "力", "reading": "ちから", "gloss": "force [n.]" },
+      { "word": "努力", "reading": "どりょく", "gloss": "effort" },
       { "word": "体力", "reading": "たいりょく", "gloss": "physical strength" },
       { "word": "能力", "reading": "のうりょく", "gloss": "ability" },
       { "word": "実力", "reading": "じつりょく", "gloss": "real ability" }
@@ -1160,7 +1160,7 @@
     ],
     "meaning": "woods; grove",
     "examples": [
-      { "word": "林", "reading": "はやし", "gloss": "woods, forest" },
+      { "word": "農林", "reading": "のうりん", "gloss": "agriculture and forestry" },
       { "word": "林業", "reading": "りんぎょう", "gloss": "forestry" },
       { "word": "森林", "reading": "しんりん", "gloss": "forest, woods" },
       { "word": "山林", "reading": "さんりん", "gloss": "mountain forest" }

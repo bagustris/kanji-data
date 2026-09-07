@@ -454,7 +454,7 @@
     ],
     "meaning": "lean; biased",
     "examples": [
-      { "word": "偏", "reading": "へん", "gloss": "radical on the left side of kanji" },
+      { "word": "偏差値", "reading": "へんさち", "gloss": "deviation value (usu. scaled to mean of 50, standard deviation of 10, and often used for academic grades)" },
       { "word": "偏見", "reading": "へんけん", "gloss": "prejudice, narrow view" },
       { "word": "偏食", "reading": "へんしょく", "gloss": "unbalanced diet" },
       { "word": "偏頭痛", "reading": "へんずつう", "gloss": "migraine headache" }
@@ -562,7 +562,7 @@
     ],
     "meaning": "I (masculine); servant",
     "examples": [
-      { "word": "僕", "reading": "ぼく", "gloss": "I (masculine)" },
+      { "word": "僕ら", "reading": "ぼくら", "gloss": "we" },
       { "word": "従僕", "reading": "じゅうぼく", "gloss": "servant" },
       { "word": "下僕", "reading": "げぼく", "gloss": "servant" },
       { "word": "公僕", "reading": "こうぼく", "gloss": "public servant" }
@@ -1595,7 +1595,7 @@
     ],
     "meaning": "tower; pagoda",
     "examples": [
-      { "word": "塔", "reading": "とう", "gloss": "tower" },
+      { "word": "管制塔", "reading": "かんせいとう", "gloss": "control tower" },
       { "word": "鉄塔", "reading": "てっとう", "gloss": "pylon, steel tower" },
       { "word": "仏塔", "reading": "ぶっとう", "gloss": "pagoda" },
       { "word": "卒塔婆", "reading": "そとうば", "gloss": "wooden grave tablet, stupa" }
@@ -1762,7 +1762,7 @@
     "meaning": "interior; depths",
     "examples": [
       { "word": "奥義", "reading": "おうぎ", "gloss": "secrets" },
-      { "word": "奥", "reading": "おく", "gloss": "inner, inmost" },
+      { "word": "奥様", "reading": "おくさま", "gloss": "wife" },
       { "word": "奥さん", "reading": "おくさん", "gloss": "wife" },
       { "word": "山奥", "reading": "やまおく", "gloss": "mountain recesses" }
     ]
@@ -1868,7 +1868,7 @@
     ],
     "meaning": "surname",
     "examples": [
-      { "word": "姓", "reading": "せい", "gloss": "surname, family name" },
+      { "word": "同姓", "reading": "どうせい", "gloss": "same surname" },
       { "word": "姓名", "reading": "せいめい", "gloss": "full name" },
       { "word": "旧姓", "reading": "きゅうせい", "gloss": "maiden name" },
       { "word": "同姓同名", "reading": "どうせいどうめい", "gloss": "same family & personal name" }
@@ -1902,7 +1902,7 @@
     ],
     "meaning": "daughter",
     "examples": [
-      { "word": "娘", "reading": "むすめ", "gloss": "daughter, girl" },
+      { "word": "一人娘", "reading": "ひとりむすめ", "gloss": "only daughter" },
       { "word": "娘心", "reading": "むすめごころ", "gloss": "girlish character" },
       { "word": "娘婿", "reading": "むすめむこ", "gloss": "son-in-law" },
       { "word": "孫娘", "reading": "まごむすめ", "gloss": "granddaughter" }
@@ -2107,7 +2107,7 @@
     ],
     "meaning": "dormitory",
     "examples": [
-      { "word": "寮", "reading": "りょう", "gloss": "hostel, dormitory" },
+      { "word": "寮費", "reading": "りょうひ", "gloss": "boarding expenses (for staying at a dormitory)" },
       { "word": "寮長", "reading": "りょうちょう", "gloss": "dormitory head" },
       { "word": "寮生", "reading": "りょうせい", "gloss": "boarder, boarding student" },
       { "word": "寮母", "reading": "りょうぼ", "gloss": "dorm mother" }
@@ -2128,7 +2128,7 @@
     ],
     "meaning": "seal",
     "examples": [
-      { "word": "封", "reading": "ふう", "gloss": "seal [n.]" },
+      { "word": "封筒", "reading": "ふうとう", "gloss": "envelope" },
       { "word": "封書", "reading": "ふうしょ", "gloss": "sealed letter" },
       { "word": "封印する", "reading": "ふういんする", "gloss": "seal [v.t.]" },
       { "word": "封鎖する", "reading": "ふうさする", "gloss": "blockade, seal off" }
@@ -2363,7 +2363,7 @@
     "meaning": "width",
     "examples": [
       { "word": "増幅する", "reading": "ぞうふくする", "gloss": "amplify" },
-      { "word": "幅", "reading": "はば", "gloss": "width, breadth" },
+      { "word": "大幅", "reading": "おおはば", "gloss": "big" },
       { "word": "幅跳び", "reading": "はばとび", "gloss": "long jump" },
       { "word": "横幅", "reading": "よこはば", "gloss": "breadth, width" }
     ]
@@ -2412,10 +2412,10 @@
     ],
     "meaning": "floor; bed",
     "examples": [
-      { "word": "床", "reading": "とこ", "gloss": "bed" },
+      { "word": "起床", "reading": "きしょう", "gloss": "rising (from one's bed)" },
       { "word": "床屋", "reading": "とこや", "gloss": "barber" },
       { "word": "床の間", "reading": "とこのま", "gloss": "alcove" },
-      { "word": "床", "reading": "ゆか", "gloss": "floor" }
+      { "word": "臨床", "reading": "りんしょう", "gloss": "clinical" }
     ]
   },
   {
@@ -2579,7 +2579,7 @@
     ],
     "meaning": "he; that",
     "examples": [
-      { "word": "彼", "reading": "かれ", "gloss": "he, boyfriend" },
+      { "word": "彼ら", "reading": "かれら", "gloss": "they" },
       { "word": "彼等", "reading": "かれら", "gloss": "they" },
       { "word": "彼氏", "reading": "かれし", "gloss": "boyfriend" },
       { "word": "彼女", "reading": "かのじょ", "gloss": "she, girl friend" }
@@ -2743,7 +2743,7 @@
     "examples": [
       { "word": "恋う", "reading": "こう", "gloss": "love [v.t.]" },
       { "word": "恋する", "reading": "こいする", "gloss": "love [v.t.]" },
-      { "word": "恋", "reading": "こい", "gloss": "love [n.]" },
+      { "word": "恋愛", "reading": "れんあい", "gloss": "love" },
       { "word": "恋人", "reading": "こいびと", "gloss": "lover" }
     ]
   },
@@ -2783,7 +2783,7 @@
     ],
     "meaning": "shame; embarrassed",
     "examples": [
-      { "word": "恥", "reading": "はじ", "gloss": "shame, embarrassment" },
+      { "word": "無恥", "reading": "むち", "gloss": "shameless" },
       { "word": "恥ずかしい", "reading": "はずかしい", "gloss": "shy, be embarrassed" },
       { "word": "恥じる", "reading": "はじる", "gloss": "feel ashamed" },
       { "word": "恥辱", "reading": "ちじょく", "gloss": "disgrace, shame" }

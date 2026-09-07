@@ -46,7 +46,7 @@
     ],
     "meaning": "feather; wing",
     "examples": [
-      { "word": "羽", "reading": "はね", "gloss": "feather, plume, wing" },
+      { "word": "羽根", "reading": "はね", "gloss": "feather" },
       { "word": "羽毛", "reading": "うもう", "gloss": "feathers, plumage, down" },
       { "word": "羽化する", "reading": "うかする", "gloss": "emerge (insects, etc.)" },
       { "word": "羽衣", "reading": "はごろも", "gloss": "angel's raiment" }
@@ -60,7 +60,7 @@
     ],
     "meaning": "cloud",
     "examples": [
-      { "word": "雲", "reading": "くも", "gloss": "cloud" },
+      { "word": "青雲", "reading": "せいうん", "gloss": "blue sky" },
       { "word": "雲行き", "reading": "くもゆき", "gloss": "weather, situation" },
       { "word": "雲海", "reading": "うんかい", "gloss": "sea of clouds" },
       { "word": "暗雲", "reading": "あんうん", "gloss": "dark clouds" }
@@ -103,7 +103,7 @@
     ],
     "meaning": "what",
     "examples": [
-      { "word": "何", "reading": "なに", "gloss": "what" },
+      { "word": "何度", "reading": "なんど", "gloss": "how many times" },
       { "word": "何色", "reading": "なにいろ", "gloss": "what color" },
       { "word": "何しろ", "reading": "なにしろ", "gloss": "at any rate, anyway" },
       { "word": "何か", "reading": "なにか", "gloss": "something" }
@@ -131,7 +131,7 @@
     ],
     "meaning": "summer",
     "examples": [
-      { "word": "夏", "reading": "なつ", "gloss": "summer" },
+      { "word": "夏休み", "reading": "なつやすみ", "gloss": "summer vacation" },
       { "word": "真夏", "reading": "まなつ", "gloss": "midsummer" },
       { "word": "常夏", "reading": "とこなつ", "gloss": "everlasting summer" },
       { "word": "夏期講座", "reading": "かきこうざ", "gloss": "course in summer term" }
@@ -148,7 +148,7 @@
     ],
     "meaning": "house",
     "examples": [
-      { "word": "家", "reading": "いえ", "gloss": "house" },
+      { "word": "家庭", "reading": "かてい", "gloss": "home" },
       { "word": "家出する", "reading": "いえでする", "gloss": "run away from home" },
       { "word": "家族", "reading": "かぞく", "gloss": "family" },
       { "word": "家内", "reading": "かない", "gloss": "wife" }
@@ -163,7 +163,7 @@
     ],
     "meaning": "song",
     "examples": [
-      { "word": "歌", "reading": "うた", "gloss": "song" },
+      { "word": "歌舞伎", "reading": "かぶき", "gloss": "kabuki" },
       { "word": "歌う", "reading": "うたう", "gloss": "sing" },
       { "word": "歌手", "reading": "かしゅ", "gloss": "singer" },
       { "word": "歌詞", "reading": "かし", "gloss": "song lyrics" }
@@ -223,7 +223,7 @@
     ],
     "meaning": "picture",
     "examples": [
-      { "word": "絵", "reading": "え", "gloss": "drawing, painting" },
+      { "word": "絵画", "reading": "かいが", "gloss": "painting" },
       { "word": "絵はがき", "reading": "えはがき", "gloss": "picture postcard" },
       { "word": "絵描き", "reading": "えかき", "gloss": "painter" },
       { "word": "絵本", "reading": "えほん", "gloss": "picture book" }
@@ -237,7 +237,7 @@
     ],
     "meaning": "sea",
     "examples": [
-      { "word": "海", "reading": "うみ", "gloss": "sea" },
+      { "word": "海外", "reading": "かいがい", "gloss": "foreign" },
       { "word": "海辺", "reading": "うみべ", "gloss": "beach" },
       { "word": "日本海", "reading": "にほんかい", "gloss": "Sea of Japan" },
       { "word": "航海", "reading": "こうかい", "gloss": "sailing" }
@@ -255,7 +255,7 @@
     ],
     "meaning": "outside",
     "examples": [
-      { "word": "外", "reading": "そと", "gloss": "outside" },
+      { "word": "海外", "reading": "かいがい", "gloss": "foreign" },
       { "word": "外国", "reading": "がいこく", "gloss": "foreign country" },
       { "word": "外部", "reading": "がいぶ", "gloss": "the outside" },
       { "word": "国外", "reading": "こくがい", "gloss": "outside the country" }
@@ -270,7 +270,7 @@
     ],
     "meaning": "corner",
     "examples": [
-      { "word": "角", "reading": "かど", "gloss": "corner" },
+      { "word": "多角", "reading": "たかく", "gloss": "many-sided" },
       { "word": "曲り角", "reading": "まがりかど", "gloss": "corner, turning point" },
       { "word": "四つ角", "reading": "よつかど", "gloss": "crossroads" },
       { "word": "角度", "reading": "かくど", "gloss": "angle" }
@@ -346,7 +346,7 @@
     ],
     "meaning": "rock",
     "examples": [
-      { "word": "岩", "reading": "いわ", "gloss": "rock, crag" },
+      { "word": "溶岩", "reading": "ようがん", "gloss": "lava" },
       { "word": "岩山", "reading": "いわやま", "gloss": "rocky mountain" },
       { "word": "岩石", "reading": "がんせき", "gloss": "rock [n.]" },
       { "word": "岩塩", "reading": "がんえん", "gloss": "rock salt" }
@@ -360,7 +360,7 @@
     ],
     "meaning": "face",
     "examples": [
-      { "word": "顔", "reading": "かお", "gloss": "(a person's) face" },
+      { "word": "笑顔", "reading": "えがお", "gloss": "smiling face" },
       { "word": "顔色", "reading": "かおいろ", "gloss": "complexion" },
       { "word": "洗顔する", "reading": "せんがんする", "gloss": "wash one's face" },
       { "word": "童顔", "reading": "どうがん", "gloss": "baby-faced" }
@@ -415,7 +415,7 @@
     ],
     "meaning": "bow (weapon)",
     "examples": [
-      { "word": "弓", "reading": "ゆみ", "gloss": "bow [n.]" },
+      { "word": "洋弓", "reading": "ようきゅう", "gloss": "(Western) archery" },
       { "word": "弓矢", "reading": "ゆみや", "gloss": "bow and arrow" },
       { "word": "弓形", "reading": "ゆみなり", "gloss": "arched, crescent-shaped" },
       { "word": "弓道", "reading": "きゅうどう", "gloss": "archery" }
@@ -429,7 +429,7 @@
     ],
     "meaning": "cow",
     "examples": [
-      { "word": "牛", "reading": "うし", "gloss": "cow" },
+      { "word": "牛歩", "reading": "ぎゅうほ", "gloss": "snail's pace" },
       { "word": "子牛", "reading": "こうし", "gloss": "calf" },
       { "word": "牛乳", "reading": "ぎゅうにゅう", "gloss": "(cow) milk" },
       { "word": "牛肉", "reading": "ぎゅうにく", "gloss": "beef" }
@@ -444,7 +444,7 @@
     ],
     "meaning": "fish",
     "examples": [
-      { "word": "魚", "reading": "さかな", "gloss": "fish [n.]" },
+      { "word": "金魚", "reading": "きんぎょ", "gloss": "goldfish (Carassius auratus)" },
       { "word": "魚屋", "reading": "さかなや", "gloss": "fish market, fish dealer" },
       { "word": "魚類", "reading": "ぎょるい", "gloss": "fish (as class of animal)" },
       { "word": "魚介類", "reading": "ぎょかいるい", "gloss": "marine products, seafood" }
@@ -522,7 +522,7 @@
     ],
     "meaning": "older brother",
     "examples": [
-      { "word": "兄", "reading": "あに", "gloss": "one's own older brother" },
+      { "word": "兄さん", "reading": "にいさん", "gloss": "older brother" },
       { "word": "父兄", "reading": "ふけい", "gloss": "guardians" },
       { "word": "兄弟", "reading": "きょうだい", "gloss": "siblings" },
       { "word": "*お兄さん", "reading": "おにいさん", "gloss": "older brother [hon.]" }
@@ -611,7 +611,7 @@
     ],
     "meaning": "door",
     "examples": [
-      { "word": "戸", "reading": "と", "gloss": "door" },
+      { "word": "井戸", "reading": "いど", "gloss": "water well" },
       { "word": "戸棚", "reading": "とだな", "gloss": "cupboard" },
       { "word": "戸籍", "reading": "こせき", "gloss": "census, family register" },
       { "word": "戸主", "reading": "こしゅ", "gloss": "head of a household" }
@@ -748,7 +748,7 @@
     ],
     "meaning": "light",
     "examples": [
-      { "word": "光", "reading": "ひかり", "gloss": "light [n.]" },
+      { "word": "光る", "reading": "ひかる", "gloss": "to shine" },
       { "word": "光線", "reading": "こうせん", "gloss": "light ray" },
       { "word": "光景", "reading": "こうけい", "gloss": "scene, spectacle" },
       { "word": "光年", "reading": "こうねん", "gloss": "light year" }
@@ -846,7 +846,7 @@
     ],
     "meaning": "valley",
     "examples": [
-      { "word": "谷", "reading": "たに", "gloss": "valley" },
+      { "word": "峡谷", "reading": "きょうこく", "gloss": "gorge" },
       { "word": "谷川", "reading": "たにがわ", "gloss": "valley river" },
       { "word": "谷間", "reading": "たにま", "gloss": "ravine, chasm, dell, valley" },
       { "word": "渓谷", "reading": "けいこく", "gloss": "valley, ravine, canyon" }
@@ -860,7 +860,7 @@
     ],
     "meaning": "country",
     "examples": [
-      { "word": "国", "reading": "くに", "gloss": "country" },
+      { "word": "中国", "reading": "ちゅうごく", "gloss": "China" },
       { "word": "国々", "reading": "くにぐに", "gloss": "countries" },
       { "word": "国際", "reading": "こくさい", "gloss": "international" },
       { "word": "国立", "reading": "こくりつ", "gloss": "nationally owned (institution)" }
@@ -890,7 +890,7 @@
     ],
     "meaning": "now",
     "examples": [
-      { "word": "今", "reading": "いま", "gloss": "now" },
+      { "word": "今日", "reading": "きょう", "gloss": "today" },
       { "word": "今風", "reading": "いまふう", "gloss": "modern style" },
       { "word": "今月", "reading": "こんげつ", "gloss": "this month" },
       { "word": "今週", "reading": "こんしゅう", "gloss": "this week" }
@@ -993,7 +993,7 @@
     ],
     "meaning": "arrow",
     "examples": [
-      { "word": "矢", "reading": "や", "gloss": "arrow" },
+      { "word": "無理矢理", "reading": "むりやり", "gloss": "forcibly" },
       { "word": "矢印", "reading": "やじるし", "gloss": "directional arrow" },
       { "word": "矢先", "reading": "やさき", "gloss": "arrowhead, brunt, target" },
       { "word": "弓矢", "reading": "ゆみや", "gloss": "bow and arrow" }
@@ -1007,7 +1007,7 @@
     ],
     "meaning": "older sister",
     "examples": [
-      { "word": "姉", "reading": "あね", "gloss": "one's own older sister" },
+      { "word": "お姉さん", "reading": "おねえさん", "gloss": "older sister" },
       { "word": "姉妹", "reading": "しまい", "gloss": "sisters" },
       { "word": "*お姉さん", "reading": "おねえさん", "gloss": "older sister [hon.]" }
     ]
@@ -1034,7 +1034,7 @@
     ],
     "meaning": "paper",
     "examples": [
-      { "word": "紙", "reading": "かみ", "gloss": "paper" },
+      { "word": "手紙", "reading": "てがみ", "gloss": "letter" },
       { "word": "白紙", "reading": "はくし", "gloss": "white paper" },
       { "word": "用紙", "reading": "ようし", "gloss": "blank form" },
       { "word": "表紙", "reading": "ひょうし", "gloss": "front cover" }
@@ -1048,7 +1048,7 @@
     ],
     "meaning": "temple",
     "examples": [
-      { "word": "寺", "reading": "てら", "gloss": "temple" },
+      { "word": "禅寺", "reading": "ぜんでら", "gloss": "Zen temple" },
       { "word": "寺参り", "reading": "てらまいり", "gloss": "ritual visits to a temple" },
       { "word": "寺院", "reading": "じいん", "gloss": "temple" },
       { "word": "社寺", "reading": "しゃじ", "gloss": "shrines and temples" }
@@ -1078,7 +1078,7 @@
     ],
     "meaning": "time",
     "examples": [
-      { "word": "時", "reading": "とき", "gloss": "time, occasion" },
+      { "word": "当時", "reading": "とうじ", "gloss": "at that time" },
       { "word": "時々", "reading": "ときどき", "gloss": "sometimes" },
       { "word": "時間", "reading": "じかん", "gloss": "time" },
       { "word": "時代", "reading": "じだい", "gloss": "era" }
@@ -1136,7 +1136,7 @@
     ],
     "meaning": "neck",
     "examples": [
-      { "word": "首", "reading": "くび", "gloss": "neck" },
+      { "word": "首相", "reading": "しゅしょう", "gloss": "prime minister" },
       { "word": "手首", "reading": "てくび", "gloss": "wrist" },
       { "word": "首都", "reading": "しゅと", "gloss": "capital city" },
       { "word": "首脳", "reading": "しゅのう", "gloss": "head, leader, chief" }
@@ -1150,7 +1150,7 @@
     ],
     "meaning": "autumn",
     "examples": [
-      { "word": "秋", "reading": "あき", "gloss": "autumn" },
+      { "word": "昨秋", "reading": "さくしゅう", "gloss": "autumn of last year" },
       { "word": "秋風", "reading": "あきかぜ", "gloss": "autumn breeze" },
       { "word": "秋学期", "reading": "あきがっき", "gloss": "autumn semester/quarter" },
       { "word": "秋分", "reading": "しゅうぶん", "gloss": "autumn equinox" }
@@ -1177,7 +1177,7 @@
     ],
     "meaning": "spring",
     "examples": [
-      { "word": "春", "reading": "はる", "gloss": "spring" },
+      { "word": "売春", "reading": "ばいしゅん", "gloss": "prostitution" },
       { "word": "春分の日", "reading": "しゅんぶんのひ", "gloss": "vernal equinox" },
       { "word": "青春", "reading": "せいしゅん", "gloss": "springtime of life" },
       { "word": "立春", "reading": "りっしゅん", "gloss": "1st day of spring" }
@@ -1264,7 +1264,7 @@
     ],
     "meaning": "heart; mind",
     "examples": [
-      { "word": "心", "reading": "こころ", "gloss": "heart, spirit" },
+      { "word": "中心", "reading": "ちゅうしん", "gloss": "center" },
       { "word": "心理学", "reading": "しんりがく", "gloss": "psychology" },
       { "word": "心臓病", "reading": "しんぞうびょう", "gloss": "heart disease" },
       { "word": "心臓まひ", "reading": "しんぞうまひ", "gloss": "heart attack" }
@@ -1295,7 +1295,7 @@
     ],
     "meaning": "parent",
     "examples": [
-      { "word": "親", "reading": "おや", "gloss": "parent" },
+      { "word": "両親", "reading": "りょうしん", "gloss": "parents" },
       { "word": "母親", "reading": "ははおや", "gloss": "mother" },
       { "word": "父親", "reading": "ちちおや", "gloss": "father" },
       { "word": "親会社", "reading": "おやがいしゃ", "gloss": "parent company" }
@@ -1341,7 +1341,7 @@
     ],
     "meaning": "west",
     "examples": [
-      { "word": "西", "reading": "にし", "gloss": "west" },
+      { "word": "関西", "reading": "かんさい", "gloss": "Kansai (region comprising Kyoto, Osaka, Kobe and surrounding prefectures)" },
       { "word": "西部", "reading": "せいぶ", "gloss": "western part" },
       { "word": "西洋", "reading": "せいよう", "gloss": "the West" },
       { "word": "西暦", "reading": "せいれき", "gloss": "Christian Era" }
@@ -1356,7 +1356,7 @@
     ],
     "meaning": "voice",
     "examples": [
-      { "word": "声", "reading": "こえ", "gloss": "voice" },
+      { "word": "大声", "reading": "おおごえ", "gloss": "loud voice" },
       { "word": "発声する", "reading": "はっせいする", "gloss": "make an utterance" },
       { "word": "音声", "reading": "おんせい", "gloss": "voice, sound" },
       { "word": "名声", "reading": "めいせい", "gloss": "fame" }
@@ -1370,7 +1370,7 @@
     ],
     "meaning": "star",
     "examples": [
-      { "word": "星", "reading": "ほし", "gloss": "star" },
+      { "word": "衛星", "reading": "えいせい", "gloss": "(natural) satellite" },
       { "word": "星占い", "reading": "ほしうらない", "gloss": "astrology, horoscope" },
       { "word": "星座", "reading": "せいざ", "gloss": "constellation" },
       { "word": "星雲", "reading": "せいうん", "gloss": "nebula, galaxy" }
@@ -1416,7 +1416,7 @@
     ],
     "meaning": "snow",
     "examples": [
-      { "word": "雪", "reading": "ゆき", "gloss": "snow" },
+      { "word": "積雪", "reading": "せきせつ", "gloss": "fallen snow" },
       { "word": "大雪", "reading": "おおゆき", "gloss": "heavy snow" },
       { "word": "初雪", "reading": "はつゆき", "gloss": "first snow (of season)" },
       { "word": "雪合戦", "reading": "ゆきがっせん", "gloss": "snowball fight" }
@@ -1430,7 +1430,7 @@
     ],
     "meaning": "boat; ship",
     "examples": [
-      { "word": "船", "reading": "ふね", "gloss": "ship, boat, watercraft, vessel" },
+      { "word": "漁船", "reading": "ぎょせん", "gloss": "fishing boat" },
       { "word": "船舶", "reading": "せんぱく", "gloss": "ship [n.]" },
       { "word": "船長", "reading": "せんちょう", "gloss": "ship's captain" },
       { "word": "汽船", "reading": "きせん", "gloss": "steamship" }
@@ -1444,7 +1444,7 @@
     ],
     "meaning": "line",
     "examples": [
-      { "word": "線", "reading": "せん", "gloss": "line [n.]" },
+      { "word": "視線", "reading": "しせん", "gloss": "one's line of sight" },
       { "word": "線路", "reading": "せんろ", "gloss": "train track" },
       { "word": "直線", "reading": "ちょくせん", "gloss": "straight line" },
       { "word": "曲線", "reading": "きょくせん", "gloss": "curve" }
@@ -1458,7 +1458,7 @@
     ],
     "meaning": "before; front",
     "examples": [
-      { "word": "前", "reading": "まえ", "gloss": "before, ago, former" },
+      { "word": "お前", "reading": "おまえ", "gloss": "you" },
       { "word": "この前", "reading": "このまえ", "gloss": "the other day" },
       { "word": "名前", "reading": "なまえ", "gloss": "name" },
       { "word": "手前", "reading": "てまえ", "gloss": "in front of oneself, this side" }
@@ -1473,7 +1473,7 @@
     ],
     "meaning": "group; class",
     "examples": [
-      { "word": "組", "reading": "くみ", "gloss": "class, team, set" },
+      { "word": "番組", "reading": "ばんぐみ", "gloss": "program (e.g. TV)" },
       { "word": "一年一組", "reading": "いちねんいちくみ", "gloss": "1st grade, homeroom 1" },
       { "word": "組合", "reading": "くみあい", "gloss": "union, association" },
       { "word": "組織する", "reading": "そしきする", "gloss": "organize" }
@@ -1532,7 +1532,7 @@
     ],
     "meaning": "body",
     "examples": [
-      { "word": "体", "reading": "からだ", "gloss": "body" },
+      { "word": "大体", "reading": "だいたい", "gloss": "generally" },
       { "word": "体中", "reading": "からだじゅう", "gloss": "throughout the body" },
       { "word": "体重", "reading": "たいじゅう", "gloss": "body weight" },
       { "word": "体力", "reading": "たいりょく", "gloss": "physical strength" }
@@ -1546,7 +1546,7 @@
     ],
     "meaning": "platform; counter",
     "examples": [
-      { "word": "台", "reading": "だい", "gloss": "stand, rack" },
+      { "word": "舞台", "reading": "ぶたい", "gloss": "stage (of a theatre, concert hall, etc.)" },
       { "word": "台座", "reading": "だいざ", "gloss": "pedestal" },
       { "word": "台所", "reading": "だいどころ", "gloss": "kitchen" },
       { "word": "台地", "reading": "だいち", "gloss": "plateau" }
@@ -1574,7 +1574,7 @@
     ],
     "meaning": "pond",
     "examples": [
-      { "word": "池", "reading": "いけ", "gloss": "pond" },
+      { "word": "乾電池", "reading": "かんでんち", "gloss": "dry cell battery" },
       { "word": "古池", "reading": "ふるいけ", "gloss": "old pond" },
       { "word": "電池", "reading": "でんち", "gloss": "battery" },
       { "word": "貯水池", "reading": "ちょすいち", "gloss": "reservoir" }
@@ -1617,7 +1617,7 @@
     ],
     "meaning": "daytime",
     "examples": [
-      { "word": "昼", "reading": "ひる", "gloss": "noon" },
+      { "word": "昼食", "reading": "ちゅうしょく", "gloss": "lunch" },
       { "word": "真昼", "reading": "まひる", "gloss": "midday" },
       { "word": "昼間", "reading": "ひるま", "gloss": "daytime" },
       { "word": "昼過ぎ", "reading": "ひるすぎ", "gloss": "afternoon" }
@@ -1646,7 +1646,7 @@
     ],
     "meaning": "bird",
     "examples": [
-      { "word": "鳥", "reading": "とり", "gloss": "bird, fowl, poultry" },
+      { "word": "白鳥", "reading": "はくちょう", "gloss": "swan (Cygnus spp.)" },
       { "word": "鳥居", "reading": "とりい", "gloss": "torii, gateway to a Shinto shrine" },
       { "word": "鳥肉", "reading": "とりにく", "gloss": "chicken meat" },
       { "word": "鳥類", "reading": "ちょうるい", "gloss": "birds, avian" }
@@ -1660,7 +1660,7 @@
     ],
     "meaning": "morning",
     "examples": [
-      { "word": "朝", "reading": "あさ", "gloss": "morning" },
+      { "word": "今朝", "reading": "けさ", "gloss": "this morning" },
       { "word": "毎朝", "reading": "まいあさ", "gloss": "every morning" },
       { "word": "朝日", "reading": "あさひ", "gloss": "morning sun" },
       { "word": "朝御飯", "reading": "あさごはん", "gloss": "breakfast" }
@@ -1711,7 +1711,7 @@
     ],
     "meaning": "younger brother",
     "examples": [
-      { "word": "弟", "reading": "おとうと", "gloss": "one's own younger brother" },
+      { "word": "従兄弟", "reading": "いとこ", "gloss": "cousin (male)" },
       { "word": "師弟", "reading": "してい", "gloss": "teacher and student" },
       { "word": "義弟", "reading": "ぎてい", "gloss": "younger brother-in-law" },
       { "word": "兄弟", "reading": "きょうだい", "gloss": "siblings" }
@@ -1726,7 +1726,7 @@
     ],
     "meaning": "shop",
     "examples": [
-      { "word": "店", "reading": "みせ", "gloss": "store [n.]" },
+      { "word": "商店街", "reading": "しょうてんがい", "gloss": "shopping district" },
       { "word": "店先", "reading": "みせさき", "gloss": "store front" },
       { "word": "商店", "reading": "しょうてん", "gloss": "shop [n.]" },
       { "word": "書店", "reading": "しょてん", "gloss": "bookstore" }
@@ -1739,7 +1739,7 @@
     ],
     "meaning": "point; dot",
     "examples": [
-      { "word": "点", "reading": "てん", "gloss": "point, dot" },
+      { "word": "時点", "reading": "じてん", "gloss": "point in time" },
       { "word": "点線", "reading": "てんせん", "gloss": "dotted line" },
       { "word": "点字", "reading": "てんじ", "gloss": "Braille" },
       { "word": "点数", "reading": "てんすう", "gloss": "points, grade, score" }
@@ -1767,7 +1767,7 @@
     ],
     "meaning": "sword",
     "examples": [
-      { "word": "刀", "reading": "かたな", "gloss": "sword, blade" },
+      { "word": "剃刀", "reading": "かみそり", "gloss": "razor" },
       { "word": "刀剣", "reading": "とうけん", "gloss": "swords" },
       { "word": "刀身", "reading": "とうしん", "gloss": "sword blade" },
       { "word": "名刀", "reading": "めいとう", "gloss": "famous sword, excellent sword" }
@@ -1781,7 +1781,7 @@
     ],
     "meaning": "winter",
     "examples": [
-      { "word": "冬", "reading": "ふゆ", "gloss": "winter" },
+      { "word": "冬季", "reading": "とうき", "gloss": "winter season" },
       { "word": "冬学期", "reading": "ふゆがっき", "gloss": "winter semester" },
       { "word": "真冬", "reading": "まふゆ", "gloss": "midwinter" },
       { "word": "冬期", "reading": "とうき", "gloss": "winter term" }
@@ -1811,7 +1811,7 @@
     ],
     "meaning": "east",
     "examples": [
-      { "word": "東", "reading": "ひがし", "gloss": "east" },
+      { "word": "東西", "reading": "とうざい", "gloss": "east and west" },
       { "word": "東京", "reading": "とうきょう", "gloss": "Tokyo" },
       { "word": "東部", "reading": "とうぶ", "gloss": "eastern part" },
       { "word": "東北", "reading": "とうほく", "gloss": "Touhoku" }
@@ -1841,7 +1841,7 @@
     ],
     "meaning": "head",
     "examples": [
-      { "word": "頭", "reading": "あたま", "gloss": "head" },
+      { "word": "冒頭", "reading": "ぼうとう", "gloss": "beginning" },
       { "word": "没頭する", "reading": "ぼっとうする", "gloss": "immerse oneself" },
       { "word": "頭部", "reading": "とうぶ", "gloss": "head" },
       { "word": "店頭", "reading": "てんとう", "gloss": "shop front" }
@@ -1869,7 +1869,7 @@
     ],
     "meaning": "road; way",
     "examples": [
-      { "word": "道", "reading": "みち", "gloss": "street" },
+      { "word": "道具", "reading": "どうぐ", "gloss": "tool" },
       { "word": "近道", "reading": "ちかみち", "gloss": "shortcut" },
       { "word": "道路", "reading": "どうろ", "gloss": "road" },
       { "word": "道場", "reading": "どうじょう", "gloss": "hall used for martial arts training" }
@@ -1916,7 +1916,7 @@
     ],
     "meaning": "south",
     "examples": [
-      { "word": "南", "reading": "みなみ", "gloss": "south" },
+      { "word": "南部", "reading": "なんぶ", "gloss": "southern part" },
       { "word": "南半球", "reading": "みなみはんきゅう", "gloss": "southern hemisphere" },
       { "word": "南極", "reading": "なんきょく", "gloss": "south pole" },
       { "word": "南北", "reading": "なんぼく", "gloss": "south and north" }
@@ -1944,7 +1944,7 @@
     ],
     "meaning": "horse",
     "examples": [
-      { "word": "馬", "reading": "うま", "gloss": "horse" },
+      { "word": "馬鹿", "reading": "ばか", "gloss": "idiot" },
       { "word": "馬車", "reading": "ばしゃ", "gloss": "horse-drawn vehicle" },
       { "word": "馬力", "reading": "ばりき", "gloss": "horse-power, h.p." },
       { "word": "乗馬", "reading": "じょうば", "gloss": "horseback riding" }
@@ -1987,7 +1987,7 @@
     ],
     "meaning": "wheat; barley",
     "examples": [
-      { "word": "麦", "reading": "むぎ", "gloss": "wheat, barley" },
+      { "word": "小麦粉", "reading": "こむぎこ", "gloss": "wheat flour" },
       { "word": "小麦", "reading": "こむぎ", "gloss": "wheat" },
       { "word": "大麦", "reading": "おおむぎ", "gloss": "barley" },
       { "word": "ライ麦", "reading": "ライむぎ", "gloss": "rye" }
@@ -2028,7 +2028,7 @@
     ],
     "meaning": "father",
     "examples": [
-      { "word": "父", "reading": "ちち", "gloss": "one's own father" },
+      { "word": "お父さん", "reading": "おとうさん", "gloss": "father" },
       { "word": "父親", "reading": "ちちおや", "gloss": "father" },
       { "word": "父母", "reading": "ふぼ", "gloss": "one's own father and mother" },
       { "word": "祖父", "reading": "そふ", "gloss": "one's own grandfather" }
@@ -2043,7 +2043,7 @@
     ],
     "meaning": "wind",
     "examples": [
-      { "word": "風", "reading": "かぜ", "gloss": "wind" },
+      { "word": "風呂", "reading": "ふろ", "gloss": "bath" },
       { "word": "北風", "reading": "きたかぜ", "gloss": "north wind" },
       { "word": "*風邪", "reading": "かぜ", "gloss": "cold (illness)" },
       { "word": "風習", "reading": "ふうしゅう", "gloss": "custom" }
@@ -2075,7 +2075,7 @@
     ],
     "meaning": "rice",
     "examples": [
-      { "word": "米", "reading": "こめ", "gloss": "uncooked rice" },
+      { "word": "欧米", "reading": "おうべい", "gloss": "Europe and the United States" },
       { "word": "米屋", "reading": "こめや", "gloss": "rice shop, rice dealer" },
       { "word": "米価", "reading": "べいか", "gloss": "rice price" },
       { "word": "米国", "reading": "べいこく", "gloss": "America, U.S.A." }
@@ -2107,7 +2107,7 @@
     ],
     "meaning": "mother",
     "examples": [
-      { "word": "母", "reading": "はは", "gloss": "one's own mother" },
+      { "word": "母さん", "reading": "かあさん", "gloss": "mother" },
       { "word": "母親", "reading": "ははおや", "gloss": "mother" },
       { "word": "母国語", "reading": "ぼこくご", "gloss": "mother tongue" },
       { "word": "母音", "reading": "ぼいん", "gloss": "vowel" }
@@ -2135,7 +2135,7 @@
     ],
     "meaning": "north",
     "examples": [
-      { "word": "北", "reading": "きた", "gloss": "north" },
+      { "word": "北海道", "reading": "ほっかいどう", "gloss": "Hokkaido (island, prefectural-level administrative unit)" },
       { "word": "北風", "reading": "きたかぜ", "gloss": "north wind" },
       { "word": "北半球", "reading": "きたはんきゅう", "gloss": "northern hemisphere" },
       { "word": "北部", "reading": "ほくぶ", "gloss": "northern part" }
@@ -2163,7 +2163,7 @@
     ],
     "meaning": "younger sister",
     "examples": [
-      { "word": "妹", "reading": "いもうと", "gloss": "one's own younger sister" },
+      { "word": "従姉妹", "reading": "いとこ", "gloss": "cousin (female)" },
       { "word": "姉妹", "reading": "しまい", "gloss": "sisters" },
       { "word": "姉妹校", "reading": "しまいこう", "gloss": "sister school" }
     ]
@@ -2224,7 +2224,7 @@
     ],
     "meaning": "hair; fur",
     "examples": [
-      { "word": "毛", "reading": "け", "gloss": "hair, fur" },
+      { "word": "毛皮", "reading": "けがわ", "gloss": "fur" },
       { "word": "毛糸", "reading": "けいと", "gloss": "knitting wool" },
       { "word": "髪の毛", "reading": "かみのけ", "gloss": "hair (on the head)" },
       { "word": "毛布", "reading": "もうふ", "gloss": "blanket" }
@@ -2238,7 +2238,7 @@
     ],
     "meaning": "gate",
     "examples": [
-      { "word": "門", "reading": "もん", "gloss": "gate" },
+      { "word": "専門家", "reading": "せんもんか", "gloss": "specialist" },
       { "word": "正門", "reading": "せいもん", "gloss": "main gate" },
       { "word": "校門", "reading": "こうもん", "gloss": "school gate" },
       { "word": "専門", "reading": "せんもん", "gloss": "speciality" }
@@ -2253,7 +2253,7 @@
     ],
     "meaning": "night",
     "examples": [
-      { "word": "夜", "reading": "よる", "gloss": "night" },
+      { "word": "夜中", "reading": "よなか", "gloss": "middle of the night" },
       { "word": "今夜", "reading": "こんや", "gloss": "tonight" },
       { "word": "深夜", "reading": "しんや", "gloss": "midnight" },
       { "word": "夜間", "reading": "やかん", "gloss": "nighttime" }
@@ -2337,7 +2337,7 @@
     ],
     "meaning": "village",
     "examples": [
-      { "word": "里", "reading": "さと", "gloss": "home, village" },
+      { "word": "古里", "reading": "ふるさと", "gloss": "hometown" },
       { "word": "里芋", "reading": "さといも", "gloss": "taro (type of tuber)" },
       { "word": "郷里", "reading": "きょうり", "gloss": "birth-place, home town" },
       { "word": "海里", "reading": "かいり", "gloss": "nautical mile, 1852m, 6080ft" }
