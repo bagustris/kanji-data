@@ -200,14 +200,14 @@
       "やす.む",
       "やす.まる",
       "やす.める",
-      "きゅう"
+      "やす.み"
     ],
     "meaning": "rest",
     "examples": [
       { "word": "休み", "reading": "やすみ", "gloss": "rest, absence, break, recess" },
       { "word": "休む", "reading": "やすむ", "gloss": "rest [v.i.]" },
       { "word": "休める", "reading": "やすめる", "gloss": "put to rest [v.t.]" },
-      { "word": "休日", "reading": "きゅうじつ", "gloss": "holiday" }
+      { "word": "休まる", "reading": "やすまる", "gloss": "to feel at ease, be relieved [v.i.]" }
     ]
   },
   {
@@ -303,7 +303,8 @@
     "kanji": "五",
     "readings": [
       "ご",
-      "いつ.つ"
+      "いつ.つ",
+      "いつ"
     ],
     "meaning": "five",
     "examples": [
@@ -359,7 +360,9 @@
     "kanji": "三",
     "readings": [
       "さん",
-      "みっ.つ"
+      "みっ.つ",
+      "み",
+      "み.つ"
     ],
     "meaning": "three",
     "examples": [
@@ -403,7 +406,9 @@
     "readings": [
       "よん",
       "よっ.つ",
-      "し"
+      "し",
+      "よ",
+      "よ.つ"
     ],
     "meaning": "four",
     "examples": [
@@ -473,6 +478,7 @@
     "kanji": "車",
     "readings": [
       "くるま",
+      "ぐるま",
       "しゃ"
     ],
     "meaning": "car; vehicle",
@@ -617,9 +623,7 @@
     "readings": [
       "ただ.しい",
       "ただ.す",
-      "しょう",
-      "せい",
-      "まさ"
+      "せい"
     ],
     "meaning": "correct; right",
     "examples": [
@@ -634,12 +638,7 @@
     "readings": [
       "う.む",
       "う.まれる",
-      "せい",
-      "い.かす",
-      "い.きる",
-      "い.ける",
-      "しょう",
-      "なま"
+      "せい"
     ],
     "meaning": "life; birth",
     "examples": [
@@ -821,6 +820,7 @@
       "おお.きい",
       "おお",
       "たい",
+      "おおいに",
       "だい"
     ],
     "meaning": "big",
@@ -828,7 +828,7 @@
       { "word": "大きい", "reading": "おおきい", "gloss": "big" },
       { "word": "大阪", "reading": "おおさか", "gloss": "Osaka" },
       { "word": "大学", "reading": "だいがく", "gloss": "university" },
-      { "word": "大学院", "reading": "だいがくいん", "gloss": "graduate school" }
+      { "word": "大いに", "reading": "おおいに", "gloss": "greatly, very" }
     ]
   },
   {
@@ -950,7 +950,6 @@
     "readings": [
       "に",
       "ふた.つ",
-      "じ",
       "ふた"
     ],
     "meaning": "two",
