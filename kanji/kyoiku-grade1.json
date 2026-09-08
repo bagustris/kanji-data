@@ -2,9 +2,9 @@
   {
     "kanji": "一",
     "readings": [
-      "いち",
+      "イチ",
       "ひと.つ",
-      "いつ",
+      "イツ",
       "ひと"
     ],
     "meaning": "one",
@@ -17,8 +17,8 @@
     "kanji": "右",
     "readings": [
       "みぎ",
-      "う",
-      "ゆう"
+      "ウ",
+      "ユウ"
     ],
     "meaning": "right",
     "examples": [
@@ -32,7 +32,7 @@
     "kanji": "雨",
     "readings": [
       "あめ",
-      "う"
+      "ウ"
     ],
     "meaning": "rain",
     "examples": [
@@ -45,7 +45,7 @@
   {
     "kanji": "円",
     "readings": [
-      "えん",
+      "エン",
       "まる",
       "まる.い"
     ],
@@ -60,7 +60,7 @@
   {
     "kanji": "王",
     "readings": [
-      "おう"
+      "オウ"
     ],
     "meaning": "king",
     "examples": [
@@ -74,7 +74,7 @@
     "kanji": "音",
     "readings": [
       "おと",
-      "おん",
+      "オン",
       "ね"
     ],
     "meaning": "sound",
@@ -91,11 +91,11 @@
       "した",
       "お.りる",
       "お.ろす",
-      "か",
+      "カ",
       "くだ.す",
       "くだ.る",
       "くだ.さる",
-      "げ",
+      "ゲ",
       "さ.げる",
       "さ.がる",
       "しも",
@@ -113,7 +113,7 @@
     "kanji": "火",
     "readings": [
       "ひ",
-      "か"
+      "カ"
     ],
     "meaning": "fire",
     "examples": [
@@ -127,7 +127,7 @@
     "kanji": "花",
     "readings": [
       "はな",
-      "か"
+      "カ"
     ],
     "meaning": "flower",
     "examples": [
@@ -141,7 +141,7 @@
     "kanji": "貝",
     "readings": [
       "かい",
-      "ばい"
+      "バイ"
     ],
     "meaning": "shellfish",
     "examples": [
@@ -154,7 +154,7 @@
     "kanji": "学",
     "readings": [
       "まな.ぶ",
-      "がく"
+      "ガク"
     ],
     "meaning": "study; learning",
     "examples": [
@@ -167,9 +167,9 @@
   {
     "kanji": "気",
     "readings": [
-      "き",
+      "キ",
       "いき",
-      "け"
+      "ケ"
     ],
     "meaning": "spirit; energy",
     "examples": [
@@ -182,9 +182,9 @@
   {
     "kanji": "九",
     "readings": [
-      "きゅう",
+      "キュウ",
       "ここの.つ",
-      "く"
+      "ク"
     ],
     "meaning": "nine",
     "examples": [
@@ -214,7 +214,7 @@
     "kanji": "玉",
     "readings": [
       "たま",
-      "ぎょく"
+      "ギョク"
     ],
     "meaning": "ball; jewel",
     "examples": [
@@ -227,7 +227,7 @@
   {
     "kanji": "金",
     "readings": [
-      "きん",
+      "キン",
       "かね"
     ],
     "meaning": "gold; money",
@@ -244,7 +244,7 @@
       "そら",
       "あ.く",
       "から",
-      "くう"
+      "クウ"
     ],
     "meaning": "sky; empty",
     "examples": [
@@ -258,8 +258,8 @@
     "kanji": "月",
     "readings": [
       "つき",
-      "がつ",
-      "げつ"
+      "ガツ",
+      "ゲツ"
     ],
     "meaning": "moon; month",
     "examples": [
@@ -273,7 +273,7 @@
     "kanji": "犬",
     "readings": [
       "いぬ",
-      "けん"
+      "ケン"
     ],
     "meaning": "dog",
     "examples": [
@@ -289,7 +289,7 @@
       "み.る",
       "み.える",
       "み.せる",
-      "けん"
+      "ケン"
     ],
     "meaning": "see",
     "examples": [
@@ -302,7 +302,7 @@
   {
     "kanji": "五",
     "readings": [
-      "ご",
+      "ゴ",
       "いつ.つ",
       "いつ"
     ],
@@ -318,8 +318,8 @@
     "kanji": "口",
     "readings": [
       "くち",
-      "こう",
-      "く"
+      "コウ",
+      "ク"
     ],
     "meaning": "mouth",
     "examples": [
@@ -332,7 +332,7 @@
   {
     "kanji": "校",
     "readings": [
-      "こう"
+      "コウ"
     ],
     "meaning": "school",
     "examples": [
@@ -346,7 +346,7 @@
     "kanji": "左",
     "readings": [
       "ひだり",
-      "さ"
+      "サ"
     ],
     "meaning": "left",
     "examples": [
@@ -359,7 +359,7 @@
   {
     "kanji": "三",
     "readings": [
-      "さん",
+      "サン",
       "みっ.つ",
       "み",
       "み.つ"
@@ -376,7 +376,7 @@
     "kanji": "山",
     "readings": [
       "やま",
-      "さん"
+      "サン"
     ],
     "meaning": "mountain",
     "examples": [
@@ -390,8 +390,8 @@
     "kanji": "子",
     "readings": [
       "こ",
-      "し",
-      "す"
+      "シ",
+      "ス"
     ],
     "meaning": "child",
     "examples": [
@@ -406,7 +406,7 @@
     "readings": [
       "よん",
       "よっ.つ",
-      "し",
+      "シ",
       "よ",
       "よ.つ"
     ],
@@ -422,7 +422,7 @@
     "kanji": "糸",
     "readings": [
       "いと",
-      "し"
+      "シ"
     ],
     "meaning": "thread",
     "examples": [
@@ -435,7 +435,7 @@
   {
     "kanji": "字",
     "readings": [
-      "じ",
+      "ジ",
       "あざ"
     ],
     "meaning": "character; letter",
@@ -450,7 +450,7 @@
     "kanji": "耳",
     "readings": [
       "みみ",
-      "じ"
+      "ジ"
     ],
     "meaning": "ear",
     "examples": [
@@ -462,7 +462,7 @@
   {
     "kanji": "七",
     "readings": [
-      "しち",
+      "シチ",
       "なな.つ",
       "なな"
     ],
@@ -479,7 +479,7 @@
     "readings": [
       "くるま",
       "ぐるま",
-      "しゃ"
+      "シャ"
     ],
     "meaning": "car; vehicle",
     "examples": [
@@ -493,7 +493,7 @@
     "kanji": "手",
     "readings": [
       "て",
-      "しゅ"
+      "シュ"
     ],
     "meaning": "hand",
     "examples": [
@@ -506,7 +506,7 @@
   {
     "kanji": "十",
     "readings": [
-      "じゅう",
+      "ジュウ",
       "とお"
     ],
     "meaning": "ten",
@@ -522,7 +522,7 @@
     "readings": [
       "だ.す",
       "で.る",
-      "しゅつ",
+      "シュツ",
       "で"
     ],
     "meaning": "go out; exit",
@@ -537,8 +537,8 @@
     "kanji": "女",
     "readings": [
       "おんな",
-      "じょ",
-      "にょ"
+      "ジョ",
+      "ニョ"
     ],
     "meaning": "woman",
     "examples": [
@@ -553,7 +553,7 @@
     "readings": [
       "ちい.さい",
       "こ",
-      "しょう"
+      "ショウ"
     ],
     "meaning": "small",
     "examples": [
@@ -567,7 +567,7 @@
       "うえ",
       "あ.がる",
       "あ.げる",
-      "じょう"
+      "ジョウ"
     ],
     "meaning": "above; up",
     "examples": [
@@ -581,7 +581,7 @@
     "kanji": "森",
     "readings": [
       "もり",
-      "しん"
+      "シン"
     ],
     "meaning": "forest",
     "examples": [
@@ -593,8 +593,8 @@
     "kanji": "人",
     "readings": [
       "ひと",
-      "じん",
-      "にん"
+      "ジン",
+      "ニン"
     ],
     "meaning": "person",
     "examples": [
@@ -608,7 +608,7 @@
     "kanji": "水",
     "readings": [
       "みず",
-      "すい"
+      "スイ"
     ],
     "meaning": "water",
     "examples": [
@@ -623,7 +623,7 @@
     "readings": [
       "ただ.しい",
       "ただ.す",
-      "せい"
+      "セイ"
     ],
     "meaning": "correct; right",
     "examples": [
@@ -638,7 +638,7 @@
     "readings": [
       "う.む",
       "う.まれる",
-      "せい"
+      "セイ"
     ],
     "meaning": "life; birth",
     "examples": [
@@ -652,8 +652,8 @@
     "readings": [
       "あお",
       "あお.い",
-      "しょう",
-      "せい"
+      "ショウ",
+      "セイ"
     ],
     "meaning": "blue",
     "examples": [
@@ -667,7 +667,7 @@
     "kanji": "夕",
     "readings": [
       "ゆう",
-      "せき"
+      "セキ"
     ],
     "meaning": "evening",
     "examples": [
@@ -681,9 +681,9 @@
     "kanji": "石",
     "readings": [
       "いし",
-      "こく",
-      "しゃく",
-      "せき"
+      "コク",
+      "シャク",
+      "セキ"
     ],
     "meaning": "stone",
     "examples": [
@@ -700,8 +700,8 @@
       "あか.い",
       "あか.らむ",
       "あか.らめる",
-      "しゃく",
-      "せき"
+      "シャク",
+      "セキ"
     ],
     "meaning": "red",
     "examples": [
@@ -714,7 +714,7 @@
   {
     "kanji": "千",
     "readings": [
-      "せん",
+      "セン",
       "ち"
     ],
     "meaning": "thousand",
@@ -729,7 +729,7 @@
     "kanji": "川",
     "readings": [
       "かわ",
-      "せん"
+      "セン"
     ],
     "meaning": "river",
     "examples": [
@@ -743,7 +743,7 @@
     "kanji": "先",
     "readings": [
       "さき",
-      "せん"
+      "セン"
     ],
     "meaning": "previous; ahead",
     "examples": [
@@ -759,7 +759,7 @@
       "はや.い",
       "はや.まる",
       "はや.める",
-      "そう",
+      "ソウ",
       "はや"
     ],
     "meaning": "early; fast",
@@ -774,7 +774,7 @@
     "kanji": "草",
     "readings": [
       "くさ",
-      "そう"
+      "ソウ"
     ],
     "meaning": "grass",
     "examples": [
@@ -788,7 +788,7 @@
     "kanji": "足",
     "readings": [
       "あし",
-      "そく",
+      "ソク",
       "た.す",
       "た.りる"
     ],
@@ -804,7 +804,7 @@
     "kanji": "村",
     "readings": [
       "むら",
-      "そん"
+      "ソン"
     ],
     "meaning": "village",
     "examples": [
@@ -819,9 +819,9 @@
     "readings": [
       "おお.きい",
       "おお",
-      "たい",
-      "おおいに",
-      "だい"
+      "タイ",
+      "おお.いに",
+      "ダイ"
     ],
     "meaning": "big",
     "examples": [
@@ -835,8 +835,8 @@
     "kanji": "男",
     "readings": [
       "おとこ",
-      "だん",
-      "なん"
+      "ダン",
+      "ナン"
     ],
     "meaning": "man",
     "examples": [
@@ -850,7 +850,7 @@
     "kanji": "竹",
     "readings": [
       "たけ",
-      "ちく"
+      "チク"
     ],
     "meaning": "bamboo",
     "examples": [
@@ -864,7 +864,7 @@
     "kanji": "中",
     "readings": [
       "なか",
-      "ちゅう"
+      "チュウ"
     ],
     "meaning": "middle; inside",
     "examples": [
@@ -878,7 +878,7 @@
     "kanji": "虫",
     "readings": [
       "むし",
-      "ちゅう"
+      "チュウ"
     ],
     "meaning": "insect; bug",
     "examples": [
@@ -892,7 +892,7 @@
     "kanji": "町",
     "readings": [
       "まち",
-      "ちょう"
+      "チョウ"
     ],
     "meaning": "town",
     "examples": [
@@ -905,7 +905,7 @@
   {
     "kanji": "天",
     "readings": [
-      "てん",
+      "テン",
       "あめ"
     ],
     "meaning": "heaven; sky",
@@ -920,7 +920,7 @@
     "kanji": "田",
     "readings": [
       "た",
-      "でん"
+      "デン"
     ],
     "meaning": "rice field",
     "examples": [
@@ -934,8 +934,8 @@
     "kanji": "土",
     "readings": [
       "つち",
-      "と",
-      "ど"
+      "ト",
+      "ド"
     ],
     "meaning": "soil; earth",
     "examples": [
@@ -948,7 +948,7 @@
   {
     "kanji": "二",
     "readings": [
-      "に",
+      "ニ",
       "ふた.つ",
       "ふた"
     ],
@@ -963,8 +963,8 @@
   {
     "kanji": "日",
     "readings": [
-      "にち",
-      "じつ",
+      "ニチ",
+      "ジツ",
       "ひ"
     ],
     "meaning": "sun; day",
@@ -981,8 +981,8 @@
       "い.れる",
       "い.る",
       "はい.る",
-      "いり",
-      "にゅう"
+      "い.り",
+      "ニュウ"
     ],
     "meaning": "enter",
     "examples": [
@@ -995,7 +995,7 @@
   {
     "kanji": "年",
     "readings": [
-      "ねん",
+      "ネン",
       "とし"
     ],
     "meaning": "year",
@@ -1011,7 +1011,7 @@
     "readings": [
       "しろ",
       "しろ.い",
-      "はく"
+      "ハク"
     ],
     "meaning": "white",
     "examples": [
@@ -1024,7 +1024,7 @@
   {
     "kanji": "八",
     "readings": [
-      "はち",
+      "ハチ",
       "やっ.つ",
       "よう"
     ],
@@ -1039,7 +1039,7 @@
   {
     "kanji": "百",
     "readings": [
-      "ひゃく",
+      "ヒャク",
       "もも"
     ],
     "meaning": "hundred",
@@ -1053,9 +1053,9 @@
   {
     "kanji": "文",
     "readings": [
-      "ぶん",
+      "ブン",
       "ふみ",
-      "もん"
+      "モン"
     ],
     "meaning": "sentence; writing",
     "examples": [
@@ -1068,9 +1068,9 @@
   {
     "kanji": "木",
     "readings": [
-      "もく",
+      "モク",
       "き",
-      "ぼく"
+      "ボク"
     ],
     "meaning": "tree; wood",
     "examples": [
@@ -1083,7 +1083,7 @@
   {
     "kanji": "本",
     "readings": [
-      "ほん",
+      "ホン",
       "もと"
     ],
     "meaning": "book; origin",
@@ -1098,8 +1098,8 @@
     "kanji": "名",
     "readings": [
       "な",
-      "みょう",
-      "めい"
+      "ミョウ",
+      "メイ"
     ],
     "meaning": "name",
     "examples": [
@@ -1113,7 +1113,7 @@
     "kanji": "目",
     "readings": [
       "め",
-      "もく"
+      "モク"
     ],
     "meaning": "eye",
     "examples": [
@@ -1128,8 +1128,8 @@
     "readings": [
       "た.つ",
       "た.てる",
-      "りつ",
-      "りゅう"
+      "リツ",
+      "リュウ"
     ],
     "meaning": "stand",
     "examples": [
@@ -1141,8 +1141,8 @@
     "kanji": "力",
     "readings": [
       "ちから",
-      "りき",
-      "りょく"
+      "リキ",
+      "リョク"
     ],
     "meaning": "power; strength",
     "examples": [
@@ -1156,7 +1156,7 @@
     "kanji": "林",
     "readings": [
       "はやし",
-      "りん"
+      "リン"
     ],
     "meaning": "woods; grove",
     "examples": [
@@ -1169,9 +1169,9 @@
   {
     "kanji": "六",
     "readings": [
-      "ろく",
+      "ロク",
       "むっ.つ",
-      "りく"
+      "リク"
     ],
     "meaning": "six",
     "examples": [

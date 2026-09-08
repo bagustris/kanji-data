@@ -35,7 +35,13 @@ kanji/
                           the per-domain files below, where those exist
   kyoiku-grade1.json .. kyoiku-grade9.json
                           Kyōiku/junior-high curriculum: kanji + readings +
-                          grade + a few example words, from kanji-drill
+                          grade + a few example words, from kanji-drill.
+                          Reading script carries meaning here: on'yomi in
+                          katakana (アツ), kun'yomi in hiragana with a "."
+                          at the okurigana boundary (なが.い). Consumers that
+                          compare readings must fold the two kana scripts
+                          first. words/ and sentences/ readings are plain
+                          hiragana.
 
 radicals/
   radicals_metadata.csv  Kangxi radical list (number, char, strokes, name,

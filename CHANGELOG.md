@@ -8,6 +8,23 @@ grouped chronologically until a first release is cut.
 
 ## [Unreleased]
 
+### Changed
+- `kanji/kyoiku-gradeN.json`: readings now encode their type in their script —
+  on'yomi in katakana, kun'yomi in hiragana — classified against KANJIDIC2
+  across all nine grades (2,107 readings rewritten). Eleven kun'yomi also had
+  their okurigana boundary normalized (後 うしろ → うし.ろ, 交 まじ.る →
+  ま.じる, 向 むか.う → む.かう, 確 たしか.める → たし.かめる, 混 まざ.る →
+  ま.ざる, 暮 くら.す → く.らす, 入 いり → い.り, ...); a dot the data already
+  recorded is never dropped, even where KANJIDIC also lists a bare form
+  (巻 ま.き stays). Word and sentence files are unchanged: their readings are
+  furigana, which is always hiragana.
+
+### Added
+- 12 readings attested by an entry's own `examples` but missing from its
+  `readings` (grades 3-9 only: 遊 ユ, 帯 お.びる, 冊 サク, 押 オウ, ...), found
+  by segmenting each example word's reading against KANJIDIC2 with
+  rendaku/gemination variants and keeping the reading actually used.
+
 ### Fixed
 - `kanji/kyoiku-grade2.json`: merged the duplicate 分 entry (there were two
   分 records, making the file 161 entries) into a single 160-char entry; the
